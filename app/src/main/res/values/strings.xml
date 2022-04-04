@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">EnglishQuiz</string>
 
+    <!--    Toasts -->
+    <string name="toast_correct">Правильно!</string>
+    <string name="toast_incorrect">Неправильно..</string>
+
     <!--    Buttons -->
     <string name="next_button">Next</string>
 </resources>

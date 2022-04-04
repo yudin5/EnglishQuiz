@@ -1,11 +1,12 @@
 package com.example.englishquiz
 
 import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.isVisible
 import com.example.englishquiz.R.string.*
 
@@ -96,7 +97,9 @@ class MainActivity : AppCompatActivity() {
         secondOptionButton.isEnabled = false
         explanationTextView.isVisible = true
 
-        if (userAnswer == questionBank[currentIndex].rightAnswerResId) {
+
+        val correctAnswer = userAnswer == questionBank[currentIndex].rightAnswerResId
+        if (correctAnswer) {
             if (userAnswer == firstOptionTextResId) {
                 firstOptionButton.setBackgroundColor(Color.GREEN)
                 secondOptionButton.setTextColor(Color.WHITE)
@@ -114,8 +117,12 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-//        val explResId = questionBank[currentIndex].explanationResId
-//        Toast.makeText(this, explResId, Toast.LENGTH_LONG)
-//            .show()
+        val toastMessageId = if (correctAnswer) {
+            toast_correct
+        } else {
+            toast_incorrect
+        }
+        Toast.makeText(this, toastMessageId, Toast.LENGTH_LONG)
+            .show()
     }
 }
