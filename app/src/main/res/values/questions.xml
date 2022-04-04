@@ -1,0 +1,15 @@
+<resources>
+
+    <!--    Questions, answers, explanations -->
+    <string name="q_1">My bike is OK now. I … it.</string>
+    <string name="q_1_op_1">\'ve repaired</string>
+    <string name="q_1_op_2">\'ve been repairing</string>
+    <string name="q_1_explanation">Нас интересует результат действия, поскольку велосипед в порядке сейчас - я его починил,
+        используем Present Perfect</string>
+
+    <string name="q_2">There … a lot of meetings in the last few days.</string>
+    <string name="q_2_op_1">have been</string>
+    <string name="q_2_op_2">were</string>
+    <string name="q_2_explanation">Последние несколько дней - период времени с какого-то момента в прошлом по настоящий момент,
+        соответственно есть связь с настоящим, используем Present Perfect</string>
+</resources>
