@@ -7,4 +7,9 @@
 
     <!--    Buttons -->
     <string name="next_button">Next</string>
+    <string name="exit_button">Exit</string>
+
+    <!--    Количество правильных ответов -->
+    <string name="statistics">Количество правильных ответов: 0 из 0</string>
+
 </resources>

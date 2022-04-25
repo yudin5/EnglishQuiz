@@ -12,4 +12,10 @@
     <string name="q_2_op_2">were</string>
     <string name="q_2_explanation">Последние несколько дней - период времени с какого-то момента в прошлом по настоящий момент,
         соответственно есть связь с настоящим, используем Present Perfect</string>
+
+    <string name="q_3">Либо плыви, либо тони</string>
+    <string name="q_3_op_1">ups and downs</string>
+    <string name="q_3_op_2">sink or swim</string>
+    <string name="q_3_explanation">ups and downs - взлёты и падения</string>
+
 </resources>

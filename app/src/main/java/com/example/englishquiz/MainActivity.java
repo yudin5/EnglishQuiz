@@ -14,24 +14,15 @@ public class MainActivity extends AppCompatActivity {
     private Button firstOptionButton;
     private Button secondOptionButton;
     private Button nextButton;
+    private Button exitButton;
     private TextView questionTextView;
     private TextView explanationTextView;
+    private TextView statisticsTextView;
 
-    private Question[] questionBank = new Question[]{
-            new Question(
-                    R.string.q_1,
-                    R.string.q_1_op_1,
-                    R.string.q_1_op_2,
-                    R.string.q_1_explanation,
-                    R.string.q_1_op_1),
-            new Question(
-                    R.string.q_2,
-                    R.string.q_2_op_1,
-                    R.string.q_2_op_2,
-                    R.string.q_2_explanation,
-                    R.string.q_2_op_1)
-    };
+    private int userCorrectAnswers = 0;
+    private int questionsAsked = 0;
 
+    private final Question[] questionBank = Questions.getQuestionBank();
     private int currentIndex = 0;
 
     @Override
@@ -46,6 +37,12 @@ public class MainActivity extends AppCompatActivity {
 
         explanationTextView = findViewById(R.id.explanation_text_view);
         explanationTextView.setVisibility(View.INVISIBLE);
+
+        statisticsTextView = findViewById(R.id.statistics_text_view);
+        statisticsTextView.setVisibility(View.INVISIBLE);
+
+        exitButton = findViewById(R.id.btn_exit);
+        exitButton.setOnClickListener(v -> finish());
 
         firstOptionButton.setOnClickListener(
                 view -> checkAnswer(questionBank[currentIndex].firstOptionResId)
@@ -91,10 +88,11 @@ public class MainActivity extends AppCompatActivity {
         firstOptionButton.setEnabled(false);
         secondOptionButton.setEnabled(false);
         explanationTextView.setVisibility(View.VISIBLE);
-
+        statisticsTextView.setVisibility(View.VISIBLE);
 
         boolean correctAnswer = userAnswer == questionBank[currentIndex].rightAnswerResId;
         if (correctAnswer) {
+            userCorrectAnswers++; // увеличиваем счётчик правильных ответов
             if (userAnswer == firstOptionTextResId) {
                 firstOptionButton.setBackgroundColor(Color.GREEN);
                 secondOptionButton.setTextColor(Color.WHITE);
@@ -111,9 +109,11 @@ public class MainActivity extends AppCompatActivity {
                 firstOptionButton.setTextColor(Color.WHITE);
             }
         }
+        questionsAsked++; // увеличиваем счётчик заданных вопросов
+        statisticsTextView.setText(String.format("Количество правильных ответов: %s из %s", userCorrectAnswers, questionsAsked));
 
         int toastMessageId = correctAnswer ? R.string.toast_correct : R.string.toast_incorrect;
-        Toast.makeText(this, toastMessageId, Toast.LENGTH_LONG).show();
+        Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();
     }
 
 }
