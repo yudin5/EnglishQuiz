@@ -42,14 +42,15 @@ public class MainActivity extends AppCompatActivity {
         statisticsTextView.setVisibility(View.INVISIBLE);
 
         exitButton = findViewById(R.id.btn_exit);
+        exitButton.setBackgroundColor(Color.BLUE);
         exitButton.setOnClickListener(v -> finish());
 
         firstOptionButton.setOnClickListener(
-                view -> checkAnswer(questionBank[currentIndex].firstOptionResId)
+                view -> checkAnswer(1)
         );
 
         secondOptionButton.setOnClickListener(
-                view -> checkAnswer(questionBank[currentIndex].secondOptionResId)
+                view -> checkAnswer(2)
         );
 
         nextButton.setOnClickListener(view -> {
@@ -81,19 +82,22 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView.setVisibility(View.INVISIBLE);
     }
 
+    // Принимает какую кнопку нажал пользователь, 1 - первую, 2 - вторую
     private void checkAnswer(int userAnswer) {
-
-        int firstOptionTextResId = questionBank[currentIndex].firstOptionResId;
 
         firstOptionButton.setEnabled(false);
         secondOptionButton.setEnabled(false);
         explanationTextView.setVisibility(View.VISIBLE);
         statisticsTextView.setVisibility(View.VISIBLE);
 
-        boolean correctAnswer = userAnswer == questionBank[currentIndex].rightAnswerResId;
-        if (correctAnswer) {
+        // Это просто, чтобы вытащить "1" или "2", то есть получить правильный ответ. Фейспалм.
+        int rightAnswer = Integer.parseInt(getString(questionBank[currentIndex].rightAnswer));
+
+        boolean isUserAnswerCorrect = (userAnswer == rightAnswer);
+
+        if (isUserAnswerCorrect) {
             userCorrectAnswers++; // увеличиваем счётчик правильных ответов
-            if (userAnswer == firstOptionTextResId) {
+            if (userAnswer == 1) {
                 firstOptionButton.setBackgroundColor(Color.GREEN);
                 secondOptionButton.setTextColor(Color.WHITE);
             } else {
@@ -101,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
                 firstOptionButton.setTextColor(Color.WHITE);
             }
         } else {
-            if (userAnswer == firstOptionTextResId) {
+            if (userAnswer == 1) {
                 firstOptionButton.setBackgroundColor(Color.RED);
                 secondOptionButton.setTextColor(Color.WHITE);
             } else {
@@ -112,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
         questionsAsked++; // увеличиваем счётчик заданных вопросов
         statisticsTextView.setText(String.format("Количество правильных ответов: %s из %s", userCorrectAnswers, questionsAsked));
 
-        int toastMessageId = correctAnswer ? R.string.toast_correct : R.string.toast_incorrect;
+        int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
         Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();
     }
 

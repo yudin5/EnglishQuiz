@@ -5,17 +5,17 @@ public class Question {
     int firstOptionResId;
     int secondOptionResId;
     int explanationResId;
-    int rightAnswerResId;
+    int rightAnswer;
 
     public Question(int questionResId,
                     int firstOptionResId,
                     int secondOptionResId,
                     int explanationResId,
-                    int rightAnswerResId) {
+                    int rightAnswer) {
         this.questionResId = questionResId;
         this.firstOptionResId = firstOptionResId;
         this.secondOptionResId = secondOptionResId;
         this.explanationResId = explanationResId;
-        this.rightAnswerResId = rightAnswerResId;
+        this.rightAnswer = rightAnswer;
     }
 }

@@ -4,18 +4,49 @@
     <string name="q_1">My bike is OK now. I … it.</string>
     <string name="q_1_op_1">\'ve repaired</string>
     <string name="q_1_op_2">\'ve been repairing</string>
-    <string name="q_1_explanation">Нас интересует результат действия, поскольку велосипед в порядке сейчас - я его починил,
-        используем Present Perfect</string>
+    <string name="q_1_explanation">Нас интересует результат действия, поскольку велосипед в порядке сейчас - я его починил, используем Present Perfect</string>
+    <string name="q_1_answer">1</string>
 
     <string name="q_2">There … a lot of meetings in the last few days.</string>
     <string name="q_2_op_1">have been</string>
     <string name="q_2_op_2">were</string>
-    <string name="q_2_explanation">Последние несколько дней - период времени с какого-то момента в прошлом по настоящий момент,
-        соответственно есть связь с настоящим, используем Present Perfect</string>
+    <string name="q_2_explanation">Последние несколько дней - период времени с какого-то момента в прошлом по настоящий момент, соответственно есть связь с настоящим, используем Present Perfect</string>
+    <string name="q_2_answer">1</string>
 
     <string name="q_3">Либо плыви, либо тони</string>
     <string name="q_3_op_1">ups and downs</string>
     <string name="q_3_op_2">sink or swim</string>
     <string name="q_3_explanation">ups and downs - взлёты и падения</string>
+    <string name="q_3_answer">2</string>
+
+    <string name="q_4">Оборваться (о связи, звонке)</string>
+    <string name="q_4_op_1">go dead</string>
+    <string name="q_4_op_2">switch off</string>
+    <string name="q_4_explanation">switch off - выключить</string>
+    <string name="q_4_answer">1</string>
+
+    <string name="q_5">Продвинуться вперёд, преуспеть</string>
+    <string name="q_5_op_1">trigger</string>
+    <string name="q_5_op_2">get ahead</string>
+    <string name="q_5_explanation">trigger - дать толчок, спровоцировать</string>
+    <string name="q_5_answer">2</string>
+
+    <string name="q_6">I’ll phone you tomorrow… usual.</string>
+    <string name="q_6_op_1">as</string>
+    <string name="q_6_op_2">like</string>
+    <string name="q_6_explanation">Устойчивое выражение \'as usual\'. Like использовать нельзя</string>
+    <string name="q_6_answer">1</string>
+
+    <string name="q_7">Why didn’t you do it …. I told you to do it?</string>
+    <string name="q_7_op_1">like</string>
+    <string name="q_7_op_2">as</string>
+    <string name="q_7_explanation">Используем \'as\', так как дальше идёт подлежащее + глагол</string>
+    <string name="q_7_answer">2</string>
+
+    <string name="q_8">Tim gets on my nerves. I can’t stand people …</string>
+    <string name="q_8_op_1">like him</string>
+    <string name="q_8_op_2">as him</string>
+    <string name="q_8_explanation">Значение \'похожий, аналогичный\' - используем \'like\'</string>
+    <string name="q_8_answer">1</string>
 
 </resources>

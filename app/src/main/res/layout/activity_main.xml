@@ -23,7 +23,7 @@
         android:padding="10dp"
         android:textAlignment="textStart"
         android:textColor="@color/black"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -52,6 +52,7 @@
             android:backgroundTint="#5C6BC0"
             android:paddingStart="10dp"
             android:text="@string/q_1_op_1"
+            android:textSize="16sp"
             app:cornerRadius="10sp"
             app:strokeWidth="1sp" />
 
@@ -63,6 +64,7 @@
             android:backgroundTint="#5C6BC0"
             android:paddingStart="10dp"
             android:text="@string/q_1_op_2"
+            android:textSize="16sp"
             app:cornerRadius="10sp"
             app:strokeWidth="1sp" />
 
@@ -79,6 +81,7 @@
         android:drawablePadding="4dp"
         android:text="@string/next_button"
         android:textColor="@color/black"
+        android:textSize="16sp"
         app:cornerRadius="10sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -127,6 +130,7 @@
         android:backgroundTint="#5C6BC0"
         android:paddingStart="10dp"
         android:text="@string/exit_button"
+        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:strokeWidth="1sp" />
