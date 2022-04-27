@@ -10,6 +10,7 @@
     <string name="exit_button">Exit</string>
 
     <!--    Количество правильных ответов -->
-    <string name="statistics">Количество правильных ответов: 0 из 0</string>
+    <string name="questions_asked">Задано вопросов: 0</string>
+    <string name="right_answers">Правильных ответов: 0</string>
 
 </resources>

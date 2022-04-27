@@ -49,4 +49,28 @@
     <string name="q_8_explanation">Значение \'похожий, аналогичный\' - используем \'like\'</string>
     <string name="q_8_answer">1</string>
 
+    <string name="q_9">Вбивать, втемяшивать:</string>
+    <string name="q_9_op_1">step in</string>
+    <string name="q_9_op_2">drum into</string>
+    <string name="q_9_explanation">step in - вмешиваться</string>
+    <string name="q_9_answer">2</string>
+
+    <string name="q_10">Критерий, мерка:</string>
+    <string name="q_10_op_1">trait</string>
+    <string name="q_10_op_2">yardstick</string>
+    <string name="q_10_explanation">trait - черта характера</string>
+    <string name="q_10_answer">2</string>
+
+    <string name="q_11">Брать себе лучшее:</string>
+    <string name="q_11_op_1">cream off</string>
+    <string name="q_11_op_2">rip off</string>
+    <string name="q_11_explanation">rip off - ободрать, обманом выманить деньги</string>
+    <string name="q_11_answer">1</string>
+
+    <string name="q_12">You can go out … you are.</string>
+    <string name="q_12_op_1">as</string>
+    <string name="q_12_op_2">like</string>
+    <string name="q_12_explanation">Перед подлежащим + глаголом используем \'as\'. Однако в значении \'в таком же состонии\' также можно использовать \'like\' в неформальном разговорном английском</string>
+    <string name="q_12_answer">1</string>
+
 </resources>

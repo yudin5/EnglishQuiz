@@ -17,7 +17,9 @@ public class MainActivity extends AppCompatActivity {
     private Button exitButton;
     private TextView questionTextView;
     private TextView explanationTextView;
-    private TextView statisticsTextView;
+
+    private TextView questionAskedQuantity;
+    private TextView rightAnswersQuantity;
 
     private int userCorrectAnswers = 0;
     private int questionsAsked = 0;
@@ -38,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView = findViewById(R.id.explanation_text_view);
         explanationTextView.setVisibility(View.INVISIBLE);
 
-        statisticsTextView = findViewById(R.id.statistics_text_view);
-        statisticsTextView.setVisibility(View.INVISIBLE);
+        questionAskedQuantity = findViewById(R.id.question_asked_qantity);
+        rightAnswersQuantity = findViewById(R.id.right_answers_quantity);
 
         exitButton = findViewById(R.id.btn_exit);
         exitButton.setBackgroundColor(Color.BLUE);
@@ -88,7 +90,6 @@ public class MainActivity extends AppCompatActivity {
         firstOptionButton.setEnabled(false);
         secondOptionButton.setEnabled(false);
         explanationTextView.setVisibility(View.VISIBLE);
-        statisticsTextView.setVisibility(View.VISIBLE);
 
         // Это просто, чтобы вытащить "1" или "2", то есть получить правильный ответ. Фейспалм.
         int rightAnswer = Integer.parseInt(getString(questionBank[currentIndex].rightAnswer));
@@ -114,7 +115,8 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         questionsAsked++; // увеличиваем счётчик заданных вопросов
-        statisticsTextView.setText(String.format("Количество правильных ответов: %s из %s", userCorrectAnswers, questionsAsked));
+        questionAskedQuantity.setText(String.format("Задано вопросов: %s", questionsAsked));
+        rightAnswersQuantity.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
 
         int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
         Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();
