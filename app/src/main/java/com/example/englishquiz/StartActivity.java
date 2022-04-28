@@ -23,5 +23,12 @@ public class StartActivity extends AppCompatActivity {
         // Кнопка "Выход"
         Button btnExit = findViewById(R.id.btn_exit_complete);
         btnExit.setOnClickListener(v -> finish());
+
+        // Кнопка "О приложении"
+        Button btnAbout = findViewById(R.id.btn_about);
+        btnAbout.setOnClickListener(v -> {
+            Intent intent = new Intent(StartActivity.this, AboutActivity.class);
+            startActivity(intent);
+        });
     }
 }
