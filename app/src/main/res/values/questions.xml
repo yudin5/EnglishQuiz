@@ -70,7 +70,7 @@
     <string name="q_12">You can go out … you are.</string>
     <string name="q_12_op_1">as</string>
     <string name="q_12_op_2">like</string>
-    <string name="q_12_explanation">Перед подлежащим + глаголом используем \'as\'. Однако в значении \'в таком же состонии\' также можно использовать \'like\' в неформальном разговорном английском</string>
+    <string name="q_12_explanation">Перед подлежащим + глаголом используем \'as\'. Однако в значении \'в таком же состоянии\' также можно использовать \'like\' в неформальном разговорном английском</string>
     <string name="q_12_answer">1</string>
 
 </resources>

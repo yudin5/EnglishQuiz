@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView = findViewById(R.id.explanation_text_view);
         explanationTextView.setVisibility(View.INVISIBLE);
 
-        questionAskedQuantity = findViewById(R.id.question_asked_qantity);
+        questionAskedQuantity = findViewById(R.id.question_asked_quantity);
         rightAnswersQuantity = findViewById(R.id.right_answers_quantity);
 
         exitButton = findViewById(R.id.btn_exit);
