@@ -18,6 +18,7 @@ public class StartActivity extends AppCompatActivity {
         btnStart.setOnClickListener(v -> {
             Intent intent = new Intent(StartActivity.this, MainActivity.class);
             startActivity(intent);
+            finish();
         });
 
         // Кнопка "Выход"

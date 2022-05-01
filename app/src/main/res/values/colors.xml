@@ -7,8 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="bg">#CCECF1F1</color>
-    <color name="btn_color_default">#D1E8E1</color>
+    <color name="bg">#CCEBEEF1</color>
+    <color name="btn_color_default">#ADC0EB</color>
     <color name="right_answer_bg">#80D06F</color>
     <color name="wrong_answer_bg">#F16969</color>
 </resources>

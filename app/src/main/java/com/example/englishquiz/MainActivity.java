@@ -1,5 +1,8 @@
 package com.example.englishquiz;
 
+import static com.example.englishquiz.FinishActivity.USER_CORRECT_ANSWERS_QUANTITY;
+
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -15,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView questionTextView;
     private TextView explanationTextView;
 
-    private TextView questionAskedQuantity;
-    private TextView rightAnswersQuantity;
+    private TextView questionAskedQuantityTextView;
+    private TextView rightAnswersQuantityTextView;
 
     private int userCorrectAnswers = 0;
     private int questionsAsked = 0;
@@ -36,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView = findViewById(R.id.explanation_text_view);
         explanationTextView.setVisibility(View.INVISIBLE);
 
-        questionAskedQuantity = findViewById(R.id.question_asked_quantity);
-        rightAnswersQuantity = findViewById(R.id.right_answers_quantity);
+        questionAskedQuantityTextView = findViewById(R.id.question_asked_quantity);
+        rightAnswersQuantityTextView = findViewById(R.id.right_answers_quantity);
 
         firstOptionButton.setOnClickListener(
                 view -> checkAnswer(1)
@@ -50,14 +53,24 @@ public class MainActivity extends AppCompatActivity {
         // Кнопка "Next"
         Button nextButton = findViewById(R.id.next_button);
         nextButton.setOnClickListener(view -> {
-                    currentIndex = (currentIndex + 1) % questionBank.length;
-                    updateQuestion();
+                    if (questionsAsked >= 10) {
+                        Intent intent = FinishActivity.newIntent(MainActivity.this, userCorrectAnswers);
+                        startActivity(intent);
+                        finish();
+                    } else {
+                        currentIndex = (currentIndex + 1) % questionBank.length;
+                        updateQuestion();
+                    }
                 }
         );
 
-        // Кнопка "Exit"
+        // Кнопка "Exit" -> выход в меню
         Button exitButton = findViewById(R.id.btn_exit);
-        exitButton.setOnClickListener(v -> finish());
+        exitButton.setOnClickListener(v -> {
+            Intent intent = new Intent(this, StartActivity.class);
+            startActivity(intent);
+            finish();
+        });
 
         updateQuestion();
     }
@@ -70,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
 
         questionTextView.setText(questionTextResId);
         int btnColorDefault = getResources().getColor(R.color.btn_color_default);
-
 
         firstOptionButton.setText(firstOptionTextResId);
         firstOptionButton.setBackgroundColor(btnColorDefault);
@@ -113,8 +125,8 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         questionsAsked++; // увеличиваем счётчик заданных вопросов
-        questionAskedQuantity.setText(String.format("Задано вопросов: %s", questionsAsked));
-        rightAnswersQuantity.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
+        questionAskedQuantityTextView.setText(String.format("Задано вопросов: %s", questionsAsked));
+        rightAnswersQuantityTextView.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
 
         int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
         Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();
