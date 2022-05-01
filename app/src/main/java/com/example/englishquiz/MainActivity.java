@@ -1,6 +1,5 @@
 package com.example.englishquiz;
 
-import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -13,8 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
     private Button firstOptionButton;
     private Button secondOptionButton;
-    private Button nextButton;
-    private Button exitButton;
     private TextView questionTextView;
     private TextView explanationTextView;
 
@@ -34,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
         firstOptionButton = findViewById(R.id.first_option_button);
         secondOptionButton = findViewById(R.id.second_option_button);
-        nextButton = findViewById(R.id.next_button);
         questionTextView = findViewById(R.id.question_text_view);
 
         explanationTextView = findViewById(R.id.explanation_text_view);
@@ -42,10 +38,6 @@ public class MainActivity extends AppCompatActivity {
 
         questionAskedQuantity = findViewById(R.id.question_asked_quantity);
         rightAnswersQuantity = findViewById(R.id.right_answers_quantity);
-
-        exitButton = findViewById(R.id.btn_exit);
-        exitButton.setBackgroundColor(Color.BLUE);
-        exitButton.setOnClickListener(v -> finish());
 
         firstOptionButton.setOnClickListener(
                 view -> checkAnswer(1)
@@ -55,11 +47,17 @@ public class MainActivity extends AppCompatActivity {
                 view -> checkAnswer(2)
         );
 
+        // Кнопка "Next"
+        Button nextButton = findViewById(R.id.next_button);
         nextButton.setOnClickListener(view -> {
                     currentIndex = (currentIndex + 1) % questionBank.length;
                     updateQuestion();
                 }
         );
+
+        // Кнопка "Exit"
+        Button exitButton = findViewById(R.id.btn_exit);
+        exitButton.setOnClickListener(v -> finish());
 
         updateQuestion();
     }
@@ -71,13 +69,15 @@ public class MainActivity extends AppCompatActivity {
         int explanationTestResId = questionBank[currentIndex].explanationResId;
 
         questionTextView.setText(questionTextResId);
+        int btnColorDefault = getResources().getColor(R.color.btn_color_default);
+
 
         firstOptionButton.setText(firstOptionTextResId);
-        firstOptionButton.setBackgroundColor(Color.BLUE);
+        firstOptionButton.setBackgroundColor(btnColorDefault);
         firstOptionButton.setEnabled(true);
 
         secondOptionButton.setText(secondOptionTextResId);
-        secondOptionButton.setBackgroundColor(Color.BLUE);
+        secondOptionButton.setBackgroundColor(btnColorDefault);
         secondOptionButton.setEnabled(true);
 
         explanationTextView.setText(explanationTestResId);
@@ -97,21 +97,19 @@ public class MainActivity extends AppCompatActivity {
         boolean isUserAnswerCorrect = (userAnswer == rightAnswer);
 
         if (isUserAnswerCorrect) {
+            int colorRightAnswerBg = getResources().getColor(R.color.right_answer_bg);
             userCorrectAnswers++; // увеличиваем счётчик правильных ответов
             if (userAnswer == 1) {
-                firstOptionButton.setBackgroundColor(Color.GREEN);
-                secondOptionButton.setTextColor(Color.WHITE);
+                firstOptionButton.setBackgroundColor(colorRightAnswerBg);
             } else {
-                secondOptionButton.setBackgroundColor(Color.GREEN);
-                firstOptionButton.setTextColor(Color.WHITE);
+                secondOptionButton.setBackgroundColor(colorRightAnswerBg);
             }
         } else {
+            int colorWrongAnswerBg = getResources().getColor(R.color.wrong_answer_bg);
             if (userAnswer == 1) {
-                firstOptionButton.setBackgroundColor(Color.RED);
-                secondOptionButton.setTextColor(Color.WHITE);
+                firstOptionButton.setBackgroundColor(colorWrongAnswerBg);
             } else {
-                secondOptionButton.setBackgroundColor(Color.RED);
-                firstOptionButton.setTextColor(Color.WHITE);
+                secondOptionButton.setBackgroundColor(colorWrongAnswerBg);
             }
         }
         questionsAsked++; // увеличиваем счётчик заданных вопросов
