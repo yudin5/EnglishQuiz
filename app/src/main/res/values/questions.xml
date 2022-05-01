@@ -2,8 +2,8 @@
 
     <!--    Questions, answers, explanations -->
     <string name="q_1">My bike is OK now. I … it.</string>
-    <string name="q_1_op_1">\'ve repaired</string>
-    <string name="q_1_op_2">\'ve been repairing</string>
+    <string name="q_1_op_1">\have repaired</string>
+    <string name="q_1_op_2">\have been repairing</string>
     <string name="q_1_explanation">Нас интересует результат действия, поскольку велосипед в порядке сейчас - я его починил, используем Present Perfect</string>
     <string name="q_1_answer">1</string>
 
@@ -31,13 +31,13 @@
     <string name="q_5_explanation">trigger - дать толчок, спровоцировать</string>
     <string name="q_5_answer">2</string>
 
-    <string name="q_6">I’ll phone you tomorrow… usual.</string>
+    <string name="q_6">I’ll phone you tomorrow … usual.</string>
     <string name="q_6_op_1">as</string>
     <string name="q_6_op_2">like</string>
     <string name="q_6_explanation">Устойчивое выражение \'as usual\'. Like использовать нельзя</string>
     <string name="q_6_answer">1</string>
 
-    <string name="q_7">Why didn’t you do it …. I told you to do it?</string>
+    <string name="q_7">Why didn’t you do it … I told you to do it?</string>
     <string name="q_7_op_1">like</string>
     <string name="q_7_op_2">as</string>
     <string name="q_7_explanation">Используем \'as\', так как дальше идёт подлежащее + глагол</string>

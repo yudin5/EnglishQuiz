@@ -1,7 +1,5 @@
 package com.example.englishquiz;
 
-import static com.example.englishquiz.FinishActivity.USER_CORRECT_ANSWERS_QUANTITY;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -10,6 +8,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int userCorrectAnswers = 0;
     private int questionsAsked = 0;
+    private final List<Question> alreadyAnswered = new ArrayList<>();
 
     private final Question[] questionBank = Questions.getQuestionBank();
     private int currentIndex = 0;
@@ -59,6 +61,10 @@ public class MainActivity extends AppCompatActivity {
                         finish();
                     } else {
                         currentIndex = (currentIndex + 1) % questionBank.length;
+                        // Избегаем вопросов, на которые мы уже отвечали
+                        while (alreadyAnswered.contains(questionBank[currentIndex])) {
+                            currentIndex = (currentIndex + 1) % questionBank.length;
+                        }
                         updateQuestion();
                     }
                 }
@@ -124,9 +130,10 @@ public class MainActivity extends AppCompatActivity {
                 secondOptionButton.setBackgroundColor(colorWrongAnswerBg);
             }
         }
-        questionsAsked++; // увеличиваем счётчик заданных вопросов
+        questionsAsked++; // Увеличиваем счётчик заданных вопросов
         questionAskedQuantityTextView.setText(String.format("Задано вопросов: %s", questionsAsked));
         rightAnswersQuantityTextView.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
+        alreadyAnswered.add(questionBank[currentIndex]); // Добавляем вопрос к уже отвеченным
 
         int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
         Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();
