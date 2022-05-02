@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView questionAskedQuantityTextView;
     private TextView rightAnswersQuantityTextView;
 
+    private Button nextButton;
+
     private int userCorrectAnswers = 0;
     private int questionsAsked = 0;
     private final List<Question> alreadyAnswered = new ArrayList<>();
@@ -53,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         );
 
         // Кнопка "Next"
-        Button nextButton = findViewById(R.id.next_button);
+        nextButton = findViewById(R.id.next_button);
         nextButton.setOnClickListener(view -> {
                     if (questionsAsked >= 10) {
                         Intent intent = FinishActivity.newIntent(MainActivity.this, userCorrectAnswers);
@@ -134,6 +136,11 @@ public class MainActivity extends AppCompatActivity {
         questionAskedQuantityTextView.setText(String.format("Задано вопросов: %s", questionsAsked));
         rightAnswersQuantityTextView.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
         alreadyAnswered.add(questionBank[currentIndex]); // Добавляем вопрос к уже отвеченным
+
+        // Если мы уже задали 10 вопросов, то меняем название кнопки "Next" -> "Finish"
+        if (questionsAsked > 9) {
+            nextButton.setText(R.string.finish_button);
+        }
 
         int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
         Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();

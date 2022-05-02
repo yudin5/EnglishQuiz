@@ -2,12 +2,13 @@
     <string name="app_name">EnglishQuiz</string>
 
     <!--    Toasts -->
-    <string name="toast_correct">Правильно!</string>
-    <string name="toast_incorrect">Неправильно..</string>
+    <string name="toast_correct">Правильно</string>
+    <string name="toast_incorrect">Неправильно</string>
 
     <!--    Buttons -->
-    <string name="next_button">Next</string>
-    <string name="exit_button">Exit</string>
+    <string name="next_button">Следующий</string>
+    <string name="exit_button">В меню</string>
+    <string name="finish_button">Закончить</string>
 
     <!--    Количество правильных ответов -->
     <string name="questions_asked">Задано вопросов: 0</string>
@@ -16,7 +17,7 @@
     <!--    О приложении -->
     <string name="about">Это простое приложение создано исключительно в учебно-ознакомительных целях.
         \nЗдесь вы не увидите раздражающей рекламы и навязчивого платного контента.
-    \nВопросы содержат проверку знаний английского из разных областей языка.
+    \nТест содержит вопросы из разных тем английского языка и ориентирован на уровень "средний" и выше.
         \nВ планах увеличить количество вопросов + поэкспериментировать и добавить новый функционал.
     \nОбо всех неточностях, пожеланиях, замечаниях и тому подобном можно смело писать на yudin5@yandex.ru</string>
 

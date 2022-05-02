@@ -4,55 +4,66 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/bg"
     android:backgroundTint="@color/bg"
+    android:foregroundTint="@color/bg"
+    android:scrollbarThumbHorizontal="@color/bg"
+    android:scrollbarThumbVertical="@color/bg"
+    android:visibility="visible"
     tools:context=".StartActivity">
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/bg"
-        android:backgroundTint="@color/bg"
-        android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="370dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="@color/btn_color_default"
+        android:padding="15dp"
+        android:text="Ответить на 10 вопросов"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:cornerRadius="25sp"
+        app:iconPadding="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.551"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rippleColor="@color/bg"
+        app:strokeColor="@color/bg" />
+
+    <Button
+        android:id="@+id/btn_about"
+        android:layout_width="370dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="@color/btn_color_default"
+        android:padding="15dp"
+        android:text="О приложении"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:cornerRadius="25sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toBottomOf="@+id/btn_start"
+        app:rippleColor="@color/bg" />
 
-        <Button
-            android:id="@+id/btn_start"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/btn_color_default"
-            android:text="Ответить на 10 вопросов"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            app:cornerRadius="25sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
+    <Button
+        android:id="@+id/btn_exit_complete"
+        android:layout_width="370dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="@color/btn_color_default"
+        android:padding="15dp"
+        android:text="Выйти"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:cornerRadius="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_about"
+        app:rippleColor="@color/bg" />
 
-        <Button
-            android:id="@+id/btn_about"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/btn_color_default"
-            android:text="О приложении"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            app:cornerRadius="25sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
-
-        <Button
-            android:id="@+id/btn_exit_complete"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/btn_color_default"
-            android:text="Выйти"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            app:cornerRadius="25sp" />
-    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
