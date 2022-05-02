@@ -73,4 +73,22 @@
     <string name="q_12_explanation">Перед подлежащим + глаголом используем \'as\'. Однако в значении \'в таком же состоянии\' также можно использовать \'like\' в неформальном разговорном английском</string>
     <string name="q_12_answer">1</string>
 
+    <string name="q_13">He was recruited into the company …</string>
+    <string name="q_13_op_1">like a troubleshooter</string>
+    <string name="q_13_op_2">as a troubleshooter</string>
+    <string name="q_13_explanation">Здесь значение \'в качестве, в функции\' - надо использовать as</string>
+    <string name="q_13_answer">2</string>
+
+    <string name="q_14">Our factory is often described …</string>
+    <string name="q_14_op_1">as a showcase for good working practices in the region</string>
+    <string name="q_14_op_2">like a showcase for good working practices in the region</string>
+    <string name="q_14_explanation">После глагола describe используется as (описать, охарактеризовать как)</string>
+    <string name="q_14_answer">1</string>
+
+    <string name="q_15">Most employees support some aspects of our corporate culture, …</string>
+    <string name="q_15_op_1">like not wearing ties or having flexible working hours</string>
+    <string name="q_15_op_2">as not wearing ties or having flexible working hours</string>
+    <string name="q_15_explanation">Когда мы приводим примеры, нужно использовать like</string>
+    <string name="q_15_answer">1</string>
+
 </resources>
