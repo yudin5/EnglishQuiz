@@ -91,4 +91,88 @@
     <string name="q_15_explanation">Когда мы приводим примеры, нужно использовать like</string>
     <string name="q_15_answer">1</string>
 
+    <string name="q_16">Отстать с чем-то, просрочить что-то</string>
+    <string name="q_16_op_1">get behind with sth.</string>
+    <string name="q_16_op_2">beside the point</string>
+    <string name="q_16_explanation">beside the point - не по делу</string>
+    <string name="q_16_answer">1</string>
+
+    <string name="q_17">Падать в обморок</string>
+    <string name="q_17_op_1">faint</string>
+    <string name="q_17_op_2">trait</string>
+    <string name="q_17_explanation">trait - черта характера</string>
+    <string name="q_17_answer">1</string>
+
+    <string name="q_18">Подчеркивать, делать более явным</string>
+    <string name="q_18_op_1">drown out</string>
+    <string name="q_18_op_2">bring out</string>
+    <string name="q_18_explanation">drown out - заглушать</string>
+    <string name="q_18_answer">2</string>
+
+    <string name="q_19">Can I borrow this book …</string>
+    <string name="q_19_op_1">when you\'ve finished with it?</string>
+    <string name="q_19_op_2">when you\'ll finish with it?</string>
+    <string name="q_19_explanation">В придаточных времени (например, после when) не используем Future Simple. Можно использовать Present Simple или Present Perfect, если одно действие завершается до другого действия.</string>
+    <string name="q_19_answer">1</string>
+
+    <string name="q_20">… away this summer?</string>
+    <string name="q_20_op_1">Will you be going</string>
+    <string name="q_20_op_2">Will you go</string>
+    <string name="q_20_explanation">Когда мы говорим о личных планах на будущее, мы используем Present Continuous или Future Continuous, не Future Simple</string>
+    <string name="q_20_answer">1</string>
+
+    <string name="q_21">Объединять, сливать</string>
+    <string name="q_21_op_1">circulate</string>
+    <string name="q_21_op_2">amalgamate</string>
+    <string name="q_21_explanation">circulate - распространять, рассылать</string>
+    <string name="q_21_answer">2</string>
+
+    <string name="q_22">Обнаружиться, раскрыться</string>
+    <string name="q_22_op_1">come out</string>
+    <string name="q_22_op_2">come about</string>
+    <string name="q_22_explanation">come about - случаться, происходить</string>
+    <string name="q_22_answer">1</string>
+
+    <string name="q_23">Использовать, эксплуатировать</string>
+    <string name="q_23_op_1">exploit</string>
+    <string name="q_23_op_2">explore</string>
+    <string name="q_23_explanation">explore - изучать, исследовать</string>
+    <string name="q_23_answer">1</string>
+
+    <string name="q_24">Приступить к чему-то</string>
+    <string name="q_24_op_1">boil down to</string>
+    <string name="q_24_op_2">get down to</string>
+    <string name="q_24_explanation">boil down to - сводиться к чему-то</string>
+    <string name="q_24_answer">2</string>
+
+    <string name="q_25">Прогореть, обанкротиться</string>
+    <string name="q_25_op_1">go dead</string>
+    <string name="q_25_op_2">go bust</string>
+    <string name="q_25_explanation">go dead - оборваться (о звонке, связи)</string>
+    <string name="q_25_answer">2</string>
+
+    <string name="q_26">Довольный человек</string>
+    <string name="q_26_op_1">au pair</string>
+    <string name="q_26_op_2">a happy camper</string>
+    <string name="q_26_explanation">au pair - девушка-иностранка, живущая в семье с целью изучения языка</string>
+    <string name="q_26_answer">2</string>
+
+    <string name="q_27">I … what happened. I promise.</string>
+    <string name="q_27_op_1">won\'t tell anyone</string>
+    <string name="q_27_op_2">\'m not going to tell anyone</string>
+    <string name="q_27_explanation">Используем Future Simple, когда даём обещания.</string>
+    <string name="q_27_answer">1</string>
+
+    <string name="q_28">What time …?</string>
+    <string name="q_28_op_1">does the train arrive</string>
+    <string name="q_28_op_2">is the train arriving</string>
+    <string name="q_28_explanation">С расписаниями, программами общественных событий используем Present Simple</string>
+    <string name="q_28_answer">1</string>
+
+    <string name="q_29">What time … tomorrow?</string>
+    <string name="q_29_op_1">is your aunt arriving</string>
+    <string name="q_29_op_2">does your aunt arrive</string>
+    <string name="q_29_explanation">С личными планами на будущее используем Present Continuous</string>
+    <string name="q_29_answer">1</string>
+
 </resources>

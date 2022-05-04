@@ -19,7 +19,21 @@ public class Questions {
             new Question(q_12, q_12_op_1, q_12_op_2, q_12_explanation, q_12_answer),
             new Question(q_13, q_13_op_1, q_13_op_2, q_13_explanation, q_13_answer),
             new Question(q_14, q_14_op_1, q_14_op_2, q_14_explanation, q_14_answer),
-            new Question(q_15, q_15_op_1, q_15_op_2, q_15_explanation, q_15_answer)
+            new Question(q_15, q_15_op_1, q_15_op_2, q_15_explanation, q_15_answer),
+            new Question(q_16, q_16_op_1, q_16_op_2, q_16_explanation, q_16_answer),
+            new Question(q_17, q_17_op_1, q_17_op_2, q_17_explanation, q_17_answer),
+            new Question(q_18, q_18_op_1, q_18_op_2, q_18_explanation, q_18_answer),
+            new Question(q_19, q_19_op_1, q_19_op_2, q_19_explanation, q_19_answer),
+            new Question(q_20, q_20_op_1, q_20_op_2, q_20_explanation, q_20_answer),
+            new Question(q_21, q_21_op_1, q_21_op_2, q_21_explanation, q_21_answer),
+            new Question(q_22, q_22_op_1, q_22_op_2, q_22_explanation, q_22_answer),
+            new Question(q_23, q_23_op_1, q_23_op_2, q_23_explanation, q_23_answer),
+            new Question(q_24, q_24_op_1, q_24_op_2, q_24_explanation, q_24_answer),
+            new Question(q_25, q_25_op_1, q_25_op_2, q_25_explanation, q_25_answer),
+            new Question(q_26, q_26_op_1, q_26_op_2, q_26_explanation, q_26_answer),
+            new Question(q_27, q_27_op_1, q_27_op_2, q_27_explanation, q_27_answer),
+            new Question(q_28, q_28_op_1, q_28_op_2, q_28_explanation, q_28_answer),
+            new Question(q_29, q_29_op_1, q_29_op_2, q_29_explanation, q_29_answer)
     };
 
     public static Question[] getQuestionBank() {

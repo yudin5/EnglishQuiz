@@ -132,8 +132,8 @@ public class MainActivity extends AppCompatActivity {
                 secondOptionButton.setBackgroundColor(colorWrongAnswerBg);
             }
         }
-        questionsAsked++; // Увеличиваем счётчик заданных вопросов
-        questionAskedQuantityTextView.setText(String.format("Задано вопросов: %s", questionsAsked));
+        questionsAsked++; // Увеличиваем счётчик вопросов, на которые дан ответ
+        questionAskedQuantityTextView.setText(String.format("Дано ответов: %s", questionsAsked));
         rightAnswersQuantityTextView.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
         alreadyAnswered.add(questionBank[currentIndex]); // Добавляем вопрос к уже отвеченным
 
