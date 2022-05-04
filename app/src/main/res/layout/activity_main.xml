@@ -30,6 +30,8 @@
         android:layout_marginEnd="30dp"
         android:background="@color/bg"
         android:gravity="left"
+        android:letterSpacing="0.03"
+        android:minHeight="60dp"
         android:padding="5dp"
         android:textAlignment="center"
         android:textColor="@color/black"
@@ -43,14 +45,17 @@
 
     <!-- Кнопка NEXT -->
 
+    <!-- Текстовое поле с объяснением -->
+
     <LinearLayout
         android:id="@+id/linearLayout"
-        android:layout_width="357dp"
+        android:layout_width="360dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:background="@color/bg"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2">
 
@@ -60,12 +65,15 @@
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/cardview_compat_inset_shadow"
             android:backgroundTint="@color/btn_color_default"
+            android:fontFamily="sans-serif"
+            android:letterSpacing="0.03"
             android:minHeight="65dip"
             android:paddingStart="10dp"
             android:text="@string/q_1_op_1"
             android:textAllCaps="false"
             android:textColor="@color/black"
             android:textSize="20sp"
+            android:textStyle="bold"
             app:cornerRadius="25sp"
             app:strokeWidth="1sp" />
 
@@ -75,27 +83,30 @@
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/cardview_compat_inset_shadow"
             android:backgroundTint="@color/btn_color_default"
+            android:fontFamily="sans-serif"
+            android:letterSpacing="0.03"
             android:minHeight="65dip"
             android:paddingStart="10dp"
             android:text="@string/q_1_op_2"
             android:textAllCaps="false"
             android:textColor="@color/black"
             android:textSize="20sp"
+            android:textStyle="bold"
             app:cornerRadius="25sp"
             app:strokeWidth="1sp" />
 
 
     </LinearLayout>
 
-    <!-- Текстовое поле с объяснением -->
     <Button
         android:id="@+id/next_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="15dp"
         android:backgroundTint="#FFF176"
         android:drawableEnd="@drawable/arrow_right"
         android:drawablePadding="4dp"
+        android:letterSpacing="0.03"
         android:text="@string/next_button"
         android:textAllCaps="false"
         android:textColor="@color/black"
@@ -108,16 +119,17 @@
 
     <TextView
         android:id="@+id/explanation_text_view"
-        android:layout_width="366dp"
-        android:layout_height="103dp"
-        android:layout_marginTop="20dp"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
         android:gravity="top"
+        android:letterSpacing="0.03"
         android:padding="5dp"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/next_button"
         tools:text="@string/q_1_explanation" />
@@ -143,6 +155,9 @@
         android:layout_marginStart="24dp"
         android:layout_marginBottom="16dp"
         android:backgroundTint="@color/btn_color_default"
+        android:fontFamily="sans-serif"
+        android:letterSpacing="0.03"
+        android:minHeight="65dip"
         android:paddingStart="10dp"
         android:text="@string/exit_button"
         android:textAllCaps="false"
@@ -155,8 +170,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="56dp"
+        android:layout_height="21dp"
         android:layout_marginTop="50dp"
         android:text="Вопрос:"
         android:textStyle="bold"
@@ -166,8 +181,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="121dp"
+        android:layout_height="20dp"
         android:layout_marginTop="20dp"
         android:text="Варианты ответа:"
         android:textStyle="bold"
