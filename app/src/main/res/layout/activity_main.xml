@@ -11,7 +11,7 @@
         android:id="@+id/right_answers_quantity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="10dp"
         android:layout_marginEnd="20dp"
         android:text="@string/right_answers"
         android:textAlignment="center"
@@ -19,15 +19,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.954"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/question_asked_quantity" />
 
     <TextView
         android:id="@+id/question_text_view"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
+        android:layout_marginTop="15dp"
         android:layout_marginEnd="30dp"
-        android:layout_marginBottom="470dp"
         android:background="@color/bg"
         android:gravity="left"
         android:padding="5dp"
@@ -35,10 +35,10 @@
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
         tools:text="@string/q_1" />
 
     <!-- Кнопка NEXT -->
@@ -47,12 +47,12 @@
         android:id="@+id/linearLayout"
         android:layout_width="357dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="15dp"
         android:background="@color/bg"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/question_text_view">
+        app:layout_constraintTop_toBottomOf="@+id/textView2">
 
         <Button
             android:id="@+id/first_option_button"
@@ -87,6 +87,7 @@
 
     </LinearLayout>
 
+    <!-- Текстовое поле с объяснением -->
     <Button
         android:id="@+id/next_button"
         android:layout_width="wrap_content"
@@ -101,10 +102,10 @@
         android:textSize="20sp"
         app:cornerRadius="10sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
 
-    <!-- Текстовое поле с объяснением -->
     <TextView
         android:id="@+id/explanation_text_view"
         android:layout_width="366dp"
@@ -116,7 +117,7 @@
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/next_button"
         tools:text="@string/q_1_explanation" />
@@ -139,8 +140,8 @@
         android:id="@+id/btn_exit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="16dp"
         android:backgroundTint="@color/btn_color_default"
         android:paddingStart="10dp"
         android:text="@string/exit_button"
@@ -156,23 +157,24 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="15dp"
+        android:layout_marginTop="50dp"
         android:text="Вопрос:"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/question_text_view"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/right_answers_quantity" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="15dp"
+        android:layout_marginTop="20dp"
         android:text="Варианты ответа:"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/question_text_view" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
