@@ -14,7 +14,7 @@
 
     <Button
         android:id="@+id/btn_start"
-        android:layout_width="370dp"
+        android:layout_width="0dp"
         android:layout_height="65dp"
         android:layout_marginStart="30dp"
         android:layout_marginTop="25dp"
@@ -37,7 +37,7 @@
 
     <Button
         android:id="@+id/btn_about"
-        android:layout_width="370dp"
+        android:layout_width="0dp"
         android:layout_height="65dp"
         android:layout_marginStart="30dp"
         android:layout_marginTop="15dp"
@@ -55,7 +55,7 @@
 
     <Button
         android:id="@+id/btn_exit_complete"
-        android:layout_width="370dp"
+        android:layout_width="0dp"
         android:layout_height="65dp"
         android:layout_marginStart="30dp"
         android:layout_marginTop="15dp"
@@ -73,7 +73,7 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="361dp"
+        android:layout_width="0dp"
         android:layout_height="229dp"
         android:layout_marginStart="30dp"
         android:layout_marginTop="100dp"

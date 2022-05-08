@@ -1,5 +1,6 @@
 package com.example.englishquiz;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
@@ -9,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class StartActivity extends AppCompatActivity {
 
+    @SuppressLint("SourceLockedOrientationActivity")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
