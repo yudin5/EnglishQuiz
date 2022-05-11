@@ -175,4 +175,76 @@
     <string name="q_29_explanation">С личными планами на будущее используем Present Continuous</string>
     <string name="q_29_answer">1</string>
 
+    <string name="q_30">Бешеная гонка</string>
+    <string name="q_30_op_1">hoodwink</string>
+    <string name="q_30_op_2">rat race</string>
+    <string name="q_30_explanation">hoodwink - обмануть, одурачить</string>
+    <string name="q_30_answer">2</string>
+
+    <string name="q_31">Заглушить</string>
+    <string name="q_31_op_1">put out</string>
+    <string name="q_31_op_2">drown out</string>
+    <string name="q_31_explanation">put out - тушить, гасить (например, огонь)</string>
+    <string name="q_31_answer">2</string>
+
+    <string name="q_32">Работать, не покладая рук</string>
+    <string name="q_32_op_1">work your tail off</string>
+    <string name="q_32_op_2">dead-end job</string>
+    <string name="q_32_explanation">dead-end job - бесперспективная работа</string>
+    <string name="q_32_answer">1</string>
+
+    <string name="q_33">Our company, … , is a privately owned business.</string>
+    <string name="q_33_op_1">as Virgin</string>
+    <string name="q_33_op_2">like Virgin</string>
+    <string name="q_33_explanation">Значение \'подобно, аналогично\', поэтому используем \'like\'</string>
+    <string name="q_33_answer">2</string>
+
+    <string name="q_34">… - they\'ve sent the wrong instructions!</string>
+    <string name="q_34_op_1">It\'s just like I thought,</string>
+    <string name="q_34_op_2">It\'s just as I thought,</string>
+    <string name="q_34_explanation">Используем \'as\', поскольку дальше идёт подлежащее + сказуемое</string>
+    <string name="q_34_answer">2</string>
+
+    <string name="q_35">They closed the factory, …</string>
+    <string name="q_35_op_1">as it was no longer profitable</string>
+    <string name="q_35_op_2">like it was no longer profitable</string>
+    <string name="q_35_explanation">Значение \'потому что\' - используем \'as\'</string>
+    <string name="q_35_answer">1</string>
+
+    <string name="q_36">Случаться, происходить</string>
+    <string name="q_36_op_1">come about</string>
+    <string name="q_36_op_2">come around</string>
+    <string name="q_36_explanation">come around - заходить, заезжать</string>
+    <string name="q_36_answer">1</string>
+
+    <string name="q_37">Принять решение</string>
+    <string name="q_37_op_1">reach to a decision</string>
+    <string name="q_37_op_2">come to a decision</string>
+    <string name="q_37_explanation">Глагол \'reach\' используется без предлога, поэтому второе выражение неверно. Но выражение \'reach a decision\' верное.</string>
+    <string name="q_37_answer">2</string>
+
+    <string name="q_38">Интенсивный курс</string>
+    <string name="q_38_op_1">a crash course</string>
+    <string name="q_38_op_2">a rush course</string>
+    <string name="q_38_explanation">Устойчивое выражение - a crash course</string>
+    <string name="q_38_answer">1</string>
+
+    <string name="q_39">Оптимизировать, рационализировать</string>
+    <string name="q_39_op_1">streamline</string>
+    <string name="q_39_op_2">trigger</string>
+    <string name="q_39_explanation">trigger - дать толчок, спровоцировать</string>
+    <string name="q_39_answer">1</string>
+
+    <string name="q_40">Приходить в себя</string>
+    <string name="q_40_op_1">come up</string>
+    <string name="q_40_op_2">come around</string>
+    <string name="q_40_explanation">come up - неожиданно появляться, возникать</string>
+    <string name="q_40_answer">2</string>
+
+    <string name="q_41">Намекать, клонить к чему-то</string>
+    <string name="q_41_op_1">pull over</string>
+    <string name="q_41_op_2">drive at</string>
+    <string name="q_41_explanation">pull over - съезжать на обочину и останавливаться</string>
+    <string name="q_41_answer">2</string>
+
 </resources>
