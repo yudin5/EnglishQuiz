@@ -7,6 +7,19 @@
     android:background="@color/bg"
     tools:context=".MainActivity">
 
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="0dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:animationResolution="@integer/material_motion_duration_medium_1"
+        android:progressTint="@color/btn_color_default"
+        app:layout_constraintEnd_toStartOf="@+id/right_answers_quantity"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <TextView
         android:id="@+id/right_answers_quantity"
         android:layout_width="wrap_content"

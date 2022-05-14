@@ -3,8 +3,10 @@ package com.example.englishquiz;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -14,6 +16,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+
+    private ProgressBar progressBar;
 
     private Button firstOptionButton;
     private Button secondOptionButton;
@@ -38,6 +42,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+
+        progressBar = findViewById(R.id.progressBar);
+        progressBar.setMax(10);
+        progressBar.setProgress(0);
 
         firstOptionButton = findViewById(R.id.first_option_button);
         secondOptionButton = findViewById(R.id.second_option_button);
@@ -110,6 +118,8 @@ public class MainActivity extends AppCompatActivity {
     // Принимает какую кнопку нажал пользователь, 1 - первую, 2 - вторую
     private void checkAnswer(int userAnswer) {
 
+        progressBar.setProgress(progressBar.getProgress() + 1);
+
         firstOptionButton.setEnabled(false);
         secondOptionButton.setEnabled(false);
         explanationTextView.setVisibility(View.VISIBLE);
@@ -146,7 +156,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
         int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
-        Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT).show();
+        Toast toast = Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT);
+        toast.setGravity(Gravity.BOTTOM, 0, 70);
+        toast.show();
     }
 
 }
