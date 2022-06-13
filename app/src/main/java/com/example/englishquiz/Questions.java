@@ -2,6 +2,10 @@ package com.example.englishquiz;
 
 import static com.example.englishquiz.R.string.*;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class Questions {
 
     private static final Question[] questionBank = new Question[]{
@@ -45,11 +49,36 @@ public class Questions {
             new Question(q_38, q_38_op_1, q_38_op_2, q_38_explanation, q_38_answer),
             new Question(q_39, q_39_op_1, q_39_op_2, q_39_explanation, q_39_answer),
             new Question(q_40, q_40_op_1, q_40_op_2, q_40_explanation, q_40_answer),
-            new Question(q_41, q_41_op_1, q_41_op_2, q_41_explanation, q_41_answer)
+            new Question(q_41, q_41_op_1, q_41_op_2, q_41_explanation, q_41_answer),
+            new Question(q_42, q_42_op_1, q_42_op_2, q_42_explanation, q_42_answer),
+            new Question(q_43, q_43_op_1, q_43_op_2, q_43_explanation, q_43_answer),
+            new Question(q_44, q_44_op_1, q_44_op_2, q_44_explanation, q_44_answer),
+            new Question(q_45, q_45_op_1, q_45_op_2, q_45_explanation, q_45_answer),
+            new Question(q_46, q_46_op_1, q_46_op_2, q_46_explanation, q_46_answer),
+            new Question(q_47, q_47_op_1, q_47_op_2, q_47_explanation, q_47_answer),
+            new Question(q_48, q_48_op_1, q_48_op_2, q_48_explanation, q_48_answer),
+            new Question(q_49, q_49_op_1, q_49_op_2, q_49_explanation, q_49_answer),
+            new Question(q_50, q_50_op_1, q_50_op_2, q_50_explanation, q_50_answer)
     };
 
     public static Question[] getQuestionBank() {
         return questionBank;
+    }
+
+    public static Question[] get10RandomQuestions() {
+        // Составляем список по порядку всех номеров вопросов
+        List<Integer> allQuestions = new ArrayList<>();
+        for (int i = 0; i < questionBank.length; i++) {
+            allQuestions.add(i);
+        }
+        // Перемешиваем их
+        Collections.shuffle(allQuestions);
+        // Берём первые 10. Таким образом получаем случайные неповторящиеся числа
+        Question[] result = new Question[10];
+        for (int i = 0; i < result.length; i++) {
+            result[i] = questionBank[allQuestions.get(i)];
+        }
+        return result;
     }
 
 }

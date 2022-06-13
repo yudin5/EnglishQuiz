@@ -247,4 +247,59 @@
     <string name="q_41_explanation">pull over - съезжать на обочину и останавливаться</string>
     <string name="q_41_answer">2</string>
 
+    <string name="q_42">Намекать, клонить к чему-то</string>
+    <string name="q_42_op_1">trigger</string>
+    <string name="q_42_op_2">encourage</string>
+    <string name="q_42_explanation">encourage - подбодрять, вдохновлять, воодушевлять</string>
+    <string name="q_42_answer">1</string>
+
+    <string name="q_43">Держись!</string>
+    <string name="q_43_op_1">hang in there</string>
+    <string name="q_43_op_2">hold on</string>
+    <string name="q_43_explanation">hold on - оставаться на линии, не вешать трубку</string>
+    <string name="q_43_answer">1</string>
+
+    <string name="q_44">Правая рука, ближайший помощник:</string>
+    <string name="q_44_op_1">right-hand man</string>
+    <string name="q_44_op_2">the right man</string>
+    <string name="q_44_explanation">the right man - правильный, подходящий человек</string>
+    <string name="q_44_answer">1</string>
+
+    <string name="q_45">Ни в коем случае!</string>
+    <string name="q_45_op_1">needless to say</string>
+    <string name="q_45_op_2">nothing doing</string>
+    <string name="q_45_explanation">needless to say - само собой разумеется</string>
+    <string name="q_45_answer">2</string>
+
+    <string name="q_46">Стремление, сильное желание:</string>
+    <string name="q_46_op_1">aspiration</string>
+    <string name="q_46_op_2">inspiration</string>
+    <string name="q_46_explanation">inspiration - вдохновение</string>
+    <string name="q_46_answer">1</string>
+
+    <string name="q_47">Безупречный, безукоризненный</string>
+    <string name="q_47_op_1">incredible</string>
+    <string name="q_47_op_2">impeccable</string>
+    <string name="q_47_explanation">incredible - невероятный, поразительный</string>
+    <string name="q_47_answer">2</string>
+
+    <string name="q_48">Your cousin is in hospital.</string>
+    <string name="q_48_op_1">Yes, I know. I\'ll go and visit her.</string>
+    <string name="q_48_op_2">Yes, I know. I\'m going to visit her.</string>
+    <string name="q_48_explanation">Фраза "Да, я знаю." показывает, что говорящий уже заранее принял решение навестить её</string>
+    <string name="q_48_answer">2</string>
+
+    <string name="q_49">Your cousin is in hospital.</string>
+    <string name="q_49_op_1">Really? I didn\'t know. I\'ll go and visit her.</string>
+    <string name="q_49_op_2">Really? I didn\'t know. I\'m going to visit her.</string>
+    <string name="q_49_explanation">Решаем это сделать в момент речи - используем Future Simple</string>
+    <string name="q_49_answer">1</string>
+
+    <string name="q_50">Your brother phoned while you were out.</string>
+    <string name="q_50_op_1">OK. I\'ll call him back.</string>
+    <string name="q_50_op_2">OK. I\'m going to call him back.</string>
+    <string name="q_50_explanation">Решаем это сделать в момент речи - используем Future Simple</string>
+    <string name="q_50_answer">1</string>
+
+
 </resources>

@@ -1,8 +1,10 @@
 package com.example.englishquiz;
 
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
+import android.os.Vibrator;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
@@ -25,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView explanationTextView;
 
     private TextView questionAskedQuantityTextView;
-    private TextView rightAnswersQuantityTextView;
 
     private Button nextButton;
 
@@ -33,7 +34,8 @@ public class MainActivity extends AppCompatActivity {
     private int questionsAsked = 0;
     private final List<Question> alreadyAnswered = new ArrayList<>();
 
-    private final Question[] questionBank = Questions.getQuestionBank();
+    //    private final Question[] questionBank = Questions.getQuestionBank();
+    private final Question[] questionBank = Questions.get10RandomQuestions();
     private int currentIndex = 0;
 
     @Override
@@ -55,7 +57,6 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView.setVisibility(View.INVISIBLE);
 
         questionAskedQuantityTextView = findViewById(R.id.question_asked_quantity);
-        rightAnswersQuantityTextView = findViewById(R.id.right_answers_quantity);
 
         firstOptionButton.setOnClickListener(
                 view -> checkAnswer(1)
@@ -138,6 +139,8 @@ public class MainActivity extends AppCompatActivity {
                 secondOptionButton.setBackgroundColor(colorRightAnswerBg);
             }
         } else {
+            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            vibrator.vibrate(300); // вибрировать при неправильном ответе
             int colorWrongAnswerBg = getResources().getColor(R.color.wrong_answer_bg);
             if (userAnswer == 1) {
                 firstOptionButton.setBackgroundColor(colorWrongAnswerBg);
@@ -146,8 +149,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         questionsAsked++; // Увеличиваем счётчик вопросов, на которые дан ответ
-        questionAskedQuantityTextView.setText(String.format("Дано ответов: %s", questionsAsked));
-        rightAnswersQuantityTextView.setText(String.format("Правильных ответов: %s", userCorrectAnswers));
+        questionAskedQuantityTextView.setText(String.format("Дано ответов: %s/10", questionsAsked));
         alreadyAnswered.add(questionBank[currentIndex]); // Добавляем вопрос к уже отвеченным
 
         // Если мы уже задали 10 вопросов, то меняем название кнопки "Next" -> "Finish"
