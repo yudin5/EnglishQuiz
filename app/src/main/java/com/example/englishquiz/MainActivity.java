@@ -1,5 +1,6 @@
 package com.example.englishquiz;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -13,6 +14,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.englishquiz.database.QuestionDb;
+import com.example.englishquiz.database.QuestionDbHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,18 +36,28 @@ public class MainActivity extends AppCompatActivity {
 
     private int userCorrectAnswers = 0;
     private int questionsAsked = 0;
-    private final List<Question> alreadyAnswered = new ArrayList<>();
+    private final List<QuestionDb> alreadyAnswered = new ArrayList<>();
 
-    //    private final Question[] questionBank = Questions.getQuestionBank();
-    private final Question[] questionBank = Questions.get10RandomQuestions();
+    private QuestionDb[] questionBank;
+    //    private Question[] questionBank = Questions.get10RandomQuestions();
     private int currentIndex = 0;
 
+    @SuppressLint("SourceLockedOrientationActivity")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+
+        boolean deleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME);
+        System.out.println("deleted = " + deleted);
+
+        QuestionDbHelper dbHelper = new QuestionDbHelper(this);
+        int totalNumberQuestions = dbHelper.getTotalNumberQuestions();
+        System.out.println("totalNumberQuestions = " + totalNumberQuestions);
+
+        questionBank = dbHelper.get10RandomQuestions();
 
         progressBar = findViewById(R.id.progressBar);
         progressBar.setMax(10);
@@ -96,23 +110,30 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void updateQuestion() {
-        int questionTextResId = questionBank[currentIndex].questionResId;
-        int firstOptionTextResId = questionBank[currentIndex].firstOptionResId;
-        int secondOptionTextResId = questionBank[currentIndex].secondOptionResId;
-        int explanationTestResId = questionBank[currentIndex].explanationResId;
+//        int questionTextResId = questionBank[currentIndex].questionResId;
+//        int firstOptionTextResId = questionBank[currentIndex].firstOptionResId;
+//        int secondOptionTextResId = questionBank[currentIndex].secondOptionResId;
+//        int explanationTestResId = questionBank[currentIndex].explanationResId;
+        QuestionDb questionDb = questionBank[0];
+        System.out.println("questionDb 0 = " + questionDb);
 
-        questionTextView.setText(questionTextResId);
+        String questionText = questionBank[currentIndex].getQuestion();
+        String firstOptionText = questionBank[currentIndex].getFirstOption();
+        String secondOptionText = questionBank[currentIndex].getSecondOption();
+        String explanationText = questionBank[currentIndex].getExplanation();
+
+        questionTextView.setText(questionText);
         int btnColorDefault = getResources().getColor(R.color.btn_color_default);
 
-        firstOptionButton.setText(firstOptionTextResId);
+        firstOptionButton.setText(firstOptionText);
         firstOptionButton.setBackgroundColor(btnColorDefault);
         firstOptionButton.setEnabled(true);
 
-        secondOptionButton.setText(secondOptionTextResId);
+        secondOptionButton.setText(secondOptionText);
         secondOptionButton.setBackgroundColor(btnColorDefault);
         secondOptionButton.setEnabled(true);
 
-        explanationTextView.setText(explanationTestResId);
+        explanationTextView.setText(explanationText);
         explanationTextView.setVisibility(View.INVISIBLE);
     }
 
@@ -126,7 +147,8 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView.setVisibility(View.VISIBLE);
 
         // Это просто, чтобы вытащить "1" или "2", то есть получить правильный ответ. Фейспалм.
-        int rightAnswer = Integer.parseInt(getString(questionBank[currentIndex].rightAnswer));
+//        int rightAnswer = Integer.parseInt(getString(questionBank[currentIndex].rightAnswer));
+        int rightAnswer = questionBank[currentIndex].getRightAnswer();
 
         boolean isUserAnswerCorrect = (userAnswer == rightAnswer);
 

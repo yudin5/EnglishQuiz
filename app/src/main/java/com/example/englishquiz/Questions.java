@@ -2,6 +2,9 @@ package com.example.englishquiz;
 
 import static com.example.englishquiz.R.string.*;
 
+import android.content.Context;
+import android.database.sqlite.SQLiteDatabase;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -80,5 +83,6 @@ public class Questions {
         }
         return result;
     }
+
 
 }

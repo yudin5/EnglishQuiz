@@ -2,8 +2,8 @@
 
     <!--    Questions, answers, explanations -->
     <string name="q_1">My bike is OK now. I … it.</string>
-    <string name="q_1_op_1">\have repaired</string>
-    <string name="q_1_op_2">\have been repairing</string>
+    <string name="q_1_op_1">have repaired</string>
+    <string name="q_1_op_2">have been repairing</string>
     <string name="q_1_explanation">Нас интересует результат действия, поскольку велосипед в порядке сейчас - я его починил, используем Present Perfect</string>
     <string name="q_1_answer">1</string>
 
