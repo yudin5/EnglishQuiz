@@ -14,103 +14,97 @@ were
 ups and downs
 sink or swim
 2
-ups and downs - взлёты и падения
+'ups and downs' - взлёты и падения
 
 Оборваться (о связи, звонке)
 go dead
 switch off
 1
-switch off - выключить
+'switch off' - выключить
 
 Продвинуться вперёд, преуспеть
 trigger
 get ahead
 2
-trigger - дать толчок, спровоцировать
+'trigger' - дать толчок, спровоцировать
 
 I’ll phone you tomorrow … usual.
 as
 like
 1
-Устойчивое выражение \'as usual\'. Like использовать нельзя
+Устойчивое выражение 'as usual'. Like использовать нельзя
 
 Why didn’t you do it … I told you to do it?
 like
 as
 2
-Используем \'as\', так как дальше идёт подлежащее + глагол
+Используем 'as', так как дальше идёт подлежащее + глагол
 
 Tim gets on my nerves. I can’t stand people …
 like him
 as him
 1
-Значение \'похожий, аналогичный\' - используем \'like\'
+Значение 'похожий, аналогичный' - используем 'like'
 
 Вбивать, втемяшивать:
 step in
 drum into
 2
-step in - вмешиваться
+'step in' - вмешиваться
 
 Критерий, мерка:
 trait
 yardstick
 2
-trait - черта характера
+'trait' - черта характера
 
 Брать себе лучшее:
 cream off
 rip off
 1
-rip off - ободрать, обманом выманить деньги
-
-You can go out … you are.
-as
-like
-1
-Перед подлежащим + глаголом используем \'as\'. Однако в значении \'в таком же состоянии\' также можно использовать \'like\' в неформальном разговорном английском
+'rip off' - ободрать, обманом выманить деньги
 
 He was recruited into the company …
 like a troubleshooter
 as a troubleshooter
 2
-Здесь значение \'в качестве, в функции\' - надо использовать as
+Здесь значение 'в качестве, в функции' - надо использовать 'as'
 
 Our factory is often described … a showcase for good working practices in the region
 as
 like
 1
-После глагола describe используется as (описать, охарактеризовать как)
+После глагола 'describe' используется 'as' (описать, охарактеризовать как)
 
 Most employees support some aspects of our corporate culture, … not wearing ties or having flexible working hours
 like
 as
 1
-Когда мы приводим примеры, нужно использовать like
+Когда мы приводим примеры, нужно использовать 'like'
 
 Отстать с чем-то, просрочить что-то
 get behind with sth.
 beside the point
 1
-beside the point - не по делу
+'beside the point' - не по делу
 
 Падать в обморок
 faint
 trait
 1
-trait - черта характера
+'trait' - черта характера
 
 Подчеркивать, делать более явным
 drown out
 bring out
 2
-drown out - заглушать
+'drown out' - заглушать
 
 Can I borrow this book …
-when you\'ve finished with it?
-when you\'ll finish with it?
+when you've finished with it?
+when you'll finish with it?
 1
-В придаточных времени (например, после when) не используем Future Simple. Можно использовать Present Simple или Present Perfect, если одно действие завершается до другого действия.
+В придаточных времени (например, после 'when') не используем Future Simple. Можно использовать Present Simple или Present Perfect, если одно действие завершается до другого действия.
 
 … away this summer?
 Will you be going
@@ -122,41 +116,41 @@ Will you go
 circulate
 amalgamate
 2
-circulate - распространять, рассылать
+'circulate' - распространять, рассылать
 
 Обнаружиться, раскрыться
 come out
 come about
 1
-come about - случаться, происходить
+'come about' - случаться, происходить
 
 Использовать, эксплуатировать
 exploit
 explore
 1
-explore - изучать, исследовать
+'explore' - изучать, исследовать
 
 Приступить к чему-то
 boil down to
 get down to
 2
-boil down to - сводиться к чему-то
+'boil down to' - сводиться к чему-то
 
 Прогореть, обанкротиться
 go dead
 go bust
 2
-go dead - оборваться (о звонке, связи)
+'go dead' - оборваться (о звонке, связи)
 
 Довольный человек
 au pair
 a happy camper
 2
-au pair - девушка-иностранка, живущая в семье с целью изучения языка
+'au pair' - девушка-иностранка, живущая в семье с целью изучения языка
 
 I … what happened. I promise.
-won\'t tell anyone
-\'m not going to tell anyone
+won't tell anyone
+'m not going to tell anyone
 1
 Используем Future Simple, когда даём обещания.
 
@@ -176,125 +170,125 @@ does your aunt arrive
 hoodwink
 rat race
 2
-hoodwink - обмануть, одурачить
+'hoodwink' - обмануть, одурачить
 
 Заглушить
 put out
 drown out
 2
-put out - тушить, гасить (например, огонь)
+'put out' - тушить, гасить (например, огонь)
 
 Работать, не покладая рук
 work your tail off
 dead-end job
 1
-dead-end job - бесперспективная работа
+'dead-end job' - бесперспективная работа
 
 Our company, … , is a privately owned business.
 as Virgin
 like Virgin
 2
-Значение \'подобно, аналогично\', поэтому используем \'like\'
+Значение 'подобно, аналогично', поэтому используем 'like'
 
-… - they\'ve sent the wrong instructions!
-It\'s just like I thought,
-It\'s just as I thought,
+… - they've sent the wrong instructions!
+It's just like I thought,
+It's just as I thought,
 2
-Используем \'as\', поскольку дальше идёт подлежащее + сказуемое
+Используем 'as', поскольку дальше идёт подлежащее + сказуемое
 
 They closed the factory, …
 as it was no longer profitable
 like it was no longer profitable
 1
-Значение \'потому что\' - используем \'as\'
+Значение 'потому что' - используем 'as'
 
 Случаться, происходить
 come about
 come around
 1
-come around - заходить, заезжать
+'come around' - заходить, заезжать
 
 Принять решение
 reach to a decision
 come to a decision
 2
-Глагол \'reach\' используется без предлога, поэтому второе выражение неверно. Но выражение \'reach a decision\' верное.
+Глагол 'reach' используется без предлога, поэтому второе выражение неверно. Но выражение 'reach a decision' верное.
 
 Интенсивный курс
 a crash course
 a rush course
 1
-Устойчивое выражение - a crash course
+Устойчивое выражение - 'a crash course'
 
 Оптимизировать, рационализировать
 streamline
 trigger
 1
-trigger - дать толчок, спровоцировать
+'trigger' - дать толчок, спровоцировать
 
 Приходить в себя
 come up
 come around
 2
-come up - неожиданно появляться, возникать
+'come up' - неожиданно появляться, возникать
 
 Намекать, клонить к чему-то
 pull over
 drive at
 2
-pull over - съезжать на обочину и останавливаться
+'pull over' - съезжать на обочину и останавливаться
 
 Намекать, клонить к чему-то
 trigger
 encourage
 1
-encourage - подбодрять, вдохновлять, воодушевлять
+'encourage' - подбодрять, вдохновлять, воодушевлять
 
 Держись!
 hang in there
 hold on
 1
-hold on - оставаться на линии, не вешать трубку
+'hold on' - оставаться на линии, не вешать трубку
 
 Правая рука, ближайший помощник:
 right-hand man
 the right man
 1
-the right man - правильный, подходящий человек
+'the right man' - правильный, подходящий человек
 
 Ни в коем случае!
 needless to say
 nothing doing
 2
-needless to say - само собой разумеется
+'needless to say' - само собой разумеется
 
 Стремление, сильное желание:
 aspiration
 inspiration
 1
-inspiration - вдохновение
+'inspiration' - вдохновение
 
 Безупречный, безукоризненный
 incredible
 impeccable
 2
-incredible - невероятный, поразительный
+'incredible' - невероятный, поразительный
 
 Your cousin is in hospital.
-Yes, I know. I\'ll go and visit her.
-Yes, I know. I\'m going to visit her.
+Yes, I know. I'll go and visit her.
+Yes, I know. I'm going to visit her.
 2
-Фраза \'Да, я знаю.\' показывает, что говорящий уже заранее принял решение навестить её
+Фраза 'Да, я знаю.' показывает, что говорящий уже заранее принял решение навестить её
 
 Your cousin is in hospital.
-Really? I didn\'t know. I\'ll go and visit her.
-Really? I didn\'t know. I\'m going to visit her.
+Really? I didn't know. I'll go and visit her.
+Really? I didn't know. I'm going to visit her.
 1
 Решаем это сделать в момент речи - используем Future Simple
 
 Your brother phoned while you were out.
-OK. I\'ll call him back.
-OK. I\'m going to call him back.
+OK. I'll call him back.
+OK. I'm going to call him back.
 1
 Решаем это сделать в момент речи - используем Future Simple
 
@@ -302,19 +296,19 @@ OK. I\'m going to call him back.
 Reach cooperation
 Reach an agreement
 2
-Cooperation - сотрудничество
+'Cooperation' - сотрудничество
 
 Фанатик контроля
 Control fan
 Control freak
 2
-Устойчивое словосочетание - \'Control freak\'
+Устойчивое словосочетание - 'Control freak'
 
 Престижный
 Prestigious
 High-end
 1
-\'High-end\' - элитный, верхнего ценового сегмента
+'High-end' - элитный, верхнего ценового сегмента
 
 I haven’t got any money.
 Don’t worry. I’m going to lend you some.
@@ -326,7 +320,7 @@ Do you want me to take you to the airport?
 No thanks. Liz is going to take me.
 No thanks. Liz’ll take me.
 1
-Это было заранее запланировано, поэтому используем конструкцию \'to be going to\'
+Это было заранее запланировано, поэтому используем конструкцию 'to be going to'
 
 Can I speak to Jim, please?
 Just a moment. I’ll get him.
@@ -338,235 +332,235 @@ Just a moment. I’m going to get him.
 Hop in
 Pick up
 1
-\'Pick up\' - заезжать за кем-то
+'Pick up' - заезжать за кем-то
 
 Поддерживать связь с кем-то:
 Keep touch with sb.
 Keep in touch with sb.
 2
-Правильное выражение с предлогом \'in\'
+Правильное выражение с предлогом 'in'
 
 Уволить:
 Give the ax
 Give the can
 1
-(To) can - уволить. \'Give the can\' - такого выражения нет
+(To) 'can' - уволить. 'Give the can' - такого выражения нет
 
 Сообщить новость (обычно неприятную):
 Drop a line
 Break the news
 2
-\'Drop a line\' - чиркануть несколько строк
+'Drop a line' - чиркануть несколько строк
 
 Наскрести, с трудом собрать:
 Scrape
 Collect
 1
-\'Collect\' - собирать, коллекционировать
+'Collect' - собирать, коллекционировать
 
 Вламываться, врываться:
 Break out
 Break in
 2
-\'Break out\' - вспыхивать (о пожаре, войне, эпидемии)
+'Break out' - вспыхивать (о пожаре, войне, эпидемии)
 
 Попасть в передрягу:
 Get into a scrape
 Get into a flap
 1
-\'Get into a flap\' - запаниковать, встревожиться
+'Get into a flap' - запаниковать, встревожиться
 
 Мучение, пытка:
 Torture
 Trigger
 1
-\'Trigger\' - курок, пусковой механизм
+'Trigger' - курок, пусковой механизм
 
 Довести до сведения:
 Bring home
 Send home
 1
-Устойчивое словосочетание - \'bring home\'
+Устойчивое словосочетание - 'bring home'
 
 My parents … for 25 year.
 are married
 have been married
 2
-Имеется в виду действие, продолжающееся с какого-то момента в прошлом до настоящего времени. Но глагол \'to be\' не используется в continuous, поэтому нужен Present Perfect
+Имеется в виду действие, продолжающееся с какого-то момента в прошлом до настоящего времени. Но глагол 'to be' не используется в continuous, поэтому нужен Present Perfect
 
 Next year they …. for 25 years.
 will have been married
 will be married
 1
-Имеется в виду действие, начавшееся в какой-то момент в прошлом и продолжающееся до какого-то момента в будущем. Но глагол \'to be\' не используется в continuous, поэтому нужен Future Perfect
+Имеется в виду действие, начавшееся в какой-то момент в прошлом и продолжающееся до какого-то момента в будущем. Но глагол 'to be' не используется в continuous, поэтому нужен Future Perfect
 
 When their son was born,… for two years.
 they were married
 they had been married
 2
-Действие началось в более далёком прошлом и продолжалось 2 года до момента в более недавнем прошлом - рождения их сына. Но глагол \'to be\' не используется в continuous, поэтому нужен Past Perfect
+Действие началось в более далёком прошлом и продолжалось 2 года до момента в более недавнем прошлом - рождения их сына. Но глагол 'to be' не используется в continuous, поэтому нужен Past Perfect
 
 Нарядиться, приодеться:
 Put up with
 Dress up
 2
-\'Put up with\' - смириться с
+'Put up with' - смириться с
 
 Вмешиваться:
 Step in
 Let in
 1
-\'Let in\' - впутывать, вовлекать; впускать
+'Let in' - впутывать, вовлекать; впускать
 
 Прозрение:
 Epiphany
 Encounter
 1
-\'Encounter\' - встреча
+'Encounter' - встреча
 
 Потерять интерес, отключиться:
 Come off
 Switch off
 2
-\'Come off\' - проходить с успехом
+'Come off' - проходить с успехом
 
 Все же, в конце концов
 At least
 After all
 2
-\'At least\' - по крайней мере
+'At least' - по крайней мере
 
 Главный, основной:
 Foremost
 Forefront
 1
-\'Forefront\' - передний план
+'Forefront' - передний план
 
 Хотя бы, по крайней мере:
 At last
 At least
 2
-\'At last\' - наконец-то
+'At last' - наконец-то
 
 Вызывать отвращение:
 Put off
 Take off
 1
-\'Take off\' - снимать
+'Take off' - снимать
 
 В первую очередь:
 First and foremost
 Foremost and first
 1
-Правильное сочетание - \'First and foremost\'
+Правильное сочетание - 'First and foremost'
 
 Нет смысла в:
 No point in
 No worth in
 1
-Слово \'worth\' не используется с предлогом in. С ним возможна конструкция: \'it's not worth doing sth.\' - не стоит делать что-то
+Слово 'worth' не используется с предлогом in. С ним возможна конструкция: 'it's not worth doing sth.' - не стоит делать что-то
 
 Лавина:
 Avalanche
 Assuage
 1
-\'Assuage\' - смягчать, успокаивать
+'Assuage' - смягчать, успокаивать
 
 Человек, бросивший учебу:
 Break-in
 Dropout
 2
-\'Break-in\' - взлом
+'Break-in' - взлом
 
 Кое-как сводить концы с концами:
 Charge top dollar
 Live from hand to mouth
 2
-\'Charge top dollar\' - назначать максимальную цену
+'Charge top dollar' - назначать максимальную цену
 
 Уносить жизнь:
 Claim life
 Lay down life
 1
-\'Lay down life\' - жертвовать жизнь
+'Lay down life' - жертвовать жизнь
 
 Безработный:
 Work-free
 Out of work
 2
-Правильное выражение - \'Out of work\'
+Правильное выражение - 'Out of work'
 
 С самого начала:
 From the outset
 From the outstart
 1
-Правильное выражение - \'From the outset\'
+Правильное выражение - 'From the outset'
 
 Напряженный, подверженный стрессу:
 Stressed out
 Constrained
 1
-\'Constrained\' - скованный, стеснённый
+'Constrained' - скованный, стеснённый
 
 Распространять, распределять:
 Circulate
 Split
 1
-\'Split\' - распадаться, расщепляться
+'Split' - распадаться, расщепляться
 
 Выводиться (о пятнах):
 Come out
 Come off
 1
-\'Come off\' - проходить с успехом
+'Come off' - проходить с успехом
 
 Остановить взгляд на ком-то/чём-то:
 Put eyes on sb.
 Set eyes on sb.
 2
-Правильное выражение - \'Set eyes on sb\'.
+Правильное выражение - 'Set eyes on sb'
 
 Любознательный, пытливый:
 Requiring
 Inquisitive
 2
-\'Requiring\' - требующий
+'Requiring' - требующий
 
 Убегать (о продуктах при готовке):
 Come over
 Boil over
 2
-\'Come over\' - навещать, приходить в гости
+'Come over' - навещать, приходить в гости
 
 Падение, крушение:
 Downfall
 Fall down
 1
-Есть глагол - \'fall down\', но существительное - \'downfall\'
+Есть глагол - 'fall down', но существительное - 'downfall'
 
 Мыслить масштабно:
 Think ahead
 Think big
 2
-\'Think ahead\' - думать наперёд
+'Think ahead' - думать наперёд
 
 Повсюду:
 Far and away
 Far and wide
 2
-\'Far and away\' - несомненно, бесспорно
+'Far and away' - несомненно, бесспорно
 
 В целости и сохранности:
 Unshattered
 Unscathed
 2
-\'Unshattered\' - неразрушенный
+'Unshattered' - неразрушенный
 
 Ядовитый (о змеях, пауках, скорпионах):
 Poisonous
 Venomous
 2
-Когда речь идёт о кусающих и жалящих насекомых и рептилиях, используется слово \'venomous\'
+Когда речь идёт о кусающих и жалящих насекомых и рептилиях, используется слово 'venomous'
 
 …. Can you turn it off?
 The water is boiling
@@ -584,100 +578,802 @@ How do you feel now?
 True
 False
 1
-Это верно, так как с \'feel\' и \'look\' можно использовать и Present Simple, и Present Continuous, чтобы сказать, как кто-то выглядит или чувствует себя сейчас
+Это верно, так как с 'feel' и 'look' можно использовать и Present Simple, и Present Continuous, чтобы сказать, как кто-то выглядит или чувствует себя сейчас
 
 Наблюдать (со стороны, не вмешиваясь):
 Look at
 Look on
 2
-\'Look at\' - смотреть на что-то/кого-то, но не \'наблюдать со стороны\'
+'Look at' - смотреть на что-то/кого-то, но не 'наблюдать со стороны'
 
 Отталкивающий, неприятный:
 Off-putting
 Offspring
 1
-\'Offspring\' - потомок
+'Offspring' - потомок
 
 Ходить по краю пропасти:
 Be at stake
 Be on thin ice
 2
-\'At stake\' - на кону
+'At stake' - на кону
 
 The company … a profit last year.
 Made
 Did
 1
-\'Make a profit\' - получать прибыль
+'Make a profit' - получать прибыль
 
 We can … a discount to our regular customers.
 Make
 Give
 2
-\'give a discount\' - давать скидку
+'give a discount' - давать скидку
 
 You have to … your bed every morning.
 Make
 Do
 1
-\'Make one's bed\' - заправлять кровать
+'Make one's bed' - заправлять кровать
 
 Тут ничего не поделаешь:
 It cannot be helped.
 It cannot be done.
 1
-Это устойчивое выражение - \'It cannot be helped\'
+Это устойчивое выражение - 'It cannot be helped'
 
 Общительный, коммуникабельный:
 Outstanding
 Outgoing
 2
-\'Outstanding\' - известный, знаменитый
+'Outstanding' - известный, знаменитый
 
 Наблюдатель, зевака:
 Passer-by
 Onlooker
 2
-\'Passer-by\' - прохожий
+'Passer-by' - прохожий
 
 Безвкусный, низкокачественный:
 Tatty
 Tacky
 2
-\'Tatty\' - потрёпанный, обшарпанный
+'Tatty' - потрёпанный, обшарпанный
 
 Иметь трудности с чем-то:
 Have trouble doing sth.
 Have trouble to do sth.
 1
-После выражения \'have trouble\' используется герундий - к глаголу добавляется окончание \'-ing\'. Инфинитив использовать неправильно
+После выражения 'have trouble' используется герундий - к глаголу добавляется окончание '-ing'. Инфинитив использовать неправильно
 
 Спад деловой активности:
 Downfall
 Downturn
 2
-\'Downfall\' - крах, крушение
+'Downfall' - крах, крушение
 
 I … them to the party but they decided not to come.
 Have invited
 Invited
 2
-Вторая часть предложения показывает, что ситуация была в прошлом. Present Perfect в первой части использовать нельзя, нет связи с настоящим.
+Вторая часть предложения показывает, что ситуация была в прошлом. Present Perfect в первой части использовать нельзя, нет связи с настоящим
 
 Попасть не в бровь, а в глаз:
 Hit the mark on the head
 Hit the nail on the head
 2
-Есть выражение \'hit the mark\' - попасть в цель, попасть в яблочко. Но выражения \'hit the mark on the head\' нет.
+Есть выражение 'hit the mark' - попасть в цель, попасть в яблочко. Но выражения 'hit the mark on the head' нет
 
 Прикованный к постели:
 Bedridden
 Bed-trapped
 1
-\'Trapped\' - пойманный в ловушку, оказавшийся в затруднительном положении. Со словом \'bed\' не употребляется.
+'Trapped' - пойманный в ловушку, оказавшийся в затруднительном положении. Со словом 'bed' не употребляется
 
 Развалиться на части:
 Come apart
 Break down
 1
-\'Break down\' - сломаться, но не развалиться на части.
+'Break down' - сломаться, но не развалиться на части
+
+Сделать комплимент:
+Pay a compliment
+Pay a complement
+1
+'complement' - добавление, дополнение
+
+Призывать, побуждать:
+Surge
+Urge
+2
+'Surge' - нарастать, подниматься
+
+Сокращать, уменьшать что-то:
+Cut back
+Cut off
+1
+'Cut off' - отрезать, отключать
+
+… , you’ll find a trekking holiday very difficult.
+If you don’t used to walking every day
+If you aren’t used to walking every day
+2
+Выражение 'to be used to sth' (быть привыкшим к чему-то) используется с глаголом 'to be'
+
+Travel helps you … different ways of doing things.
+get used to
+be used to
+1
+'To be' обозначает состояние ('to be used to' - быть привыкшим). 'Get' - обозначает действие, изменение состояния ('get used to' - привыкнуть). В примере требуется действие, не состояние, используем 'get'
+
+The children hate walking because …
+they are used to go everywhere by car
+they are used to going everywhere by car
+2
+В выражении 'to be used to' to - это предлог. После него необходимо употреблять герундий с окончанием '-ing'. Инфинитив употреблять нельзя
+
+Потрясающий, великолепный:
+Terrific
+Venomous
+1
+'Venomous' - ядовитый
+
+Отдавать должное:
+Give justice
+Give credit
+2
+Есть выражения 'do justice' и 'give credit' - воздавать должное
+
+Связь:
+Back-up
+Bond
+2
+'Back-up' - поддержка
+
+Среди бела дня:
+In wide daylight
+In broad daylight
+2
+Правильное выражение - 'In broad daylight'
+
+Ловкость, сноровка:
+Dexterity
+Epiphany
+1
+'Epiphany' - прозрение
+
+Вывешивать, выставлять:
+Put off
+Put up
+2
+'Put off' - откладывать; вызывать отвращение
+
+My sister … long hair when she was a child.
+Had got
+Had
+2
+Конструкция 'have got' используется только в настоящем времени, в прошедшем времени мы используем 'had'.
+
+Can I … a look at your newspaper?
+Have got
+Have
+2
+'Have got' используется, когда речь идёт об обладании чем-то. Здесь речь идёт о действии, не владении: 'have a look' - взглянуть. 'Have got' использовать нельзя.
+
+He couldn’t contact us because he … our phone number.
+Didn’t have
+Hadn’t
+1
+С глаголом 'have' требуются вспомогательные глаголы, поэтому во времени Past Simple мы используем 'did' для вопросов и отрицаний
+
+Прошлый, пережитой:
+Bygone
+Outgoing
+1
+'Outgoing' - общительный, коммуникабельный
+
+Хорошая идея!
+Way to go!
+Good thinking!
+2
+'Way to go!' - Так держать!
+
+Неожиданно возникать, появляться:
+Come across
+Come up
+2
+'Come across' - случайно встретить, наткнуться
+
+Изображать, описывать:
+Circulate
+Depict
+2
+'Circulate' - распространять, рассылать
+
+Шепотом, еле слышно:
+Under breath
+Over head
+1
+'Over one's head' - выше понимания
+
+Ободрать, обманом выманить деньги:
+Rub in
+Rip off
+2
+'Rub in' - постоянно твердить о чём-то
+
+Черта характера:
+Trait
+Dexterity
+1
+Dexterity - ловкость, сноровка
+
+Набирать силу:
+Obtain strength
+Gather strength
+2
+Правильное устойчивое сочетание - 'Gather strength'
+
+Неправильно понять что-то:
+Take the wrong way
+Take wrong
+1
+'Take the wrong way' - устойчивое словосочетание. В любом случае 'wrong' (неправильный) - прилагательное, с ним необходимо использовать существительное. Использование глагола + прилагательное неверно
+
+У нас мало денег:
+We are pushed for money
+We are out of money
+1
+'To be out of sth.' - что-то закончилось. 'To be pushed for sth.' - иметь мало чего-то
+
+Предшественник:
+Successor
+Ancestor
+2
+'Successor' - наоборот, последователь, последующее событие
+
+О вкусах не спорят:
+There’s no accounting of taste
+There’s no accounting for taste
+2
+Правильное выражение - 'There’s no accounting for taste'. Оно произошло от выражения 'to account for sth.' - давать объяснение чему-то
+
+She uses email ...
+as a way of keeping in touch with her clients
+like a way of keeping in touch with her clients
+1
+Здесь значение 'в качестве' - в этом случае используется 'as'
+
+I, …, think that it’s time to change.
+like you
+as you
+1
+В значении 'аналогичный, подобный, похожий' используем 'like'
+
+I know we lost money but ...
+it was regarded as a good investment at the time.
+it was regarded like a good investment at the time.
+1
+После глагола 'regard' используется предлог 'as' в значении считать чем-то, рассматривать как что-то
+
+Осознать что-то:
+Look on sth
+Wake up to sth.
+2
+'Look on sth.' - наблюдать со стороны (не вмешиваясь)
+
+Взвинченный, на нервах:
+Stressed out
+On edge
+2
+'Stressed out' - напряжённый, подверженный стрессу
+
+Обходиться без чего-то:
+Do without sth.
+Do away with sth.
+1
+'Do away with' - отменить, покончить с чем-то
+
+Когда речь заходит о чём-то:
+When it comes to sth
+In regard to
+1
+'In regard to' - в отношении
+
+Быть против чего-то:
+Turn down
+Be opposed to sth
+2
+'Turn down' - отвергать, отказывать
+
+Сводиться к чему-то:
+Come down to sth
+Cut back on sth
+1
+'Cut back on' - сокращать
+
+Осведомлённый, хорошо информированный:
+Overwhelming
+Well-placed
+2
+'Overwhelming' - подавляющий, превалирующий
+
+Связанный, привязанный к чему-то:
+Clapped-out
+Tied down
+2
+'Clapped-out' - изношенный, раздолбанный
+
+Бесподобный, выше всяких похвал:
+Out of this world
+Vivid
+1
+'Vivid' - яркий, живой
+
+Отрицательная ответная реакция:
+Downturn
+Backlash
+2
+'Downturn' - спад деловой активности
+
+Финансовый результат:
+Markup
+Bottom line
+2
+'Markup' - наценка, накрутка
+
+Ушивать одежду:
+Take in
+Rip off
+1
+'Rip off' - ободрать, обманом выманить деньги
+
+Неофициальное совещание:
+Get-together
+Appointment
+1
+'Appointment' - встреча, приём у врача
+
+Объедаться:
+Eat out
+Pig out
+2
+'Eat out' - есть не дома
+
+Удовлетворение, реализация:
+Fulfilment
+Dexterity
+1
+'Dexterity' - ловкость, сноровка
+
+Богатый, зажиточный:
+Profitable
+Well-off
+2
+'Profitable' - прибыльный, доходный
+
+Строго по инструкции:
+As a rule
+By the book
+2
+'As a rule' - как правило
+
+Проходить, прекращаться:
+Let up
+Stop by
+1
+'Stop by' - заехать/зайти ненадолго
+
+Жестокий, ожесточенный:
+Rat race
+Cut-throat
+2
+'Rat race' - бешеная гонка, ожесточенная конкуренция. Не подходит, так как по заданию нужно прилагательное
+
+Сводиться к чему-то:
+Boil down to
+Tied down
+1
+'Tied down' - привязанный, связанный
+
+Стараться изо всех сил:
+Make your best
+Give it the best shot
+2
+Есть выражение 'do your best', которое означает то же самое, но оно не используется с глаголом 'make'
+
+Придерживаться чего-то:
+Hit on sth.
+Stick to sth.
+2
+'Hit on sth.' - придумать
+
+Отключиться, потерять интерес:
+Put off
+Switch off
+1
+'Put off' - вызывать отвращение
+
+Поставить цель:
+Place an order
+Set a goal
+2
+'Place an order' - разместить заказ
+
+Намекать, клонить к чему-то:
+Pull over
+Drive at
+2
+'Pull over' - съезжать на обочину и останавливаться
+
+Приходить в себя:
+Come up
+Come around
+2
+'Come up' - неожиданно появляться, возникать
+
+Оптимизировать, рационализировать:
+Streamline
+Trigger
+1
+'Trigger' - дать толчок, спровоцировать
+
+Интенсивный курс:
+A crash course
+A rush course
+1
+Устойчивое выражение - 'A crash course'
+
+Принять решение:
+Reach to a decision
+Come to a decision
+2
+Глагол 'reach' используется без предлога, поэтому первое выражение неверно. Но выражение 'reach a decision' верное
+
+Случаться, происходить:
+Come about
+Come around
+1
+'Come around' - заходить, заезжать
+
+We haven’t got a car, so we use the garage ….
+as a workshop
+like a workshop
+1
+Здесь значение 'в качестве' - используем 'as'
+
+Your feet are … blocks of ice.
+like
+as
+1
+Здесь значение 'похожий, подобный' - используем 'like'
+
+You can go out … you are.
+as
+like
+1
+Перед подлежащим + глаголом используем 'as'. Однако в значении 'в таком же состоянии' также можно использовать 'like' в неформальном разговорном английском
+
+If you continue like this, you'll ... all your money before the end of your holiday.
+have spent
+spend
+1
+Мы используем Future Perfect, если что-то произойдёт или завершится к какому-то моменту в будущем
+
+Подходящий вариант:
+A good fit
+A right-hand man
+1
+'A right-hand man' - правая рука
+
+Покончить с чем-то:
+Get over with sth.
+Get away with sth.
+1
+'Get away with sth.' - сходить с рук
+
+Постыдный, позорный:
+On edge
+Infamous
+2
+'On edge' - взвинченный, на нервах
+
+Получить признание:
+Gain recognition
+Get ahead
+1
+'Get ahead' - продвинуться вперёд, преуспеть
+
+Соглашаться, поддерживать:
+Stick to sth
+Go along with
+2
+'Stick to sth' - придерживаться чего-то
+
+Благородный, изысканный:
+Well-off
+Refined
+2
+'Well-off' - богатый, зажиточный
+
+By the end of our holiday we ….
+will visit five different cities
+will have visited five different cities.
+2
+К определённому моменту в будущем будет достигнут результат - посещение 5 городов
+
+Do you think …
+you’ll be doing the same job next year
+you’ll do the same job next year
+1
+Действие будет в процессе в будущем, используем Future Continuous
+
+If you need to contact me, …
+I’ll stay with my friends until Sunday
+I’ll be staying with my friends until Sunday
+2
+Действие будет в процессе в будущем, используем Future Continuous
+
+В соответствии с:
+By means of
+In line with
+2
+'By means of' - посредством, при помощи
+
+Вознаграждение за услугу в виде ден.суммы:
+Gratuity
+Horde
+1
+'Horde' - толпа, куча народа
+
+Заболеть:
+Go belly-up
+Come down with sth.
+2
+'Go belly-up' - обанкротиться
+
+Would you like some more coffee …
+before you leave?
+before you’ll leave?
+1
+Придаточное предложение времени - используем Present Simple, не Future Simple
+
+… until he comes.
+I’ll wait
+I wait
+1
+Это главное предложение, не придаточное. Принимаем решение в момент речи о будущем - используем Future Simple
+
+I’ll come straight back home …
+after I’ll do the shopping.
+after I’ve done the shopping.
+2
+Это придаточное предложение времени, действие в придаточном предложении предшествует действию в главном предложении - используем Present Perfect
+
+Деяние, поступок:
+Exploit
+Dexterity
+1
+'Dexterity' - ловкость, сноровка
+
+Вешать трубку:
+Go dead
+Ring off
+2
+'Go dead' - оборваться (о связи)
+
+Испытывать неоднозначное чувство:
+Have hard feelings
+Have mixed feelings
+2
+'Have hard feelings' - обижаться
+
+Подросток:
+Adolescent
+Adult
+1
+'Adult' - взрослый, совершеннолетний человек
+
+Выносить приговор, осуждать за что-то:
+Convict on sth.
+Convict of sth.
+2
+Этот глагол используется с предлогом 'of'
+
+Выходить (из больницы, тюрьмы):
+Come out
+Come round
+1
+'Come round' - прийти в себя
+
+Веселый, в приподнятом настроении:
+Exhilarated
+Outgoing
+1
+'Outgoing' - общительный, коммуникабельный
+
+Снижать, сбивать:
+Turn down
+Bring down
+2
+'Turn down' - отвергать, отказывать
+
+Само собой разумеется:
+Needless to tell
+Needless to say
+2
+Это устойчивое выражение, правильный вариант только 'Needless to say'
+
+Пруд пруди:
+Overwhelming
+Dime a dozen
+2
+'Overwhelming' - подавляющий
+
+Молодец! Рад за тебя!
+Good for you!
+You bet!
+1
+'You bet!' - А как же!
+
+Отвергать с презрением:
+Exploit
+Spurn
+2
+'Exploit' - использовать, эксплуатировать
+
+Бездельничать:
+Chill out
+Laze around
+2
+'Chill out' - оттягиваться
+
+Само собой разумеется:
+It’s a piece of cake
+It goes without saying
+2
+'It’s a piece of cake' - Пустяковое дело
+
+Пожимать плечами:
+Shrug
+Trigger
+1
+'Trigger' - дать толчок, спровоцировать
+
+Браться, заниматься:
+Take up
+Take in
+1
+'Take in' - ушивать (одежду)
+
+Давать выход чувствам:
+Boil over
+Let off steam
+2
+'Boil over' - убегать (о продуктах)
+
+Извлекать пользу из чего-то:
+Benefit from sth.
+Benefit out of sth.
+1
+Правильный ответ - с предлогом 'from'
+
+Компромисс, выбор:
+Trade-off
+Markup
+1
+'Markup' - наценка, накрутка
+
+Выкуп:
+Affliction
+Ransom
+2
+'Affliction' - недуг, бедствие
+
+Удаваться, проходить с успехом:
+To come off
+To come out
+1
+'To come out' - обнаруживаться, раскрываться
+
+Javier Munoz … a presentation in the meeting room tomorrow.
+will give
+will be giving
+2
+Презентация была запланирована заранее - используем Future Continuous или Present Continuous
+
+-Oh, that’s the phone!
+-Don’t worry, I’m going to answer it.
+-Don’t worry, I’ll answer it.
+2
+Решение принимается в момент речи, это не запланированное действие
+
+Покончить, разделаться с:
+Get behind with
+Get over with
+2
+'Get behind with' - отстать, просрочить
+
+Трудный период:
+Trepidation
+Hard times
+2
+'Trepidation' - трепет, волнение
+
+Неожиданно возникать, появляться:
+Come around
+Come up
+2
+'Come around' - приходить в себя
+
+I never thought I’d feel so …
+homesick
+housesick
+1
+Правильное сочетание - 'homesick' (тоскующий по дому)
+
+Do you think you could possibly water my … ?
+houseplants
+homeplants
+1
+Правильное сочетание - 'houseplants' (комнатные растения)
+
+We’re having a … party on Sunday.
+home-warming
+house-warming
+2
+Правильное сочетание - 'house-warming' (новоселье)
+
+Тряпка, размазня:
+Wimp
+Dude
+1
+'Dude' - чувак
+
+Богатый, зажиточный:
+Unscathed
+Affluent
+2
+'Unscathed' - в целости и сохранности
+
+Упоминаться, поднять вопрос:
+Come up
+Hit on
+1
+'Hit on' - придумать
+
+В самом разгаре:
+In line with
+In full swing
+2
+'In line with' - в соответствии с
+
+Значимый, серьезный:
+Meaningful
+Exhilarated
+1
+'Exhilarated' - весёлый, в приподнятом настроении
+
+Откровенно признаваться:
+Come down with
+Own up to sth.
+2
+'Come down with' - заболеть
+
+Нажить состояние:
+Make a fortune
+Do a fortune
+1
+Это словосочетание употребляется с глаголом 'make'
+
+Прибегать к чему-то:
+Get down to sth.
+Resort to sth.
+2
+'Get down to sth.' - приниматься, прибегать к чему-то
+
+Хотеть сделать что-то:
+Feel like
+Look forward to
+1
+'Look forward to' - с нетерпением ждать чего-то

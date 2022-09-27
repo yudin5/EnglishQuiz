@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private int questionsAsked = 0;
     private final List<QuestionDb> alreadyAnswered = new ArrayList<>();
 
+    private QuestionDbHelper dbHelper;
     private QuestionDb[] questionBank;
     //    private Question[] questionBank = Questions.get10RandomQuestions();
     private int currentIndex = 0;
@@ -50,12 +51,12 @@ public class MainActivity extends AppCompatActivity {
 
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
-        boolean deleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME);
-        System.out.println("deleted = " + deleted);
+//        boolean deleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME); // удалить БД
+//        System.out.println("deleted = " + deleted);
 
-        QuestionDbHelper dbHelper = new QuestionDbHelper(this);
-        int totalNumberQuestions = dbHelper.getTotalNumberQuestions();
-        System.out.println("totalNumberQuestions = " + totalNumberQuestions);
+        dbHelper = new QuestionDbHelper(this);
+//        int totalNumberQuestions = dbHelper.getTotalNumberQuestions();
+//        System.out.println("totalNumberQuestions = " + totalNumberQuestions);
 
         questionBank = dbHelper.get10RandomQuestions();
 
@@ -114,8 +115,6 @@ public class MainActivity extends AppCompatActivity {
 //        int firstOptionTextResId = questionBank[currentIndex].firstOptionResId;
 //        int secondOptionTextResId = questionBank[currentIndex].secondOptionResId;
 //        int explanationTestResId = questionBank[currentIndex].explanationResId;
-        QuestionDb questionDb = questionBank[0];
-        System.out.println("questionDb 0 = " + questionDb);
 
         String questionText = questionBank[currentIndex].getQuestion();
         String firstOptionText = questionBank[currentIndex].getFirstOption();
@@ -173,6 +172,8 @@ public class MainActivity extends AppCompatActivity {
         questionsAsked++; // Увеличиваем счётчик вопросов, на которые дан ответ
         questionAskedQuantityTextView.setText(String.format("Дано ответов: %s/10", questionsAsked));
         alreadyAnswered.add(questionBank[currentIndex]); // Добавляем вопрос к уже отвеченным
+        // Обновляем в БД статистику - увеличиваем счётчик этого вопроса (который считает, сколько раз дали ответ на этот вопрос) на единицу
+        dbHelper.updateQuestionCounter(questionBank[currentIndex]);
 
         // Если мы уже задали 10 вопросов, то меняем название кнопки "Next" -> "Finish"
         if (questionsAsked > 9) {
