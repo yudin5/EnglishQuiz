@@ -23,6 +23,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final int QUESTIONS_TO_ASK_NUMBER = 10;
+
     private ProgressBar progressBar;
 
     private Button firstOptionButton;
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     private final List<QuestionDb> alreadyAnswered = new ArrayList<>();
 
     private QuestionDbHelper dbHelper;
-    private QuestionDb[] questionBank;
+    private final QuestionDb[] questionBank = new QuestionDb[QUESTIONS_TO_ASK_NUMBER];
     //    private Question[] questionBank = Questions.get10RandomQuestions();
     private int currentIndex = 0;
 
@@ -58,10 +60,15 @@ public class MainActivity extends AppCompatActivity {
 //        int totalNumberQuestions = dbHelper.getTotalNumberQuestions();
 //        System.out.println("totalNumberQuestions = " + totalNumberQuestions);
 
-        questionBank = dbHelper.get10RandomQuestions();
+//        questionBank = dbHelper.get10RandomQuestions();
+
+        List<QuestionDb> allQuestions = dbHelper.get10PseudoRandomQuestions();
+        for (int i = 0; i < QUESTIONS_TO_ASK_NUMBER; i++) {
+            questionBank[i] = allQuestions.get(i);
+        }
 
         progressBar = findViewById(R.id.progressBar);
-        progressBar.setMax(10);
+        progressBar.setMax(QUESTIONS_TO_ASK_NUMBER);
         progressBar.setProgress(0);
 
         firstOptionButton = findViewById(R.id.first_option_button);
@@ -84,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
         // Кнопка "Next"
         nextButton = findViewById(R.id.next_button);
         nextButton.setOnClickListener(view -> {
-                    if (questionsAsked >= 10) {
+                    if (questionsAsked >= QUESTIONS_TO_ASK_NUMBER) {
                         Intent intent = FinishActivity.newIntent(MainActivity.this, userCorrectAnswers);
                         startActivity(intent);
                         finish();

@@ -6,6 +6,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import com.example.englishquiz.MainActivity;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -13,6 +15,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class QuestionDbHelper extends SQLiteOpenHelper {
 
@@ -20,6 +23,7 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
     public static final int VERSION = 1;
     public static final String TABLE_NAME = "questions";
 
+    // Столбцы таблицы
     public static final String ID = "id";
     public static final String QUESTION = "question";
     public static final String FIRST_OPTION = "first_option";
@@ -28,6 +32,7 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
     public static final String EXPLANATION = "explanation";
     public static final String QUESTION_ANSWERED_COUNTER = "question_answered_counter";
 
+    // Запросы
     private static final String CREATE_TABLE = "CREATE TABLE IF NOT EXISTS " + TABLE_NAME + "(" +
             ID + " INTEGER PRIMARY KEY AUTOINCREMENT," +
             QUESTION + " TEXT NOT NULL, " +
@@ -49,7 +54,6 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         try {
-            System.out.println("=================== Создаю новую БД");
             db.execSQL(CREATE_TABLE);
             fillQuestions(db);
         } catch (Exception e) {
@@ -59,7 +63,6 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        System.out.println("===================== Дропаю таблицу!!!");
         db.execSQL(DROP_TABLE);
         onCreate(db);
     }
@@ -86,7 +89,7 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
 
     // Получить количество вопросов, хранящееся в БД
     public int getTotalNumberQuestions() {
-        SQLiteDatabase db = this.getReadableDatabase();
+        SQLiteDatabase db = getReadableDatabase();
         Cursor cursor = db.rawQuery("SELECT * FROM " + TABLE_NAME, null);
         int totalNumbers = cursor.getCount();
         cursor.close();
@@ -96,7 +99,7 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
     // Увеличить счётчик количества ответов на этот вопрос на 1
     public void updateQuestionCounter(QuestionDb question) {
         System.out.println("Обновляю счётчик для вопроса " + question.getId());
-        SQLiteDatabase writableDatabase = this.getWritableDatabase();
+        SQLiteDatabase writableDatabase = getWritableDatabase();
         int id = question.getId();
         int counter = question.getQuestionAnsweredCounter();
         counter++; // Увеличиваем на единицу счётчик и сохраняем в БД
@@ -141,13 +144,71 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
 
         // Берём первые 10. Таким образом получаем случайные неповторящиеся числа из диапазона
         // от 1 до "количество всех вопросов в БД"
-        List<Integer> first10 = allQuestions.subList(0, 10);
-        QuestionDb[] result = new QuestionDb[10];
+        List<Integer> first10 = allQuestions.subList(0, MainActivity.QUESTIONS_TO_ASK_NUMBER);
+        QuestionDb[] result = new QuestionDb[MainActivity.QUESTIONS_TO_ASK_NUMBER];
         for (int i = 0; i < first10.size(); i++) {
             result[i] = getQuestionById(first10.get(i));
         }
 
         return result;
+    }
+
+    // Получить вообще все вопросы из БД. Нагружает оперативу!
+    public List<QuestionDb> get10PseudoRandomQuestions() {
+        SQLiteDatabase db = getReadableDatabase();
+        List<QuestionDb> allQuestions = new ArrayList<>();
+        Cursor cursor = db.rawQuery("SELECT * FROM " + TABLE_NAME, null);
+
+        cursor.moveToFirst();
+        do {
+            QuestionDb question = new QuestionDb();
+            question.setId(cursor.getInt(0));
+            question.setQuestion(cursor.getString(1));
+            question.setFirstOption(cursor.getString(2));
+            question.setSecondOption(cursor.getString(3));
+            question.setRightAnswer(cursor.getInt(4));
+            question.setExplanation(cursor.getString(5));
+            question.setQuestionAnsweredCounter(cursor.getInt(6));
+
+            allQuestions.add(question);
+        } while (cursor.moveToNext());
+        cursor.close();
+
+        // Сколько раз минимально задавались вопросы. То есть ищем минимум среди всех вопросов.
+        int minAsked = allQuestions.stream()
+                .map(QuestionDb::getQuestionAnsweredCounter)
+                .min(Integer::compareTo)
+                .orElse(0);
+
+        // Теперь последовательно, начиная с минимума, набираем 10 вопросов.
+        // Идея такая, что вопросы, которые задавались реже всего, обязательно должны быть заданы
+        List<QuestionDb> result = new ArrayList<>();
+        do {
+            List<QuestionDb> haveToAsk = getQuestionsByAskedNumber(minAsked,
+                    MainActivity.QUESTIONS_TO_ASK_NUMBER - result.size(),
+                    allQuestions);
+            result.addAll(haveToAsk);
+            minAsked++;
+//            result.add(new QuestionDb());
+        } while (result.size() < MainActivity.QUESTIONS_TO_ASK_NUMBER);
+
+        return result;
+    }
+
+    // askedNumber - сколько раз был задан вопрос, questionQty - сколько нам нужно таких вопросов, questionList - список вопросов
+    private List<QuestionDb> getQuestionsByAskedNumber(int askedNumber, int questionQty, List<QuestionDb> questionList) {
+        List<QuestionDb> questions = questionList.stream()
+                .filter(q -> q.getQuestionAnsweredCounter() == askedNumber)
+                .collect(Collectors.toList());
+        // Если таких вопросов найдено больше или равно запрошенному, то перемешиваем их и отдаём случайные.
+        // Отдаём именно то количество, которое было запрошено
+        if (questions.size() >= questionQty) {
+            Collections.shuffle(questions);
+            return questions.subList(0, questionQty);
+        } else {
+            // Если было найдено меньше запрошенного, то отдаём все как есть
+            return questions;
+        }
     }
 
     // Заполняет БД вопросами из текстового файла raw_questions.txt
@@ -176,8 +237,8 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
                 line = reader.readLine();
                 values.put(EXPLANATION, line);
 
-                long insert = db.insert(TABLE_NAME, null, values);
-                System.out.println("insert = " + insert);
+//                long insert = db.insert(TABLE_NAME, null, values);
+                db.insert(TABLE_NAME, null, values);
 
                 line = reader.readLine(); // если line == null, значит это конец файла
             } while (line != null);
