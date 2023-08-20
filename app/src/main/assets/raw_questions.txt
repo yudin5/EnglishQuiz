@@ -568,7 +568,7 @@ The water boils
 1
 Действие происходит сейчас, используем Present Continuous
 
-Water …. at 100 degrees Celsius.
+Water … at 100 degrees Celsius.
 is boiling
 boils
 2
@@ -1377,3 +1377,471 @@ Feel like
 Look forward to
 1
 'Look forward to' - с нетерпением ждать чего-то
+
+Повысить осведомленность:
+Gain recognition
+Raise awareness
+2
+'Gain recognition' - получить признание
+
+Возражать, протестовать:
+Object to sth.
+Go along with sth.
+1
+'Go along with sth.' - соглашаться, поддерживать
+
+Из грязи в князи:
+Live from hand to mouth
+Rags to riches
+2
+'Live from hand to mout' - едва сводить концы с концами
+
+Процветающий, преуспевающий:
+Well-placed
+Prosperous
+2
+'Well-placed' - осведомлённый, хорошо информированный
+
+Признаваться в чём-то:
+Confess to sth.
+Stick to sth.
+1
+'Stick to sth.' - придерживаться чего-то
+
+Отъезжать, трогаться с места:
+Pull over
+Pull away
+2
+'Pull over' - останавливать автомобиль у обочины
+
+Where …  we have lunch?
+Will
+Shall
+2
+Используем 'shall', когда спрашиваем чьё-то мнение (особенно когда предлагаем что-то сделать)
+
+I ... my new job on Monday.
+Will start
+Am starting
+2
+Используем Present Continuous с личными планами на будущее. Здесь также возможен Present Simple - начало новой работы привязано к графику. С графиками и расписаниями используется Present Simple.
+
+What time ... the film start this evening?
+Will
+Does
+2
+С графиками и расписаниями используется Present Simple.
+
+Рассчитывать на что-то:
+Calculate on
+Own up to
+1
+'Own up to' - откровенно признаваться
+
+Неловкий, вызывающий чувство смущения:
+Embarrassing
+Infamous
+1
+'Infamous' - позорный, постыдный
+
+Уважать, равняться на кого-то:
+Look over
+Look up to
+2
+'Look over' - проверять, просматривать
+
+Между тем, тем временем:
+After all
+In the meantime
+2
+'After all' - в конце концов
+
+Подверженный чему-то:
+Exposed to sth.
+Opposed to sth.
+1
+'Opposed to sth.' - против чего-то
+
+Размышлять, обдумывать:
+Grasp
+Ponder
+2
+'Grasp' - понимать
+
+Лопаться, взрываться:
+Burst
+Spurn
+1
+'Spurn' - отвергать с презрением
+
+Удерживать, останавливать:
+Deter from
+Deter on
+1
+Правильный предлог - 'from'
+
+Найти время на что-то:
+Resort to sth.
+Get around to sth.
+2
+'Resort to sth.' - прибегать, обращатсья к чему-то
+
+... vegetables are rich in vitamins.
+House-grown
+Home-grown
+2
+'Home-grown' - домашний, выращенный дома
+
+My grandma is old and ... .
+housebound
+homebound
+1
+'housebound' - прикованный к дому
+
+I’m just a ... with four kids.
+housewife
+homewife
+1
+'homewife' - домохозяйка
+
+На грани исчезновения:
+Cut-throat
+Endangered
+2
+'Cut-throat' - жестокий, ожесточённый
+
+Купаться в деньгах:
+well-placed
+made of money
+2
+'well-placed' - осведомлённый, хорошо информированный
+
+Выступать за:
+Campaign on sth
+Campaign for sth.
+2
+Правильный предлог - 'for'
+
+I need a new car. I ... this one for ages.
+have had
+had
+1
+Ситуация продолжается с какого-то момента в прошлом до настоящего времени. Глагол 'have' в значении 'иметь, обладать' не может употребляться в форме continuous, мы должны использовать Present Perfect.
+
+- How did you get here?
+- We’ve walked.
+- We walked.
+2
+Вопрос во времени Past Simple - связи с настоящим нет. В ответе тоже используем Past Simple.
+
+By the time I’m 50, I ... enough money to retire.
+Will make
+Will have made
+2
+Используем Future Perfect, поскольку речь идёт о результате, достигнутому к моменту в будущем
+
+I don’t feel like cooking. Can we eat ... instead?
+out
+up
+1
+'Eat up' - съесть всё до конца. 'Eat out' - есть не дома (в кафе, в ресторане)
+
+I’ve ... out my clothes. Now I know where everything is.
+figured
+sorted
+2
+'sort out' - разобрать, привести в порядок. 'Figure out' - понять, догадаться
+
+Hold ..., please! I’ll just get him!
+on
+up
+1
+'Hold on' - не вешать трубку, оставаться на линии. 'Hold up' - задерживать
+
+Прямолинейный, откровенный:
+Straightforward
+Terrific
+1
+'Terrific' - потрясающий, великолепный
+
+Вернуть деньги:
+Pay back
+Roll in dough
+1
+'Roll in dough' - купаться в деньгах
+
+В приподнятом настроении:
+Upbeat
+In good spirits
+2
+'Upbeat' - оптимистичный
+
+Брать верх, превалировать:
+Ponder
+Prevail over
+2
+'Ponder' - размышлять, раздумывать
+
+Такова жизнь:
+That’s the breaks!
+It goes without saying!
+1
+'It goes without saying' - само собой разумеется
+
+Удивляться, поражаться:
+To be astonished
+To be embarrassed
+1
+'embarrassed' - смущённый, в замешательстве
+
+... because I have exams next week.
+I work hard
+I’m working hard
+2
+Речь идёт о временной ситуации - говорящий усердно работает перед экзаменами. Используем Present Continuous
+
+The teacher said that I ... to pass all my exams.
+was deserved
+deserved
+2
+Используем Past Simple Active - говорящий сам заслужил сдать экзамен
+
+When I was a child, ... my pocket money on sweets.
+I’ve always spent
+I always spent
+2
+Говорящий ссылается на своё детство, связи с настоящим нет - используем Past Simple
+
+Поддерживать, соглашаться:
+Go along with
+Get over with
+1
+'Get over with' - покончить, разделаться с чем-то
+
+Нетронутый, в первозданном виде:
+Refined
+Pristine
+2
+'Refined' - благородный, изысканный
+
+Намекать на что-то:
+Get at
+Depict
+1
+'Depict' - изображать, описывать
+
+Our house ... in the 17th century.
+was built
+has been built
+1
+Ссылаемся на прошлый период - 17 век, связи с настоящим нет + конструкция пассивная. Используем Past Simple Passive
+
+While our kitchen ..., we ate in restaurants.
+was being renovated
+was renovated
+1
+Речь идёт о пассивной конструкции и действие разворачивалось в течение какого-то времени в прошлом - используем Past Continuous Passive
+
+Has the printer ... yet?
+fixed
+been fixed
+2
+С 'yet' используем Present Perfect, если имеется связь с настоящим. Принтер был отремонтирован кем-то - нужен Present Perfect Passive
+
+Неловкий, не в своей тарелке:
+Ill at ease
+On edge
+1
+'On edge' - взвинченный, на нервах
+
+Вследствие этого, в результате:
+From the outset
+As a result
+2
+'From the outset' - с самого начала
+
+Ёрзать, вертеться:
+Fidget
+Amalgamate
+1
+'Amalgamate' - объединять, сливать
+
+I wasn’t taught English very well.
+Мне не хорошо преподавали английский.
+Я не хорошо преподавал английский.
+1
+Пассив показывает, что говорящего не очень хорошо учили английскому
+
+When the guests arrived, she’d already tidied the flat.
+Когда гости приехали, она прибралась в квартире.
+Когда гости приехали, она уже прибралась в квартире.
+2
+Past Perfect показывает предшествие действия в прошлом какому-то другому действию в прошлом, то есть она прибралась до того, как приехали гости
+
+Мы поужинаем в 8 вечера, хорошо?
+We’ll have dinner at 8 pm, shall we?
+We’re going to have dinner at 8pm, shall we?
+1
+Для предложений и спонтанных решений используется Future Simple. Здесь говорящий как раз предлагает поужинать в 8. 'To be going to do sth.' используется для заранее запланированных действий
+
+Предотвращать, лишать возможности:
+Prevent in
+Prevent from
+2
+Этот глагол используется с предлогом 'from'
+
+Споткнуться, упасть:
+Trip over
+Shrug
+1
+'Shrug' - пожимать плечами
+
+Воровать товары из магазинов:
+Scrape
+Shoplift
+2
+'Scrape' - наскрести, с трудом собрать
+
+She is very .... Her house is always clean and tidy.
+home-proud
+house-proud
+2
+Правильный ответ - 'house-proud' - хозяйственный, домовитый
+
+Let’s give her a .... party when she gets back.
+homecoming
+housecoming
+1
+Правильный ответ - 'homecoming' - возвращение домой/на родину
+
+With our house being much bigger, there’s much ... to do.
+homework
+housework
+2
+Правильный ответ - 'housework' - работа по дому. 'Homework' - домашняя работа, задание (к уроку)
+
+Очень хотеть, стремиться к чему-то:
+anxious for
+notorious for
+1
+'notorious for' - печально известный чем-то
+
+Подряд, за один раз:
+Now and again
+At a time
+2
+'Now and again' - время от времени
+
+Молочные продукты:
+Dairy products
+Diary products
+1
+'Diary' - дневник, 'dairy' - молочный
+
+This dress fits me perfectly.
+I’ll take it.
+I’m going to take it.
+1
+Говорящий решает купить платье во время примерки, это не было решено заранее - используем Future Simple. Конструкция 'to be going to do sth.' используется для заранее запланированных действий
+
+I need to have a rest.
+We’ve walked for hours.
+We’ve been walking for hours.
+2
+Здесь мы заинтересованы не в результате, а в продолжительности действия с какого-то момента в прошлом до настоящего времени - используем Present Perfect Continuous
+
+Where’s my shirt?
+It’s being washed.
+It is washed.
+1
+Действие происходит сейчас, используем Present Continuous
+
+Исследовать, расследовать:
+Look into
+Drum into
+1
+'Drum into' - вбивать, втемяшивать
+
+Бахвалиться, кичиться:
+Think big
+Brag
+2
+'Think big' - не размениваться по мелочам
+
+Тянуться, медленно продвигаться:
+Wear on
+Carry on
+1
+'Carry on' - продолжать
+
+- Why is your hair wet?
+- I’ve been swimming.
+- I’ve swum.
+1
+Мы заинтересованы в процессе - действие началось в какой-то момент в прошлом, продолжалось какое-то время и закончилось недавно. Используем Present Perfect Continuous
+
+We... about this subject before.
+‘ve talked
+‘ve been talking
+1
+Здесь нас интересует результат - тема уже обсуждалась - используем Present Perfect
+
+You... on the phone for ages.
+‘ve talked
+‘ve been talking
+2
+Мы заинтересованы в процессе - действие началось в прошлом и продолжается до сих или закончилось только что. Кроме того, есть предлог 'for' - с ним обычно используется Present Perfect Continuous
+
+Правда без прикрас:
+Rat race
+Plain truth
+2
+'Rat race' - бешеная гонка
+
+Насколько мне известно:
+When it comes to
+To my knowledge
+2
+'When it comes to' - когда речь заходит о
+
+Преувеличивать, приукрашивать правду:
+Stretch the truth
+Raise awareness
+1
+'Raise awareness' - повышать осведомлённость
+
+My flat ... decorated at the moment.
+is being
+is
+1
+Действие происходит в настоящий момент - используем Present Continuous Passive
+
+She ... in those dark glasses.
+won’t recognize
+won’t be recognized
+2
+Её не узнают в тёмных очках - используем Future Simple Passive
+
+I ... difficulty sleeping at the moment.
+have
+‘m having
+2
+Глагол 'have' означает действие здесь, которое происходит в момент речи, поэтому используем Present Continuous
+
+Терпеть неудачу, провалиться:
+Go down
+Come down with
+1
+'Come down with' - заболеть
+
+Взлеты и падения:
+Sink or swim
+Ups and downs
+2
+'Sink or swim' - либо плыви, либо тони
+
+Следить за кем-то, высматривать:
+Look out for
+Look on
+1
+'Look on' - наблюдать со стороны, не вмешиваясь
