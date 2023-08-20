@@ -33,6 +33,13 @@ public class StartActivity extends AppCompatActivity {
             startActivity(intent);
         });
 
+        // Кнопка "Статистика"
+        Button btnStats = findViewById(R.id.btn_stats);
+        btnStats.setOnClickListener(v -> {
+            Intent intent = new Intent(StartActivity.this, StatsActivity.class);
+            startActivity(intent);
+        });
+
         // Кнопка "Выход"
         Button btnExit = findViewById(R.id.btn_exit_complete);
         btnExit.setOnClickListener(v -> finish());

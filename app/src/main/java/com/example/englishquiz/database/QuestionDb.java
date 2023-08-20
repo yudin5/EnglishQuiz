@@ -30,7 +30,6 @@ public class QuestionDb {
         this.questionAnsweredCounter = questionAnsweredCounter;
     }
 
-
     public int getId() {
         return id;
     }

@@ -1,11 +1,9 @@
 package com.example.englishquiz;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.os.Vibrator;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
@@ -17,6 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.englishquiz.database.QuestionDb;
 import com.example.englishquiz.database.QuestionDbHelper;
+import com.example.englishquiz.database.StatisticsDbHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -40,7 +39,8 @@ public class MainActivity extends AppCompatActivity {
     private int questionsAsked = 0;
     private final List<QuestionDb> alreadyAnswered = new ArrayList<>();
 
-    private QuestionDbHelper dbHelper;
+    private QuestionDbHelper questionDbHelper; // Работа с вопросами из БД
+    private StatisticsDbHelper statDbHelper; // Ведение статистики
     private final QuestionDb[] questionBank = new QuestionDb[QUESTIONS_TO_ASK_NUMBER];
     //    private Question[] questionBank = Questions.get10RandomQuestions();
     private int currentIndex = 0;
@@ -53,16 +53,20 @@ public class MainActivity extends AppCompatActivity {
 
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
-//        boolean deleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME); // удалить БД
-//        System.out.println("deleted = " + deleted);
+        System.out.println("========== Дропаю таблицы");
+        boolean questionsDeleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME); // удалить таблицу с вопросами
+        boolean statsDeleted = getApplicationContext().deleteDatabase(StatisticsDbHelper.DB_NAME); // удалить таблицу со статистикой
+        System.out.println("questionsDeleted = " + questionsDeleted);
+        System.out.println("statsDeleted = " + statsDeleted);
 
-        dbHelper = new QuestionDbHelper(this);
+        questionDbHelper = new QuestionDbHelper(this);
+        statDbHelper = new StatisticsDbHelper(this);
 //        int totalNumberQuestions = dbHelper.getTotalNumberQuestions();
 //        System.out.println("totalNumberQuestions = " + totalNumberQuestions);
 
 //        questionBank = dbHelper.get10RandomQuestions();
 
-        List<QuestionDb> allQuestions = dbHelper.get10PseudoRandomQuestions();
+        List<QuestionDb> allQuestions = questionDbHelper.get10PseudoRandomQuestions();
         for (int i = 0; i < QUESTIONS_TO_ASK_NUMBER; i++) {
             questionBank[i] = allQuestions.get(i);
         }
@@ -167,8 +171,8 @@ public class MainActivity extends AppCompatActivity {
                 secondOptionButton.setBackgroundColor(colorRightAnswerBg);
             }
         } else {
-            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
-            vibrator.vibrate(300); // вибрировать при неправильном ответе
+//            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+//            vibrator.vibrate(300); // вибрировать при неправильном ответе
             int colorWrongAnswerBg = getResources().getColor(R.color.wrong_answer_bg);
             if (userAnswer == 1) {
                 firstOptionButton.setBackgroundColor(colorWrongAnswerBg);
@@ -179,11 +183,15 @@ public class MainActivity extends AppCompatActivity {
         questionsAsked++; // Увеличиваем счётчик вопросов, на которые дан ответ
         questionAskedQuantityTextView.setText(String.format("Дано ответов: %s/10", questionsAsked));
         alreadyAnswered.add(questionBank[currentIndex]); // Добавляем вопрос к уже отвеченным
+
         // Обновляем в БД статистику - увеличиваем счётчик этого вопроса (который считает, сколько раз дали ответ на этот вопрос) на единицу
-        dbHelper.updateQuestionCounter(questionBank[currentIndex]);
+        questionDbHelper.updateQuestionCounter(questionBank[currentIndex]);
+        int correctAnswersCounter = statDbHelper.updateStats(isUserAnswerCorrect);
+        System.out.println("isUserAnswerCorrect = " + isUserAnswerCorrect);
+        System.out.println("correctAnswersCounter = " + correctAnswersCounter);
 
         // Если мы уже задали 10 вопросов, то меняем название кнопки "Next" -> "Finish"
-        if (questionsAsked > 9) {
+        if (questionsAsked > (QUESTIONS_TO_ASK_NUMBER - 1)) {
             nextButton.setText(R.string.finish_button);
         }
 

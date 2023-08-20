@@ -25,4 +25,7 @@
         \n
     \n\tОбо всех неточностях, пожеланиях, замечаниях и тому подобном можно писать на yudin5@yandex.ru</string>
 
+    <!-- Статистика -->
+    <string name="stats_correct_answers">Количество правильных ответов: </string>
+
 </resources>

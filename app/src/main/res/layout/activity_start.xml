@@ -19,9 +19,9 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="25dp"
         android:layout_marginEnd="30dp"
-        android:backgroundTint="@color/btn_color_default"
+        android:backgroundTint="@color/right_answer_bg"
         android:padding="0dp"
-        android:text="Ответить на 10 вопросов"
+        android:text="10 вопросов"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="@color/black"
@@ -34,6 +34,24 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:rippleColor="@color/bg"
         app:strokeColor="@color/bg" />
+
+    <Button
+        android:id="@+id/btn_stats"
+        android:layout_width="0dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="30dp"
+        android:backgroundTint="@color/btn_color_default"
+        android:text="Статистика"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:cornerRadius="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_start"
+        app:rippleColor="@color/bg" />
 
     <Button
         android:id="@+id/btn_about"
@@ -49,8 +67,9 @@
         android:textSize="20sp"
         app:cornerRadius="25sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_start"
+        app:layout_constraintTop_toBottomOf="@+id/btn_stats"
         app:rippleColor="@color/bg" />
 
     <Button
@@ -60,13 +79,14 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="30dp"
-        android:backgroundTint="@color/btn_color_default"
+        android:backgroundTint="@color/wrong_answer_bg"
         android:text="Выйти"
         android:textAllCaps="false"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:cornerRadius="25sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_about"
         app:rippleColor="@color/bg" />

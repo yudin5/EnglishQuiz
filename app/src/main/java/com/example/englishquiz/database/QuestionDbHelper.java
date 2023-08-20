@@ -40,7 +40,7 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
             SECOND_OPTION + " TEXT NOT NULL, " +
             RIGHT_ANSWER + " INTEGER NOT NULL, " +
             EXPLANATION + " TEXT NOT NULL, " +
-            QUESTION_ANSWERED_COUNTER + " INTEGER NOT NULL DEFAULT 0);";
+            QUESTION_ANSWERED_COUNTER + " INTEGER NOT NULL DEFAULT 0);"; // Сколько раз пользователь ответил на этот вопрос
 
     private static final String DROP_TABLE = "DROP TABLE IF EXISTS " + TABLE_NAME;
 
