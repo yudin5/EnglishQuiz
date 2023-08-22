@@ -53,11 +53,11 @@ public class MainActivity extends AppCompatActivity {
 
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
-        System.out.println("========== Дропаю таблицы");
-        boolean questionsDeleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME); // удалить таблицу с вопросами
-        boolean statsDeleted = getApplicationContext().deleteDatabase(StatisticsDbHelper.DB_NAME); // удалить таблицу со статистикой
-        System.out.println("questionsDeleted = " + questionsDeleted);
-        System.out.println("statsDeleted = " + statsDeleted);
+//        System.out.println("========== Дропаю таблицы");
+//        boolean questionsDeleted = getApplicationContext().deleteDatabase(QuestionDbHelper.DB_NAME); // удалить таблицу с вопросами
+//        boolean statsDeleted = getApplicationContext().deleteDatabase(StatisticsDbHelper.DB_NAME); // удалить таблицу со статистикой
+//        System.out.println("questionsDeleted = " + questionsDeleted);
+//        System.out.println("statsDeleted = " + statsDeleted);
 
         questionDbHelper = new QuestionDbHelper(this);
         statDbHelper = new StatisticsDbHelper(this);
