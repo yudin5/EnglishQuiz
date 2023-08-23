@@ -11,6 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.englishquiz.database.QuestionDbHelper;
 import com.example.englishquiz.database.StatisticsDbHelper;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
 public class StatsActivity extends AppCompatActivity {
 
     private TextView statsHeader;
@@ -37,16 +40,22 @@ public class StatsActivity extends AppCompatActivity {
         statsHeader.setText("Ваша статистика:");
 
         allTimeDescription = findViewById(R.id.all_time_description);
-        allTimeDescription.setText("Всего задано вопросов:");
+        allTimeDescription.setText("Дано ответов:");
 
         rightQuestionsDescription = findViewById(R.id.right_questions_description);
-        rightQuestionsDescription.setText("Дано правильных ответов:");
+        rightQuestionsDescription.setText("Правильных ответов:");
 
         questionAskedAllTime = findViewById(R.id.question_asked_all_time);
-        questionAskedAllTime.setText(String.valueOf(questionDbHelper.getQuestionsAskedAllTime()));
+        int questionsAskedAllTime = questionDbHelper.getQuestionsAskedAllTime();
+        questionAskedAllTime.setText(String.valueOf(questionsAskedAllTime));
 
         correctAnswersQty = findViewById(R.id.correct_answers_qty_text_view);
-        correctAnswersQty.setText(String.valueOf(statDbHelper.getStatistics().getCorrectAnswers()));
+        int correctAnswers = statDbHelper.getStatistics().getCorrectAnswers();
+
+        double percentRightQuestions = (double) correctAnswers / questionsAskedAllTime * 100;
+        String percentRightText = BigDecimal.valueOf(percentRightQuestions).setScale(1, RoundingMode.HALF_UP).toString();
+
+        correctAnswersQty.setText(String.format("%s (%s%%)", correctAnswers, percentRightText));
 
         Button btnToMainMenu = findViewById(R.id.btn_to_main_menu);
         btnToMainMenu.setOnClickListener(v -> finish());
