@@ -21,6 +21,8 @@ public class StatsActivity extends AppCompatActivity {
     private TextView correctAnswersQty;
     private TextView allTimeDescription;
     private TextView rightQuestionsDescription;
+    private TextView allQuestionsInDbDescription;
+    private TextView allQuestionsInDb;
 
     private StatisticsDbHelper statDbHelper;
     private QuestionDbHelper questionDbHelper;
@@ -52,10 +54,20 @@ public class StatsActivity extends AppCompatActivity {
         correctAnswersQty = findViewById(R.id.correct_answers_qty_text_view);
         int correctAnswers = statDbHelper.getStatistics().getCorrectAnswers();
 
-        double percentRightQuestions = (double) correctAnswers / questionsAskedAllTime * 100;
+        double percentRightQuestions = 0.0;
+        if (questionsAskedAllTime != 0) { // защищаемся от деления на 0
+            percentRightQuestions = (double) correctAnswers / questionsAskedAllTime * 100;
+        }
         String percentRightText = BigDecimal.valueOf(percentRightQuestions).setScale(1, RoundingMode.HALF_UP).toString();
 
         correctAnswersQty.setText(String.format("%s (%s%%)", correctAnswers, percentRightText));
+
+        allQuestionsInDbDescription = findViewById(R.id.total_questions_in_db_description);
+        allQuestionsInDbDescription.setText("Всего вопросов в базе:");
+
+        allQuestionsInDb = findViewById(R.id.total_questions_in_db);
+        int allQuestionsQty = questionDbHelper.getAllQuestionsQty();
+        allQuestionsInDb.setText(String.valueOf(allQuestionsQty));
 
         Button btnToMainMenu = findViewById(R.id.btn_to_main_menu);
         btnToMainMenu.setOnClickListener(v -> finish());

@@ -211,6 +211,15 @@ public class QuestionDbHelper extends SQLiteOpenHelper {
         return counter;
     }
 
+    public int getAllQuestionsQty() {
+        SQLiteDatabase db = getReadableDatabase();
+        Cursor cursor = db.rawQuery("SELECT COUNT(*) FROM " + TABLE_NAME, null);
+        cursor.moveToFirst();
+        int allQuestionQty = cursor.getInt(0);
+        cursor.close();
+        return allQuestionQty;
+    }
+
     // askedNumber - сколько раз был задан вопрос, questionQty - сколько нам нужно таких вопросов, questionList - список вопросов
     private List<QuestionDb> getQuestionsByAskedNumber(int askedNumber, int questionQty, List<QuestionDb> questionList) {
         List<QuestionDb> questions = questionList.stream()
