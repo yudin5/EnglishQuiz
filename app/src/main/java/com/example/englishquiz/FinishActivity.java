@@ -41,7 +41,7 @@ public class FinishActivity extends AppCompatActivity {
 
         TextView finishText = findViewById(R.id.text_finish);
 
-        finishText.setText(String.format("Вы правильно ответили \n на %s/10 вопросов. \n%s.", correctAnswers, howBadResult));
+        finishText.setText(String.format("Вы правильно ответили \n на %s/10 вопросов. \n%s", correctAnswers, howBadResult));
 
         Button btnToMainMenu = findViewById(R.id.btn_to_main_menu2);
         btnToMainMenu.setOnClickListener(v -> {
