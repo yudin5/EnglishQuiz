@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private Button secondOptionButton;
     private TextView questionTextView;
     private TextView explanationTextView;
+    private TextView successOrNotTextView;
 
     private TextView questionAskedQuantityTextView;
 
@@ -81,6 +82,9 @@ public class MainActivity extends AppCompatActivity {
 
         explanationTextView = findViewById(R.id.explanation_text_view);
         explanationTextView.setVisibility(View.INVISIBLE);
+
+        successOrNotTextView = findViewById(R.id.success_or_not_text_view);
+        successOrNotTextView.setVisibility(View.INVISIBLE);
 
         questionAskedQuantityTextView = findViewById(R.id.question_asked_quantity);
 
@@ -145,6 +149,8 @@ public class MainActivity extends AppCompatActivity {
 
         explanationTextView.setText(explanationText);
         explanationTextView.setVisibility(View.INVISIBLE);
+
+        successOrNotTextView.setVisibility(View.INVISIBLE);
     }
 
     // Принимает какую кнопку нажал пользователь, 1 - первую, 2 - вторую
@@ -155,6 +161,7 @@ public class MainActivity extends AppCompatActivity {
         firstOptionButton.setEnabled(false);
         secondOptionButton.setEnabled(false);
         explanationTextView.setVisibility(View.VISIBLE);
+        successOrNotTextView.setVisibility(View.VISIBLE);
 
         // Это просто, чтобы вытащить "1" или "2", то есть получить правильный ответ. Фейспалм.
 //        int rightAnswer = Integer.parseInt(getString(questionBank[currentIndex].rightAnswer));
@@ -170,6 +177,8 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 secondOptionButton.setBackgroundColor(colorRightAnswerBg);
             }
+            successOrNotTextView.setBackgroundColor(colorRightAnswerBg);
+            successOrNotTextView.setText(R.string.toast_correct);
         } else {
 //            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
 //            vibrator.vibrate(300); // вибрировать при неправильном ответе
@@ -179,6 +188,8 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 secondOptionButton.setBackgroundColor(colorWrongAnswerBg);
             }
+            successOrNotTextView.setBackgroundColor(colorWrongAnswerBg);
+            successOrNotTextView.setText(R.string.toast_incorrect);
         }
         questionsAsked++; // Увеличиваем счётчик вопросов, на которые дан ответ
         questionAskedQuantityTextView.setText(String.format("Дано ответов: %s/10", questionsAsked));
@@ -187,18 +198,19 @@ public class MainActivity extends AppCompatActivity {
         // Обновляем в БД статистику - увеличиваем счётчик этого вопроса (который считает, сколько раз дали ответ на этот вопрос) на единицу
         questionDbHelper.updateQuestionCounter(questionBank[currentIndex]);
         int correctAnswersCounter = statDbHelper.updateStats(isUserAnswerCorrect);
-        System.out.println("isUserAnswerCorrect = " + isUserAnswerCorrect);
-        System.out.println("correctAnswersCounter = " + correctAnswersCounter);
+//        System.out.println("isUserAnswerCorrect = " + isUserAnswerCorrect);
+//        System.out.println("correctAnswersCounter = " + correctAnswersCounter);
 
         // Если мы уже задали 10 вопросов, то меняем название кнопки "Next" -> "Finish"
         if (questionsAsked > (QUESTIONS_TO_ASK_NUMBER - 1)) {
             nextButton.setText(R.string.finish_button);
         }
 
-        int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
-        Toast toast = Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT);
-        toast.setGravity(Gravity.BOTTOM, 0, 70);
-        toast.show();
+        // Решил убрать всплывающие уведомления. Заменил на обычное "Правильно"/"Не правильно"
+//        int toastMessageId = isUserAnswerCorrect ? R.string.toast_correct : R.string.toast_incorrect;
+//        Toast toast = Toast.makeText(this, toastMessageId, Toast.LENGTH_SHORT);
+//        toast.setGravity(Gravity.BOTTOM, 0, 70);
+//        toast.show();
     }
 
 }
