@@ -3,13 +3,13 @@ package com.example.englishquiz;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
+import android.graphics.Color;
+import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -84,6 +84,12 @@ public class MainActivity extends AppCompatActivity {
         explanationTextView.setVisibility(View.INVISIBLE);
 
         successOrNotTextView = findViewById(R.id.success_or_not_text_view);
+        // Создание TextView с закруглёнными углами (фоном)
+        GradientDrawable shape = new GradientDrawable();
+        shape.setShape(GradientDrawable.RECTANGLE);
+        shape.setCornerRadius(30);
+        shape.setStroke(5, Color.BLACK);
+        successOrNotTextView.setBackground(shape);
         successOrNotTextView.setVisibility(View.INVISIBLE);
 
         questionAskedQuantityTextView = findViewById(R.id.question_asked_quantity);
@@ -177,7 +183,8 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 secondOptionButton.setBackgroundColor(colorRightAnswerBg);
             }
-            successOrNotTextView.setBackgroundColor(colorRightAnswerBg);
+            GradientDrawable background = (GradientDrawable) successOrNotTextView.getBackground();
+            background.setColor(colorRightAnswerBg); // Меняем цвет закруглённого фона
             successOrNotTextView.setText(R.string.toast_correct);
         } else {
 //            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
@@ -188,7 +195,9 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 secondOptionButton.setBackgroundColor(colorWrongAnswerBg);
             }
-            successOrNotTextView.setBackgroundColor(colorWrongAnswerBg);
+            GradientDrawable background = (GradientDrawable) successOrNotTextView.getBackground();
+            background.setColor(colorWrongAnswerBg); // Меняем цвет закруглённого фона
+            successOrNotTextView.setBackground(background);
             successOrNotTextView.setText(R.string.toast_incorrect);
         }
         questionsAsked++; // Увеличиваем счётчик вопросов, на которые дан ответ
