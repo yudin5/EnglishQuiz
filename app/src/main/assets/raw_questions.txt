@@ -2247,3 +2247,34 @@ Absorbing
 Ambiguous
 1
 'Ambiguous' - двусмысленный, неясный
+
+Проводить расчёты:
+Count on
+Crunch some numbers
+2
+'Count on' - рассчитывать, возлагать надежды
+
+Почти не, едва:
+Scarcely
+In broad strokes
+1
+'In broad strokes' - в общих чертах
+
+I’m going away ... the end of July.
+in
+at
+2
+Когда мы имеем в виду 'в конце чего-то', мы используем предлог 'at'
+
+She got more and more angry. ... the end she just walked out of the room.
+In
+At
+1
+В значении 'в конечном итоге' употребляется выражение 'in the end'
+
+Please be ... time.
+in
+on
+2
+'On time' означает 'пунктуально, в заранее оговорённое время'
+
