@@ -2079,3 +2079,171 @@ Stick to sth.
 Count on sth.
 2
 'Stick to sth.' - придерживаться чего-то
+
+Составить достойную конкуренцию:
+Prevail over
+Give a run for your money
+2
+'Prevail over' - брать верх, превалировать
+
+Арестовывать, задерживать:
+Detain
+Amalgamate
+1
+'Amalgamate' - объединять, сливать
+
+Время от времени, иногда:
+Every so often
+No sooner
+1
+'No sooner' - едва, как только
+
+I ... sleep recently.
+couldn't
+haven't been able to
+2
+Модальный глагол 'can' имеет только форму прошедшего времени - 'could'. Если необходимо использовать другие времена, то вместо него используется 'to be able to do sth.'
+
+My grandfather ... speak five languages.
+could
+was able to
+1
+Используем 'could', поскольку речь идёт о способностях в целом
+
+She didn’t want to come with us, but we ... persuade her.
+could
+were able to
+2
+Речь идёт о специфической ситуации, а не способности в целом. Для конкретных ситуаци в прошлом используем 'to be able to do sth.', не 'can'
+
+Трепетать от страха:
+Dread
+Trait
+1
+'Trait' - черта характера
+
+Я терпеть не могу:
+I can't bear
+Shake in shoes
+1
+'Shake in shoes' - трястись от страха
+
+Закупоривать, засорять:
+Rig
+Clog
+2
+'Rig' - подтасовывать, действовать нечестно
+
+I can’t find my umbrella.
+I must leave it in the restaurant.
+I must have left it in the restaurant.
+2
+Действие произошло в прошлом. Необходимо использовать Perfect Infinitive
+
+Don’t call me at 8pm.
+I might have dinner.
+I might be having dinner.
+2
+Действие будет разворачиваться в это время. Требуется Continuous Infinitive
+
+I’m so tired, I ... sleep for a week.
+could
+can
+1
+Ситуация нереальная - используем 'could'. Для нереальных ситуаций нельзя использовать 'can'
+
+Побаловать себя, позволить себе:
+Cream off
+Treat oneself to
+2
+'Cream off' - брать себе лучшее
+
+Вероятно, предположительно:
+Presumably
+First and foremost
+1
+'First and foremost' - в первую очередь
+
+Глохнуть, переставать работать:
+Cut out
+Phase out
+1
+'Phase out' - поэтапно закрывать, сворачивать
+
+С точки зрения чего-то:
+From perspective
+As a result
+1
+'As a result' - вследствие, в результате
+
+Снежная буря, метель:
+Dexterity
+Blizzard
+2
+'Dexterity' - ловкость, сноровка
+
+Несомненно, значительно:
+Needless to say
+By far
+2
+'Needless to say' - несомненно, само собой разумеется
+
+Выкраивать время на что-то:
+Make time for sth.
+Take time for sth.
+1
+'Take time' - отнимать время
+
+В ярости, в гневе:
+With anger
+In anger
+2
+Правильный вариант - 'in'
+
+Не могу поверить:
+I can't get over
+I can't bear
+1
+'I can't bear' - терпеть не могу, не выношу
+
+The computer ... right now
+is using
+is being used
+2
+Действие осуществляется кем-то над компьютером в настоящий момент. Используем Present Continuous Passive
+
+A new supermarket is going to ... next year.
+be built
+build
+1
+После конструкции 'going to' используется инфинитив. Над субъектом осуществляется действие, поэтому используем пассивный инфинитив
+
+I ... her for ages.
+haven't been seen
+haven't seen
+2
+Я её сам не видел, это происходило с какого-то момента в прошлом до настоящего времени. Используем Present Perfect Active
+
+Обезуметь, сойти с ума:
+Go bust
+Go nuts
+2
+'Go bust' - обанкротиться, прогореть
+
+Только один раз:
+Just this once
+A dime a dozen
+1
+'A dime a dozen' - пруд пруди
+
+Избавиться от, уничтожить:
+Do without sth.
+Do away with sth.
+2
+'Do without sth.' - обходиться без чего-то
+
+Увлекательный, захватывающий:
+Absorbing
+Ambiguous
+1
+'Ambiguous' - двусмысленный, неясный
