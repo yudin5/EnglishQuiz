@@ -2367,3 +2367,57 @@ Chick
 Sibling
 1
 'Sibling' - родной брат или сестра
+
+Принуждать, оказывать давление:
+Twist someone's arm
+Twist someone's hand
+1
+Правильная идиома - 'twist someone's arm'
+
+Критически важный:
+Mission-critical
+Mission-important
+1
+Устойчивое словосочетание - 'mission-critical'
+
+Быть захваченным в плен:
+To be put prisoner
+To be taken prisoner
+2
+Правильное выражение - 'to be taken prisoner'
+
+Исключительно, единственно:
+Solely
+Scarcely
+1
+'Scarcely' - почти не, едва
+
+Продолжать:
+Go on
+Spurn
+1
+'Spurn' - отвергать с презрением
+
+Отличаться, различаться:
+Differ with
+Differ from
+2
+Правильный предлог после глагола 'differ' - 'from'
+
+She’s capable ... a successful violinist.
+to become
+of becoming
+2
+'Capable' употребляется с предлогом 'of'. После предлогов могут стоять существительные, местоимения, герундий. Глагол не ставится после предлогов
+
+I think they’re ... violence.
+able to
+capable of
+2
+'Violence' - существительное, перед ним должен стоять предлог. 'Able to' не подходит, так как после него ставится глагол
+
+The technology is ... of simplifying the process.
+incapable
+uncapable
+1
+Антоним слова 'capable' - 'incapable'. Префикс 'un-' добавить нельзя
