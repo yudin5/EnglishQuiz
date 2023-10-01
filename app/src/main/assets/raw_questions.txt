@@ -2817,3 +2817,111 @@ creeps
 fear
 1
 Идиома - 'give sb the creeps' (приводить в содрогание)
+
+I was annoyed because my car wouldn’t start.
+wouldn't start - правильно, так можно сказать
+wouldn't start - ошибка, так говорить нельзя
+1
+Когда кто-то или что-то отказывается что-либо делать, мы можем использовать конструкцию 'won't + infinitive' для настоящего времени или 'wouldn't + infinitive' для прошедшего времени. Так что это не ошибка
+
+I ... her but I didn’t have her phone number.
+would phone
+would have phoned
+2
+Ситуация относится к прошлому, нужно использовать would + Perfect Infinitive
+
+He promised that he ... be late.
+wouldn't
+won't
+1
+Первая часть предложения относится к прошедшему времени, нам требуется согласование времён. Следовательно, 'will' превращается в 'would'
+
+Сваливать, сбрасывать:
+Dump
+Swarm
+1
+'Swarm' - кишеть, толпиться
+
+Появиться, приехать:
+Cut out
+Come along
+2
+'Cut out' - переставать работать, глохнуть
+
+Быть уволенным:
+Get canned
+Phase out
+1
+'Phase out' - поэтапно закрывать, свёртывать
+
+Look! There’s a notice ... our door.
+at
+on
+2
+Объявление висит на двери (на поверхности) - нужен предлог 'on'
+
+I’ll be waiting for you ... the traffic lights.
+at
+on
+1
+Предлог 'at' имеет значение 'рядом с, у'
+
+I left the key ... the door.
+on
+in
+2
+Я оставил ключ 'в двери' - нужен предлог 'in'
+
+Виновный в:
+Guilty of
+Guilty in
+1
+С прилагательным 'guilty' используется предлог 'of'
+
+У семи нянек дитя без глазу:
+Too many cooks spoil the broth
+Work your tail off
+1
+'Work your tail off' - работать, не покладая рук
+
+Сбежать, удрать:
+Come apart
+Get away
+2
+'Come apart' - распадаться, разваливаться на части
+
+- I’m going on holiday next week.
+- You must look forward to it.
+- You must be looking forward to it.
+2
+Действие происходит в настоящий момент - требуется Continuous Infinitive
+
+My boss wasn’t at work yesterday.
+He must have been ill.
+He must be ill.
+1
+Ситуация касается прошлого - требуется Perfect Infinitive
+
+I was woken up by the noise last night. My neighbours ...
+must have been having a party.
+must have had a party.
+1
+Ситуация касается прошлого и действие разворачивалось в тот момент, когда человека разбудили - требуется Perfect Continuous Infinitive
+
+Придерживаться, соблюдать что-то:
+Adhere to sth.
+Aspire to sth.
+1
+'Aspire to sth.' - стремиться к чему-то
+
+Несправедливо, недобросовестно:
+Under the belt
+Below the belt
+2
+Правильная идиома - 'below the belt'
+
+Скатертью дорожка:
+Good for you!
+Good riddance!
+2
+'Good for you!' - Молодец! Рад за тебя!
