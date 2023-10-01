@@ -2775,3 +2775,45 @@ used to know
 would know
 1
 Конструкция 'would' не используется с глаголами состояния. Она используется только с глаголами, обозначающими действия. Конструкция с 'used to' используется с глаголами состояния и действия
+
+I expect her to be very tired because she ... for her exams for the last four weeks.
+has been studying
+had been studying
+1
+Ситуация относится к настоящему времени, используем Present Perfect Continuous. Past Perfect Continuous используется для ситуаций в прошлом
+
+Любить сладости:
+Have a sweet tooth
+Have a sweet mouth
+1
+Правильная идиома - 'Have a sweet tooth'
+
+Постоянно говорить о чём-то:
+Go for sth.
+Go on about sth.
+2
+'Go for sth.' - отдавать предпочтение, выбирать что-то
+
+Позвонить по телефону:
+Give a buzz
+Give a phone
+1
+Можно сказать 'phone sb' (позвонить кому-то). Выражения 'give a phone' нет. Но в разговорном английском есть выражение 'give sb a buzz'
+
+I have to put ... with my stupid boss.
+in
+up
+2
+Фразовый глагол - 'put up with sth/sb' (терпеть/смиряться с чем-то/кем-то)
+
+I think good management can save the ...
+day
+outcome
+1
+Идиома - 'save the day' (спасти положение)
+
+Our neighbour looks angry and gloomy. He gives our children the ... .
+creeps
+fear
+1
+Идиома - 'give sb the creeps' (приводить в содрогание)
