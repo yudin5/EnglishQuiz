@@ -2925,3 +2925,81 @@ Good for you!
 Good riddance!
 2
 'Good for you!' - Молодец! Рад за тебя!
+
+Прилежный, усердный:
+Diligent
+Ambiguous
+1
+'Ambiguous' - двусмысленный, неясный
+
+Занять жесткую позицию, запрашивать много:
+Enforce
+Drive a hard bargain
+2
+'Enforce' - принуждать к исполнению, обеспечивать соблюдение
+
+Вмешиваться, вклиниваться:
+Intimidate
+Intervene
+2
+'Intimidate' - запугивать, устрашать
+
+If I’d seen you, ...
+I'd say hello.
+I'd have said hello.
+2
+Первая часть нереального условного предложения указывает на ситуацию в прошлом, следовательно, во второй части необходимо употребить 'would' + Perfect Infinitive
+
+I’m not hungry. If I ... hungry, I ... something.
+was / would eat
+had been / would have eaten
+1
+Ситуация относится к настоящему времени (на это указывает первое предложение). Необходимо использовать Past Simple в придаточном предложении после 'if', а в главном предложении - 'would' + Infinitive
+
+The weather was cold while we were on holiday.
+I wish it had been warmer.
+I wish it would have been warmer.
+1
+После 'I wish' используется Past Perfect
+
+На кону, на карте:
+At stake
+On stake
+1
+Правильный предлог - 'at'
+
+Урвать, купить:
+Pick up
+Come along
+1
+'Come along' - появиться, приехать
+
+Доводить до конца, завершить:
+Go through with
+Go along with
+1
+'Go along with' - поддерживать, соглашаться с
+
+You haven’t got a pen, ...
+have you?
+do you?
+1
+'Have got' требует вспомогательного 'have' в кратком вопросе в конце предложения
+
+Let’s go for a walk, ...
+will we?
+shall we?
+2
+С let's в кратком вопросе в конце предложения употребляется 'shall'
+
+I’m right, ...
+amn't I?
+aren't I?
+2
+Если в разделительном вопросе имеется 'am', то в кратком вопросе в конце предложения в отрицательной форме употребляется aren't
+
+Why did your boss give you the ...?
+can
+ax
+2
+'Give the ax' - сокращать, увольнять. Ещё есть выражение be/get canned (быть уволенным). Выражения 'give the can' нет
