@@ -25,7 +25,9 @@
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:linksClickable="true"
+        android:autoLink="web"/>
 
     <Button
         android:id="@+id/btn_to_main_menu"
