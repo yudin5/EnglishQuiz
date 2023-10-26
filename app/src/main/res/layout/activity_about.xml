@@ -27,7 +27,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:linksClickable="true"
-        android:autoLink="web"/>
+        android:autoLink="web"
+        android:textColorLink="@android:color/holo_blue_dark"/>
 
     <Button
         android:id="@+id/btn_to_main_menu"
