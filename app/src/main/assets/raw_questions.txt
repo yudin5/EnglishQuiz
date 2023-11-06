@@ -3891,3 +3891,159 @@ Phase out
 Mess about
 2
 'Phase out' - поэтапно закрывать, свёртывать
+
+В крайнем случае:
+On occasion
+If worse comes to worst
+2
+'On occasion' - при случае, время от времени
+
+Передвигать назад (стрелки часов):
+Take back
+Put back
+2
+'Take back' - отрекаться, признать свою неправоту
+
+Возлагать ответственность
+Hold responsible
+Pose a threat
+1
+'Pose a threat' - представлять угрозу, ставить под удар
+
+Общительный, коммуникабельный
+Outgoing
+Eloquent
+1
+'Eloquent' - красноречивый, убедительный
+
+I ... play any musical instruments.
+could never
+have never been able to
+2
+Глагол 'can' имеет только 2 формы - настоящего и прошедшего времени. В данном случае необходимо время Present Perfect, поэтому нужно использовать 'be able to'
+
+Your directions were very good, so we ... find your house quickly.
+could
+were able to
+2
+'Could' выражает общую способность в прошлом. Если речь идёт о конкретной ситуации в прошлом, мы используем 'was/were able to' или 'managed to', не 'could'. Здесь речь идёт об одной конкретной ситуации
+
+My grandmother ... play the piano very well.
+could
+was able to
+1
+Здесь имеется в виду общая способность, а не то, что произошло в конкретной ситуации
+
+Рядом, в пределах слышимости:
+Within earshot
+At stake
+1
+'At stake' - на кону
+
+В последнюю секунду:
+Up to scratch
+In the nick of time
+2
+'Up to scratch' - на должном уровне
+
+Отключиться, потерять сознание:
+Drop off
+Pass out
+2
+'Drop off' - заснуть, вырубиться
+
+I ... take an umbrella. It might rain.
+had better
+would better
+1
+Правильная конструкция - 'you'd better do sth.' = 'you had better do sth.' (лучше бы/следовало бы сделать что-то). Используем 'had', не 'would'
+
+You ... now or you’ll be late.
+’d better go
+’d better to go
+1
+После конструкции '’d better' используется инфинитив без частички 'to'
+
+You’re ill. You ... go to work today.
+’d better not
+hadn’t better go
+1
+Отрицательная форма в этой конструкции - '’d better not do sth.'
+
+Затор, перегруженность:
+Ransom
+Congestion
+2
+'Ransom' - выкуп
+
+Вычитать:
+Take away
+Trip over
+1
+'Trip over' - споткнуться
+
+Плохо себя чувствовать:
+To be up
+Feel under the weather
+2
+'To be up' - бодрствовать, не спать
+
+Can you play ... guitar?
+a
+the
+2
+Здесь имеется в виду целый класс предметов, а не одна отдельная гитара. В этом случае ставим 'the'
+
+... man is a social animal.
+The
+No article
+2
+Слово 'man' - исключение. Когда это слово используется для обозначения людей в целом, человеческой расы, артикль 'the' не употребляется
+
+My nephew is ... interesting young man.
+an
+no article
+1
+Здесь имеется в виду один отдельный человек, не люди в целом. Используем артикль 'an'
+
+The situation was bad but it ... worse.
+could be
+could have been
+2
+Ситуация относится к прошлому, после 'could' необходимо ставить Perfect Infinitive - 'could have been'
+
+I’m so tired, I ... sleep for a week.
+could
+can
+1
+Данная ситуация нереальная, поэтому используем 'could', не 'can'
+
+The situation is bad but it ... be worse.
+could be
+could have been
+1
+Ситуация относится к настоящему, после 'could' необходимо ставить Indefinite Infinitive - 'could be'
+
+- Who is that man? - I’m not sure.
+He must be our new teacher.
+He might be our new teacher.
+2
+'Might' указывает на возможность (может быть). 'Must' указывает на вероятность (должно быть). Предложение 'I’m not sure' указывает на то, что нам нужна возможность
+
+Don’t call her. She ... .
+must be sleeping
+must sleep
+1
+Действие разворачивается во время речи. Используем Continuous Infinitive
+
+Why didn’t they reply to my letter? They... received it.
+might not have
+might have not
+1
+Отрицательную частицу 'not' ставим после 'might'. Perfect Infinitive не разделяем
+
+I didn’t hear the phone. I ... asleep.
+must have been
+can’t have been
+1
+Мы используем модальный глагол 'must', когда мы уверены в чём-то. Его можно переводить как 'должно быть'
