@@ -599,20 +599,20 @@ Be on thin ice
 'At stake' - на кону
 
 The company ... a profit last year.
-Made
-Did
+made
+did
 1
 'Make a profit' - получать прибыль
 
 We can ... a discount to our regular customers.
-Make
-Give
+make
+give
 2
 'give a discount' - давать скидку
 
 You have to ... your bed every morning.
-Make
-Do
+make
+do
 1
 'Make one's bed' - заправлять кровать
 
@@ -3554,7 +3554,7 @@ Take aside
 Plausible
 Articulate
 2
-'Plausible' - членораздельный, убедительный
+'Plausible' - правдоподобный, убедительный
 
 I didn’t realise it was ... an interesting book.
 such
@@ -3609,3 +3609,285 @@ men’s
 mens’
 1
 Если существительное во множественном числе является исключением и не заканчивается на -s, мы ставим -s'
+
+Заискивать, лебезить:
+Look down on sb.
+Make up to sb.
+2
+'Look down on sb.' - смотреть свысока
+
+Оскорблять, обижать:
+Affront
+Dread
+1
+'Dread' - бояться, трепетать от страха
+
+Оказать кому-то помощь:
+Lend a helping hand
+Borrow a helping hand
+1
+Правильное выражение - 'lend a helping hand'. Вообще 'lend' употребляется, когда нам кто-то что-то одалживает, а 'borrow' - когда мы сами у кого-то берём взаймы. Поэтому 'borrow' не подходит даже по смыслу
+
+Do you think ... should pay higher taxes?
+Rich
+The rich
+2
+Мы можем использовать соответствующее прилагательное с артиклем 'the' для обозначения группы людей
+
+... are famous for their food.
+the French
+French
+1
+Для обозначения нации можно использовать 'the' + прилагательное, обозначающее национальность, которое заканчивается на '-ch' или '-sh'
+
+When was ... telephone invented?
+a
+the
+2
+Имеется в виду не один конкретный телефон. Слово 'телефон' обозначает целый класс устройств. Когда мы используем существительное в ед.ч. для обозначения целого класса, мы ставим 'the'
+
+The car broke ... on our way home.
+down
+out
+1
+'Break down' - ломаться
+
+I noted ... some useful information at the lecture.
+down
+on
+1
+'Note down' - делать заметки, заносить (информацию)
+
+It took her a long time to get ... the coronavirus.
+off
+over
+2
+'Get over' - преодолевать, прийти в себя
+
+Думать о будущем:
+Look ahead
+Look into
+1
+'Look into' - исследовать, расследовать
+
+Ошибочно принимать за, путать:
+Mistake to
+Mistake for
+2
+Правильный предлог - 'for'
+
+Достоинство:
+Saving grace
+Mixed blessing
+1
+'Mixed blessing' - палка о двух концах
+
+I’ll be away for ... weeks.
+the few next
+the next few
+2
+Сначала идут 'the next/first/last'
+
+He is ... man.
+an interesting young
+a young interesting
+1
+Прилагательные, выражающие мнение и оценку, обычно ставятся перед прилагательными, обозначающими факты. 'Interesting' (оценка) должно стоять перед 'young' (факт)
+
+I bought a new ... dress.
+black, white
+black and white
+2
+Если имеется несколько прилагательных, обозначающих цвета, мы используем 'and'
+
+Передвигать часы вперёд:
+Put forward
+Go on
+1
+'Go on' - продолжаться, тянуться
+
+Отказаться от чего-то:
+Say no to sth.
+Do away with sth.
+1
+'Do away with sth.' - покончить с, избавиться от
+
+Знать своё дело, быть спецом:
+Have a big head
+Know the stuff
+2
+'Have a big head' - быть заносчивым, зазнаваться
+
+Пропадать, прерываться (связь):
+Break up
+Break down
+1
+'Break down' - сломаться, не прерываться
+
+На должном уровне:
+In good spirits
+Up to scratch
+2
+'In good spirits' - в приподнятом настроении
+
+Притягивающий внимание:
+Elated
+Eye-catching
+2
+'Elated' - в приподнятом настроении, ликующий
+
+We have to be home ... 5 o’clock.
+until
+by
+2
+Предлог 'by' означает 'не позднее, чем'
+
+I stayed in bed ... half past eleven.
+until
+by
+1
+Предлог 'until' показывает, как долго продолжается ситуация
+
+... we get to the cinema, the film will already have started.
+Until
+By the time
+2
+'By the time' - к моменту, когда что-то произойдёт
+
+Her sister is a ... girl.
+tall thin
+thin tall
+1
+Прилагательные, описывающие размер и длину, обычно идут перед прилагательными, обозначающими форму и ширину
+
+It’s an ... song.
+old Russian
+Russian old
+1
+Прилагательные обычно ставятся в таком порядке: 1) размер 2) возраст 3) цвет 4) происхождение 5) материал. Сначала надо ставить возраст, потом происхождение
+
+I’m looking for a ... table.
+wooden large
+large wooden
+2
+Прилагательные обычно ставятся в таком порядке: 1) размер 2) возраст 3) цвет 4) происхождение 5) материал. Сначала надо ставить размер, потом материал
+
+Сослужить службу:
+Lend a helping hand
+Stand in good stead
+2
+'Lend a helping hand' - оказать помощь
+
+Сократить, уволить:
+Drop off
+Lay off
+2
+'Drop off' - заснуть, вырубиться
+
+Угостить чем-то:
+Treat to sth.
+Treat in sth.
+1
+Правильный предлог - 'to'
+
+Раскованный, свободный:
+Uninhibited
+Articulate
+1
+'Articulate' - ясный, членораздельный
+
+Надувательство, нечестная сделка:
+Tall order
+Raw deal
+2
+'Tall order' - чрезмерное требование, трудная задача
+
+Отрекаться, признавать неправоту
+Take back
+Take in
+1
+'Take in' - понять, разобраться
+
+Застигнуть врасплох:
+Take by surprise
+Wake-up call
+1
+'Wake-up call' - тревожный звоночек
+
+Отказаться, уклониться от:
+Drop off
+Back out of
+2
+'Drop off' - заснуть, вырубиться
+
+Умный, сообразительный:
+Articulate
+As sharp as a tack
+2
+'Articulate' - членораздельный, ясный
+
+If I ..., I’ll buy some chocolate.
+go shopping
+will go shopping
+1
+В придаточных условия (в том числе после союза 'if') не используется время Future Simple. Вместо этого используем время Present Simple
+
+I’ll come as soon as ... .
+I’ve finished
+I’ll finish
+1
+В придаточных времени не используется время Future Simple. Используем Present Simple или Present Perfect. Pr.Perfect используется, только если одно действие должно быть завершено до другого действия
+
+When ... her, I’ll ask her about the show.
+I phone
+I have phoned
+1
+Здесь два действия происходят одновременно, нет предшествия одного из действий. Следовательно, Present Perfect использовать нельзя
+
+Понять, разобраться:
+Take in
+Take to
+1
+'Take to' - пристраститься к чему-то, начать заниматься чем-то
+
+Избавлять, освобождать:
+Say no to
+Save
+2
+'Say no to' - отказаться от
+
+Поставить себя в глупое положение:
+Make a fool of yourself
+Have a big head
+1
+'Have a big head' - быть заносчивым, зазнаваться
+
+The news was ... surprise.
+a quite
+quite a
+2
+'Quite' ставится перед артиклем с существительным
+
+I ... the lesson.
+liked quite
+quite liked
+2
+'Quite' ставится перед глаголом
+
+Our holiday was ... good. (довольно хороший)
+Quite
+Rather
+1
+'Rather' очень часто ставится с отрицательными понятиями.
+
+Показной, хвастливый:
+Ostentatious
+Absorbing
+1
+'Absorbing' - увлекательный, захватывающий
+
+Дурачить, морочить голову:
+Phase out
+Mess about
+2
+'Phase out' - поэтапно закрывать, свёртывать
