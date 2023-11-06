@@ -1,10 +1,10 @@
-My bike is OK now. I … it.
+My bike is OK now. I ... it.
 have repaired
 have been repairing
 1
 Нас интересует результат действия, поскольку велосипед в порядке сейчас - я его починил, используем Present Perfect
 
-There … a lot of meetings in the last few days.
+There ... a lot of meetings in the last few days.
 have been
 were
 1
@@ -28,19 +28,19 @@ get ahead
 2
 'trigger' - дать толчок, спровоцировать
 
-I’ll phone you tomorrow … usual.
+I’ll phone you tomorrow ... usual.
 as
 like
 1
 Устойчивое выражение 'as usual'. Like использовать нельзя
 
-Why didn’t you do it … I told you to do it?
+Why didn’t you do it ... I told you to do it?
 like
 as
 2
 Используем 'as', так как дальше идёт подлежащее + глагол
 
-Tim gets on my nerves. I can’t stand people …
+Tim gets on my nerves. I can’t stand people ...
 like him
 as him
 1
@@ -64,19 +64,19 @@ rip off
 1
 'rip off' - ободрать, обманом выманить деньги
 
-He was recruited into the company …
+He was recruited into the company ...
 like a troubleshooter
 as a troubleshooter
 2
 Здесь значение 'в качестве, в функции' - надо использовать 'as'
 
-Our factory is often described … a showcase for good working practices in the region
+Our factory is often described ... a showcase for good working practices in the region
 as
 like
 1
 После глагола 'describe' используется 'as' (описать, охарактеризовать как)
 
-Most employees support some aspects of our corporate culture, … not wearing ties or having flexible working hours
+Most employees support some aspects of our corporate culture, ... not wearing ties or having flexible working hours
 like
 as
 1
@@ -100,13 +100,13 @@ bring out
 2
 'drown out' - заглушать
 
-Can I borrow this book …
+Can I borrow this book ...
 when you've finished with it?
 when you'll finish with it?
 1
 В придаточных времени (например, после 'when') не используем Future Simple. Можно использовать Present Simple или Present Perfect, если одно действие завершается до другого действия.
 
-… away this summer?
+... away this summer?
 Will you be going
 Will you go
 1
@@ -148,19 +148,19 @@ a happy camper
 2
 'au pair' - девушка-иностранка, живущая в семье с целью изучения языка
 
-I … what happened. I promise.
+I ... what happened. I promise.
 won't tell anyone
 'm not going to tell anyone
 1
 Используем Future Simple, когда даём обещания.
 
-What time …?
+What time ...?
 does the train arrive
 is the train arriving
 1
 С расписаниями, программами общественных событий используем Present Simple
 
-What time … tomorrow?
+What time ... tomorrow?
 is your aunt arriving
 does your aunt arrive
 1
@@ -184,19 +184,19 @@ dead-end job
 1
 'dead-end job' - бесперспективная работа
 
-Our company, … , is a privately owned business.
+Our company, ... , is a privately owned business.
 as Virgin
 like Virgin
 2
 Значение 'подобно, аналогично', поэтому используем 'like'
 
-… - they've sent the wrong instructions!
+... - they've sent the wrong instructions!
 It's just like I thought,
 It's just as I thought,
 2
 Используем 'as', поскольку дальше идёт подлежащее + сказуемое
 
-They closed the factory, …
+They closed the factory, ...
 as it was no longer profitable
 like it was no longer profitable
 1
@@ -382,19 +382,19 @@ Send home
 1
 Устойчивое словосочетание - 'bring home'
 
-My parents … for 25 year.
+My parents ... for 25 year.
 are married
 have been married
 2
 Имеется в виду действие, продолжающееся с какого-то момента в прошлом до настоящего времени. Но глагол 'to be' не используется в continuous, поэтому нужен Present Perfect
 
-Next year they …. for 25 years.
+Next year they .... for 25 years.
 will have been married
 will be married
 1
 Имеется в виду действие, начавшееся в какой-то момент в прошлом и продолжающееся до какого-то момента в будущем. Но глагол 'to be' не используется в continuous, поэтому нужен Future Perfect
 
-When their son was born,… for two years.
+When their son was born,... for two years.
 they were married
 they had been married
 2
@@ -562,13 +562,13 @@ Venomous
 2
 Когда речь идёт о кусающих и жалящих насекомых и рептилиях, используется слово 'venomous'
 
-…. Can you turn it off?
+.... Can you turn it off?
 The water is boiling
 The water boils
 1
 Действие происходит сейчас, используем Present Continuous
 
-Water … at 100 degrees Celsius.
+Water ... at 100 degrees Celsius.
 is boiling
 boils
 2
@@ -598,19 +598,19 @@ Be on thin ice
 2
 'At stake' - на кону
 
-The company … a profit last year.
+The company ... a profit last year.
 Made
 Did
 1
 'Make a profit' - получать прибыль
 
-We can … a discount to our regular customers.
+We can ... a discount to our regular customers.
 Make
 Give
 2
 'give a discount' - давать скидку
 
-You have to … your bed every morning.
+You have to ... your bed every morning.
 Make
 Do
 1
@@ -652,7 +652,7 @@ Downturn
 2
 'Downfall' - крах, крушение
 
-I … them to the party but they decided not to come.
+I ... them to the party but they decided not to come.
 Have invited
 Invited
 2
@@ -694,19 +694,19 @@ Cut off
 1
 'Cut off' - отрезать, отключать
 
-… , you’ll find a trekking holiday very difficult.
+... , you’ll find a trekking holiday very difficult.
 If you don’t used to walking every day
 If you aren’t used to walking every day
 2
 Выражение 'to be used to sth' (быть привыкшим к чему-то) используется с глаголом 'to be'
 
-Travel helps you … different ways of doing things.
+Travel helps you ... different ways of doing things.
 get used to
 be used to
 1
 'To be' обозначает состояние ('to be used to' - быть привыкшим). 'Get' - обозначает действие, изменение состояния ('get used to' - привыкнуть). В примере требуется действие, не состояние, используем 'get'
 
-The children hate walking because …
+The children hate walking because ...
 they are used to go everywhere by car
 they are used to going everywhere by car
 2
@@ -748,19 +748,19 @@ Put up
 2
 'Put off' - откладывать; вызывать отвращение
 
-My sister … long hair when she was a child.
+My sister ... long hair when she was a child.
 Had got
 Had
 2
 Конструкция 'have got' используется только в настоящем времени, в прошедшем времени мы используем 'had'.
 
-Can I … a look at your newspaper?
+Can I ... a look at your newspaper?
 Have got
 Have
 2
 'Have got' используется, когда речь идёт об обладании чем-то. Здесь речь идёт о действии, не владении: 'have a look' - взглянуть. 'Have got' использовать нельзя.
 
-He couldn’t contact us because he … our phone number.
+He couldn’t contact us because he ... our phone number.
 Didn’t have
 Hadn’t
 1
@@ -844,7 +844,7 @@ like a way of keeping in touch with her clients
 1
 Здесь значение 'в качестве' - в этом случае используется 'as'
 
-I, …, think that it’s time to change.
+I, ..., think that it’s time to change.
 like you
 as you
 1
@@ -1036,19 +1036,19 @@ Come around
 1
 'Come around' - заходить, заезжать
 
-We haven’t got a car, so we use the garage ….
+We haven’t got a car, so we use the garage ....
 as a workshop
 like a workshop
 1
 Здесь значение 'в качестве' - используем 'as'
 
-Your feet are … blocks of ice.
+Your feet are ... blocks of ice.
 like
 as
 1
 Здесь значение 'похожий, подобный' - используем 'like'
 
-You can go out … you are.
+You can go out ... you are.
 as
 like
 1
@@ -1096,19 +1096,19 @@ Refined
 2
 'Well-off' - богатый, зажиточный
 
-By the end of our holiday we ….
+By the end of our holiday we ....
 will visit five different cities
 will have visited five different cities.
 2
 К определённому моменту в будущем будет достигнут результат - посещение 5 городов
 
-Do you think …
+Do you think ...
 you’ll be doing the same job next year
 you’ll do the same job next year
 1
 Действие будет в процессе в будущем, используем Future Continuous
 
-If you need to contact me, …
+If you need to contact me, ...
 I’ll stay with my friends until Sunday
 I’ll be staying with my friends until Sunday
 2
@@ -1132,19 +1132,19 @@ Come down with sth.
 2
 'Go belly-up' - обанкротиться
 
-Would you like some more coffee …
+Would you like some more coffee ...
 before you leave?
 before you’ll leave?
 1
 Придаточное предложение времени - используем Present Simple, не Future Simple
 
-… until he comes.
+... until he comes.
 I’ll wait
 I wait
 1
 Это главное предложение, не придаточное. Принимаем решение в момент речи о будущем - используем Future Simple
 
-I’ll come straight back home …
+I’ll come straight back home ...
 after I’ll do the shopping.
 after I’ve done the shopping.
 2
@@ -1276,7 +1276,7 @@ To come out
 1
 'To come out' - обнаруживаться, раскрываться
 
-Javier Munoz … a presentation in the meeting room tomorrow.
+Javier Munoz ... a presentation in the meeting room tomorrow.
 will give
 will be giving
 2
@@ -1306,19 +1306,19 @@ Come up
 2
 'Come around' - приходить в себя
 
-I never thought I’d feel so …
+I never thought I’d feel so ...
 homesick
 housesick
 1
 Правильное сочетание - 'homesick' (тоскующий по дому)
 
-Do you think you could possibly water my … ?
+Do you think you could possibly water my ... ?
 houseplants
 homeplants
 1
 Правильное сочетание - 'houseplants' (комнатные растения)
 
-We’re having a … party on Sunday.
+We’re having a ... party on Sunday.
 home-warming
 house-warming
 2
@@ -1414,7 +1414,7 @@ Pull away
 2
 'Pull over' - останавливать автомобиль у обочины
 
-Where …  we have lunch?
+Where ... we have lunch?
 Will
 Shall
 2
@@ -3417,3 +3417,195 @@ Out
 On
 1
 'Ask out' - приглашать куда-то, приглашать на свидание
+
+The conference has been put ... several times.
+Off
+Out
+1
+'Ask out' - приглашать куда-то, приглашать на свидание
+
+He promised to ring me ... later.
+Back
+Off
+1
+'Ring back' - перезвонить
+
+Компенсировать, возмещать:
+Make up for sth.
+Go in for sth.
+1
+'Go in for' - заниматься, увлекаться
+
+Уходить, уносить ноги:
+Drop off
+Take off
+2
+'Drop off' - заснуть, вырубиться
+
+Палка о двух концах:
+Ballpark figure
+Mixed blessing
+2
+'Ballpark figure' - приблизительная величина
+
+Заимствование:
+Sham
+Loanword
+2
+'Sham' - подделка, обман
+
+Пристраститься к чему-то
+Take to
+Get down
+1
+'Get down' - приводить в уныние, удручать
+
+Относиться пренебрежительно:
+Dwindle
+Disparage
+2
+'Dwindle' - уменьшаться, сокращаться
+
+I came ... an interesting article on the Internet.
+across
+against
+1
+'Come across' - наткнуться, встретиться с
+
+We need to sort ... this problem before it’s too late.
+Out
+Off
+1
+'Sort out' - разрешать, улаживать
+
+The motor was playing ...
+up
+down
+1
+'Play up' - барахлить, работать с перебоями
+
+Опасная затея, скользкая дорожка:
+Rags to riches
+Slippery slope
+2
+'Rags to riches' - из грязи в князи
+
+Копаться, мешкать:
+Dawdle
+Denounce
+1
+'Denounce' - осуждать, отрицать
+
+Отводить в сторону:
+Take aside
+Take apart
+1
+'Take apart' - разбирать на части, демонтировать
+
+My neighbours are ... nice people.
+such
+so
+1
+Перед прилагательным + существительным используем 'such'
+
+I was ... tired that I fell asleep in the car.
+such
+so
+2
+С прилагательными и наречиями используем 'so'
+
+It was ... a pity you couldn’t come.
+so
+such
+2
+Перед существительными используем 'such'
+
+Добродушная насмешка:
+Chaff
+Disparage
+1
+'Disparage' - относиться пренебрежительно
+
+Лишать сил, выматывать:
+Hit it off
+Take it out of
+2
+'Hit it off' - поладить, сойтись
+
+Вызывать, пробуждать:
+Ingest
+Spark
+2
+'Ingest' - глотать, проглатывать
+
+Человек на грани нервного срыва:
+Wake-up call
+Basket case
+2
+'Wake-up call' - тревожный звоночек
+
+Разбирать на части:
+Take apart
+Take aside
+1
+'Take aside' - отводить в сторону
+
+Членораздельный, ясный:
+Plausible
+Articulate
+2
+'Plausible' - членораздельный, убедительный
+
+I didn’t realise it was ... an interesting book.
+such
+so
+1
+Перед прилагательным + существительным ставим 'such'
+
+We live in ... house.
+quite an old
+a quite old
+1
+'Quite' ставится перед артиклем 'a/an'
+
+My friend has ... good job.
+pretty a
+a pretty
+2
+'Pretty' ставится после артикля 'a/an'
+
+Выкладывай!
+Spit it out
+Hit it off
+1
+'Hit it off' - поладить, сойтись
+
+Ликующий:
+Libel
+Elated
+2
+'Libel' - клевета
+
+Трудная задача, чрезмерное требование:
+Tall order
+Hard order
+1
+Правильная идиома - 'tall order'
+
+... weather is very changeable.
+Britain
+Britain’s
+2
+С местами возможно использовать притяжательный падеж
+
+What’s ... who you met?
+the man’s name
+the name of the man
+2
+Фраза 'the man who you met' - единое целое и очень длинная. В таком случае нельзя использовать притяжательный падеж и разбивать тоже нельзя
+
+The ... changing room is over there.
+men’s
+mens’
+1
+Если существительное во множественном числе является исключением и не заканчивается на -s, мы ставим -s'
