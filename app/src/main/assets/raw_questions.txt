@@ -4245,3 +4245,117 @@ Can you spend me a minute?
 Can you spare me a minute?
 2
 Правильное выражение: 'spare a minute' - уделить минуту. 'Spend time' - тратить время, проводить время
+
+Молоко испортилось.
+The milk has gone bad.
+The milk has gone unwell.
+1
+Правильный ответ - 'The milk has gone bad'. '(To) go bad' - испортиться, протухнуть
+
+Современные дети приклеены к телефонам.
+Modern children are susceptible to their phones.
+Modern children are glued to their phones.
+2
+'Susceptible to sth.' - восприимчивый к чему-то. 'Glued to sth.' - приклеенный к чему-то
+
+Она поведала о своих сожалениях.
+She poured off her regrets.
+She poured out her regrets.
+2
+'(To) pour out to sb.' - всё выложить, рассказать в подробностях, поведать
+
+Every time I remember it I feel ...
+a pain of guilt.
+a pang of guilt.
+2
+Устойчивое словосочетание - 'a pang of guilt'
+
+Why are you so sad?
+I fell off with my boyfriend.
+I fell out with my boyfriend.
+2
+'(To) fall out with sb.' - поссориться, разорвать отношения
+
+The film’d started when we got to the cinema.
+Сначала начался фильм, потом мы добрались до кинотеатра.
+Сначала мы добрались до кинотеатра, потом начался фильм.
+1
+Время Past Perfect указывает на предшествующие действия, которые произошли до какого-то момента в прошлом
+
+If I fail the exam, ...
+I'll kick myself later.
+I'll drag my feet later.
+1
+'To kick oneself' - корить себя. 'To drag one's feet' - затягивать что-то, устраивать проволочку (не подходит по смыслу)
+
+I was tired because I ...
+have been driving for five hours.
+had been driving for five hours.
+2
+Первая часть предложения ('I was tired') указывает на ситуацию в прошлом, связи с настоящим нет, Present Perfect Continuous нельзя использовать
+
+Where is your car?
+It is repaired.
+It’s being repaired.
+2
+Ситуация временная, машину сейчас чинят - требуется Present Continuous Passive.
+
+We ... to the same hotel for ten years.
+'ve gone
+'ve been going
+2
+Для повторяющихся действий с какого-то момента в прошлом до настоящего времени используется Present Perfect Continuous.
+
+You’ll ... up in prison.
+find
+wind
+2
+'Wind up' - оказаться в каком-то положении
+
+Где книга прочитана не полностью?
+I was reading a book on the plane.
+I read a book on the plane.
+1
+Past Simple применяется для завершенных в прошлом действий. Past Continuous указывает на то, что действие не было полностью завершено в прошлом. В 1-ом предложении я читал книгу, но не закончил её. Во 2-м предложении вся книга была прочитана
+
+Я привык вставать рано.
+I used to get up early.
+I’m used to getting up early.
+2
+Конструкция 'I used to do sth.' используется для действий и ситуаций, которые выполнялись/существовали в прошлом, но сейчас уже не существуют. Конструкция 'I’m used to doing sth.' означает 'я привык к чему-то или делать чего-то'
+
+Почему он уволился с работы?
+Why did he resign from his job?
+Why did he fire from his job?
+1
+'To resign' - уволиться самому, уйти в отставку. 'To fire' - уволить кого-то
+
+We ... of moving to Moscow.
+think
+'re thinking
+2
+Если глагол 'think' означает 'считать, полагать', он не может использоваться в Present Continuous. Если глагол 'think' означает 'обдумывать, думать, подумывать (то есть умственную деятельность, размышление, обдумывание), то он может употребляться во временах группы Continuous. В примере как раз 2-ой случай - 'мы подумываем о переезде в Москву'
+
+Where did you ... the coronavirus?
+contract
+contact
+1
+Правильный ответ - contract (заразиться, подхватить болезнь)
+
+We've spent all our money.
+We're broke.
+We're broken.
+1
+'Broke' - без гроша в кармане. 'Broken' - сломанный
+
+Why are you out of breath?
+Have you run?
+Have you been running?
+2
+Нужен Pr.Perf.Continuous - фокус на действии, которое разворачивалось с прошлого момента и только что прекратилось. В Pr.Perfect фокус не на продолжающемся действии, а на результате и завершённости
+
+Have you already finished the article?
+Предложение грамматически верно
+Предложение грамматически неверно
+1
+Если мы выражаем удивление из-за того, что что-то произошло раньше ожидаемого времени, в вопросе ставится 'already'. Если мы действительно задаём вопрос и ждём ответа 'да/нет', то нужно использовать 'yet'
