@@ -4143,3 +4143,105 @@ to have
 have
 2
 В вопросах, начинающихся с 'why not', используется инфинитив без частички 'to'
+
+You’d better ... this contract immediately.
+to sign
+sign
+2
+После 'had better' ставится инфинитив без частички 'to'
+
+Fortunately the car driver wasn’t ... in the accident.
+damaged
+injured
+2
+Правильный вариант - 'injured'. Когда мы говорим про людей, то используется глагол 'injure' (ранить, повредить, причинить вред кому-то)
+
+Our car was badly ... in the accident.
+damaged
+injured
+1
+Правильный вариант - 'damaged'. Когда мы говорим про вещи, то используется глагол 'damage' (нанести ущерб/вред, повредить)
+
+But there was a lot of ... to the bike.
+injuries
+damage
+2
+Правильный вариант - 'damage'. Когда мы говорим про вещи, то используется слово 'damage' (повреждение, ущерб)
+
+We enjoyed our holiday ... the rain.
+despite of
+in spite of
+2
+Правильный вариант - 'in spite of'. Можно использовать 2 варианта - 'in spite of' (с предлогом 'of') и 'despite' (без предлога 'of')
+
+We went out ... the rain.
+in spite
+despite
+2
+Правильный вариант - 'despite'. Можно использовать 2 варианта - 'in spite of' (с предлогом 'of') и 'despite' (без предлога 'of')
+
+We have a little time before the train leaves.
+We can go and have a coffee.
+We can’t have a coffee.
+1
+'We can go and have a coffee' - правильный вариант. 'A little' означает положительную идею, наличие какого-то положительного количества
+
+She’s lucky. She has ... problems.
+a few
+few
+2
+'She has few problems' - правильный вариант. 'Few' означает отрицательную идею - мало, практически нет. 'A few' означает положительную идею, наличие какого-то положительного количества
+
+Я ненавижу, когда меня заставляют ждать.
+I hate waiting.
+I hate being kept waiting.
+2
+Меня заставляют ждать другие люди, требуется пассивная конструкция
+
+When I ... shopping, I’ll buy some food.
+go
+will go
+1
+В придаточных предложениях времени не используется Future Simple. Вместо него в большинстве случаев используется время Present Simple
+
+When I ... my homework, we can go for a walk.
+will do
+‘ve done
+2
+В придаточных предложениях времени не используется Future Simple. Чаще всего используется Present Simple. Если одно действие должно быть совершено до начала другого, также можно использовать Present Perfect
+
+He talks as if he ... everything.
+knows
+knew
+2
+Правильный ответ - 'knew'. Ситуация нереальная (человек не может знать всё), используем время Past Simple
+
+I left my phone switched on ... my boss called.
+if
+in case
+2
+Правильный ответ - 'in case'. Мы используем 'in case' (на случай, если), когда мы делаем что-то сейчас на тот случай, если что-то произойдёт позднее
+
+What ... beautiful scenery!
+a
+No article
+2
+'Scenery' - неисчислимое существительное, артикль 'a' не ставится
+
+- Is he American?
+- I don't think so.
+- I think not.
+1
+'I don't think so' - правильный ответ. После глагола 'think' используется 'so', когда мы не хотим повторять информацию
+
+There was nobody to disturb him, so he ... finish his work.
+could
+was able to
+2
+Правильный ответ - 'was able to'. В прошедшем времени 'could' используется для обозначения общей способности во всех ситуациях, а 'to be able to' - когда речь идёт о конкретном одном случае
+
+Не могли бы вы уделить мне минуту?
+Can you spend me a minute?
+Can you spare me a minute?
+2
+Правильное выражение: 'spare a minute' - уделить минуту. 'Spend time' - тратить время, проводить время
