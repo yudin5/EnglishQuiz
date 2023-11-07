@@ -4036,7 +4036,7 @@ must sleep
 1
 Действие разворачивается во время речи. Используем Continuous Infinitive
 
-Why didn’t they reply to my letter? They... received it.
+Why didn’t they reply to my letter? They ... received it.
 might not have
 might have not
 1
@@ -4047,3 +4047,99 @@ must have been
 can’t have been
 1
 Мы используем модальный глагол 'must', когда мы уверены в чём-то. Его можно переводить как 'должно быть'
+
+They haven’t contacted us. They ... my message.
+must have got
+can’t have got
+2
+Мы используем модальный глагол can't, когда мы считаем, что что-то невозможно. Его можно переводить как 'не может быть'
+
+Don’t disturb him. He ... for his exam.
+must be studying
+must study
+1
+Действие разворачивается в настоящий момент. Используем must + Continuous Infinitive
+
+We have to wait an hour for the bus. We ... as well get a taxi.
+might
+can
+1
+Когда мы говорим, что нужно что-то сделать, потому что нет лучшей альтернативы, мы используем конструкцию may/might as well (почему бы и не/с таким же успехом можно было бы). 'Can' использовать нельзя
+
+I’m not sure but I ... be late tomorrow.
+must
+may
+2
+'Must' означает вероятность, уверенность в чём-то. 'May' и 'might' означают возможность чего-то. Из контекста видно, что имеется в виду возможность
+
+If I were you, I ... take this job.
+may
+might
+2
+В большинстве случаев 'may' и 'might' взаимозаменимы. Но в нереальных ситуациях 'may' не используется, нужен 'might'. Здесь как раз нереальная ситуация
+
+- Do you want to stay longer? - I’m bored. We ... as well leave now.
+can
+may
+2
+Конструкция имеет 2 варианта - 'might as well' или 'may as well'. 'Can' использовать нельзя
+
+We are saving up for our holiday. We ... paint the bedroom ourselves.
+might as well to
+might as well
+2
+После конструкции 'might as well' идёт инфинитив без частицы 'to'
+
+The air fare is very high. We ... go by train.
+as well
+might as well
+2
+'As well' переводится как 'тоже, также' (как и наречия 'also' и 'too') и ставится в конце предложения. Оно здесь не подходит по смыслу и грамматически
+
+..., I couldn’t pass the exam.
+Try as I might
+I might as well
+1
+'Try as I might' переводится как 'как бы я ни старался'. Конструкция 'might as well' не подходит по смыслу
+
+Why did you go there on your own? You ... me to come with you.
+might as well ask
+might as well have asked
+2
+Ситуация относится к прошлому, после конструкции 'might as well' необходимо использовать Perfect Infinitive ('have asked')
+
+We’re going swimming ... sightseeing in Greece.
+might as well
+as well as
+2
+Здесь 'might as well' не подходит по смыслу. Надо использовать 'as well as' (а также)
+
+The film was boring. We ... to the party.
+might as well go
+might as well have gone
+2
+Ситуация относится к прошлому. Необходимо использовать 'might as well' + Perfect Infinitive ('might as well have gone')
+
+It’s ... I took an umbrella. It’s going to rain.
+just as well
+might as well
+1
+Конструкция 'just as well' переводится как 'очень кстати, что; хорошо, что'. Конструкция 'might as well' не подходит ни по смыслу, ни грамматически
+
+I’m not very good ... snowboarding.
+in
+at
+2
+Правильный предлог 'at' в выражении 'to be good at sth.' (быть способным к чему-то; уметь что-то хорошо делать)
+
+He was the last ... to the meeting.
+to come
+came
+1
+После слов 'first', 'last', 'second', 'next' и т.д. используется инфинитив с частичкой 'to'
+
+Why not ... something to eat?
+to have
+have
+2
+В вопросах, начинающихся с 'why not', используется инфинитив без частички 'to'
