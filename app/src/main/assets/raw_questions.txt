@@ -4359,3 +4359,196 @@ Have you already finished the article?
 Предложение грамматически неверно
 1
 Если мы выражаем удивление из-за того, что что-то произошло раньше ожидаемого времени, в вопросе ставится 'already'. Если мы действительно задаём вопрос и ждём ответа 'да/нет', то нужно использовать 'yet'
+
+I really ... his story.
+fell over
+fell for
+2
+'Fall for sth.' - поверить, купиться на что-то. 'Fall over sth.' - споткнуться, наткнуться, свалиться
+
+Все были пьяны в стельку на вечеринке.
+Everybody was worked up at the party.
+Everybody was wasted at the party.
+2
+'Wasted' - пьяный в стельку. 'Worked up' - взвинченный, взволнованный
+
+It’s time to get up!
+Raise and shine!
+Rise and shine!
+2
+'Rise' - подниматься, вставать (кто-то или что-то само поднимается). 'Raise' - поднимать, повышать что-то (когда кто-то совершает действие над чем-то)
+
+His business went ... last year.
+bust
+rust
+1
+'To go bust' - разориться, прогореть
+
+Я живу здесь всю свою жизнь.
+I live here all my life.
+I’ve lived here all my life.
+2
+Имеется в виду промежуток времени с какого-то момента в прошлом по настоящий момент - необходимо использовать Present Perfect
+
+I was deprived ... sleep for three days.
+with
+of
+2
+Глагол 'deprive' (лишать) употребляется с предлогом 'of'
+
+It’s been raining ... all morning.
+for
+no preposition needed
+2
+Перед 'all' предлог 'for' не ставится
+
+Небо заволокло облаками.
+The sky has clouded over.
+The sky has clouded down.
+1
+'(To) cloud over' - заволакиваться (о небе), покрываться облаками
+
+We need to clarify the situation.
+I want to talk down to him.
+I want to have it out with him.
+2
+'(To) have it out with sb.' - объясниться, выяснить с кем-то отношения. '(To) talk down to sb.' - говорить с кем-то свысока/надменно
+
+We can have dinner as soon as ... .
+I will call my parents.
+I have called my parents.
+1
+В придаточных предложениях времени не используется Future Simple. Необходимо использовать настоящие времена - чаще всего Present Simple. Также можно использовать Present Perfect, но только если имеется предшествование, то есть необходимо сначала завершить одно действие прежде, чем начнётся другое (как раз случай из нашего вопроса)
+
+Our house was badly ... by the flood.
+affected
+effected
+1
+'To affect' - глагол. 'An effect' - существительное. Соответственно, 'effect' никогда не используется в качестве глагола
+
+Я бы хотел пригласить ее на свидание.
+I'd like to go out with her.
+I'd like to ask her out.
+2
+'To ask sb out' - пригласить куда-то, особенно в целях романтических отношений. Выражение 'to go out with sb.' означает встречаться с кем-то (т.е. иметь романтические отношения). Когда речь идёт про одно свидание, лучше использовать 'ask out'
+
+I gave her ... good advice.
+a
+some
+2
+'Advice (совет)' - неисчислимое существительное в английском языке. С ним нельзя использовать неопределенный артикль 'the', но можно использовать 'some/any'. 'Advice' - существительное, 'to advise' - глагол
+
+The company seems to ... a lot of money last year.
+lose
+have lost
+1
+Действие, выраженное инфинитивом ('have lost'), произошло раньше действия, выраженного основным глаголом ('seem'), поэтому требуется Perfect Infinitive
+
+Tears ... in my eyes.
+got up
+welled up
+2
+'(To) well up' - навертываться (о слезах), вскипать (об эмоциях)
+
+Не могли бы вы сделать радио погромче, пожалуйста?
+Could you turn the radio on please?
+Could you turn the radio up please?
+2
+'Turn on' - включать, 'turn up' - делать погромче
+
+Должно быть, она работает.
+She might be working.
+She must be working.
+2
+Модальный глагол 'might' употребляется для выражения неуверенности, возможности. Модальный глагол 'must' выражает уверенность в чём-то
+
+All the stress at work is ... me down.
+wearing
+slowing
+1
+'Slow down' - замедлять, сбавлять скорость. 'Wear down' - изнурять, изматывать
+
+Why did you stay at the hotel?
+You could have stayed with us.
+You could stay with us.
+1
+Речь идёт о прошлом, совершённом действии, необходимо использовать перфектный инфинитив. В данном случае 'could' + перфектный инфинитив показывают, что кто-то что-то мог сделать, а на самом деле не сделал
+
+Современные авторы упрощают многие идеи.
+Modern authors dumb down a lot of ideas.
+Modern authors stand down a lot of ideas.
+1
+'Dumb down' - упрощать, делать понятным. 'Stand down' - уйти в отставку, отказаться от поста
+
+Нет смысла пытаться убедить его.
+It’s no good trying to persuade him.
+It’s no point in trying to persuade him.
+1
+Во 2-й фразе грамматическая ошибка, она правильно употребляется в следующем виде - 'there's no point in doing sth.'. Обе фразы имеют схожее значение и их можно перевести 'нет смысла, бесполезно делать что-то'
+
+Делай, как считаешь нужным!
+Fit yourself!
+Suit yourself!
+2
+Выражения 'fit yourself' нет
+
+Children, behave ...!
+yourself
+yourselves
+2
+Обращаемся к нескольким детям - необходимо использовать форму множественного числа местоимения - 'yourselves'
+
+... , tell me the truth.
+For Pete’s sake
+For John’s sake
+1
+Правильное выражение - 'For Pete’s sake' (ради всего святого)
+
+The coat needs ... .
+dry-cleaning
+to dry-clean
+1
+'It needs doing' - пассивная конструкция, употребляется, когда с какой-то вещью нужно что-то сделать
+
+Ей пора его бросить.
+It’s time she dumped him.
+It’s time she bumped into him.
+2
+'Dump sb.' - бросить (в отношениях). 'Bump into sb.' - наткнуться, натолкнуться на кого-то
+
+Он сделал музыку громче.
+He turned the music up.
+He turned the music out.
+2
+'Turn up' - делать громче. 'Turn out' - оказаться, получиться в итоге
+
+Do you approve ... smoking?
+in
+of
+2
+Глагол 'approve' (одобрять, считать правильным) используется с предлогом 'of'
+
+Он тебя разыгрывает.
+He’s pulling your arm.
+He’s pulling your leg.
+2
+Идиома 'pull one’s leg' - подшучивать, дурачить, водить за нос
+
+
+I use it for ...
+washing the dishes.
+wash the dishes.
+1
+'For' - предлог, после него требуется герундий (глагол с '-ing'). Также можно использовать инфинитив глагола, но с частицей 'to' - 'I use it to wash the dishes'
+
+Our client turned ... our offer.
+off
+down
+2
+'Turn off' - выключить. 'Turn down' - отклонять, отвергать, отказываться
+
+Can you turn off ... ?
+television
+the television
+2
+Слово 'television' означает не только абстрактное понятие 'телевидение' (в этом случае оно употребляется без артикля), но и устройство 'телевизор' и требует употребление артикля. Мы имеем в виду конкретный телевизор, который мы смотрим, поэтому употребляемся артикль 'the'
