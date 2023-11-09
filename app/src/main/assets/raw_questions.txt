@@ -4534,7 +4534,6 @@ He’s pulling your leg.
 2
 Идиома 'pull one’s leg' - подшучивать, дурачить, водить за нос
 
-
 I use it for ...
 washing the dishes.
 wash the dishes.
@@ -4552,3 +4551,171 @@ television
 the television
 2
 Слово 'television' означает не только абстрактное понятие 'телевидение' (в этом случае оно употребляется без артикля), но и устройство 'телевизор' и требует употребление артикля. Мы имеем в виду конкретный телевизор, который мы смотрим, поэтому употребляемся артикль 'the'
+
+Did you ... the tolerance in your calculations?
+allow for
+allow in
+2
+'Allow for sth.' - учитывать, принимать во внимание, делать поправку на что-то
+
+Ten kilometres ... very far to walk.
+are
+is
+2
+Расстояния рассматриваются как одно целое, необходимо использовать глагол в единственном числе
+
+Your future is ... stake.
+on
+at
+2
+'At stake' - на кону, поставлено на карту, под угрозой
+
+The police ... investigating the robbery.
+are
+is
+1
+Со словом 'police' используется глагол в форме множественного числа
+
+Они прибыли в целости и сохранности.
+They arrived safe and sound.
+They arrived good and safe.
+1
+Устойчивое словосочетание - 'safe and sound' - цел и невредим, в целости и сохранности
+
+We went out without ... cash.
+some
+any
+2
+Значение предложения отрицательное, поэтому используем 'any'
+
+It’s no skin off my ... if I fail the exam.
+nose
+mouth
+1
+'It’s no skin off my nose.' - Мне до этого нет дела; меня это не волнует
+
+I speak ... English, so I was able to understand him.
+little
+a little
+2
+'Little' - мало, немного (негативное значение - недостаточно). 'A little' - мало, немного (положительное значение - достаточно). В примере человек смог объясниться на английском, имеющегося уровня оказалось достаточно. Значение положительное, используем 'a little'
+
+There are three good hotels in this town.
+You can stay at either of them.
+You can stay at any of them.
+2
+'Either' применимо только к 2 вещам, 'any' используется, когда вещей больше, чем 2
+
+His explanation seems ... .
+deprived
+plausible
+2
+'Plausible' - правдоподобный, вполне убедительный, внушающий доверие. 'Deprived' - обездоленный, лишенный
+
+We must solve this problem ... .
+one and for all
+once and for all
+2
+'Once and for all' - раз и навсегда, окончательно и бесповоротно
+
+I’m sorry ... you so late but I need to tell you something important.
+for calling
+to call
+2
+Мы говорим 'sorry to do sth' в том момент, когда осуществляем действие, за которое мы извиняемся. Мы говорим 'sorry for doing sth', когда извиняемся за ранее совершенные поступки. В нашем случае говорящий извиняется за то, что он делает сейчас (звоним поздно), поэтому применим 1-ый случай
+
+Не бери в голову!
+Lighten up!
+Make it easy!
+1
+'Lighten up!' - 'Успокойся! Не бери в голову!'. Также есть выражение с аналогичным смыслом 'Take it easy!' (Не бери в голову!)
+
+They arrived ... New York a few days ago.
+to
+in
+2
+С глаголом 'arrive' не используется предлог 'to'. 'Arrive in' + город, страна. 'Arrive at' - все остальные места
+
+My ex called me ... .
+in the blue
+out of the blue
+2
+Идиома 'out of the blue' - неожиданно, как гром среди ясного неба
+
+Where’s the light switch?
+On the door
+By the door
+2
+Одно из значений предлога 'by' - 'у, рядом с, около'. Предлог 'on' - 'на, на поверхности'. Выключатель находится у двери, поэтому используем предлог 'by'
+
+... people spend a lot of time at home.
+Elderly
+Elder
+1
+'Elderly' - пожилой, престарелый. 'Elder' (старший) используется, когда говорим о людях, которые принадлежат к одной семье (дети, братья, сёстры). Например, 'my elder brother' - мой старший брат
+
+My colleague ... the project again!
+turned off
+screwed up
+2
+'(To) screw up' - накосячить, давать промашку, облажаться. '(To) turn off' - выключать
+
+I can’t stand him.
+He always complains.
+He’s always complaining.
+2
+Мы используем 'always' + Present Continuous вместо Present Simple, когда хотим подчеркнуть, что что-то происходит настолько часто, что это не является нормальным и говорящего это раздражает
+
+They seemed to be getting on really well.
+But they’ve started drifting apart.
+But they’ve started putting off.
+1
+'(To) drift apart' - отдаляться, становиться чужими, разойтись. '(To) put off' - откладывать, отсрочивать
+
+Was your friend at the party when you arrived?
+No, he already left.
+No, he’d already left.
+2
+Мы ссылаемся на действие, которое произошло раньше другого события в прошлом, нарушая хронологию событий - нужен Past Perfect. Когда человек пришёл на вечеринку (действие в прошлом), его друг уже ушел домой (действие в более далёком прошлом)
+
+When we finally got home, we were ... .
+vanished
+famished
+2
+'Famished' - сильно проголодавшийся, умирающий с голоду. 'Vanished' - исчезнувший, пропавший
+
+I ... wear a suit to work but I do.
+mustn’t
+don’t have to
+2
+'Mustn’t' - важно это не делать, тебе это делать нельзя. 'Don’t have to' - это необязательно делать, но ты можешь, если захочешь
+
+During the winning ... the team won six matches.
+stripe
+streak
+2
+'Winning streak' - полоса везения, череда побед (это устойчивое словосочетание)
+
+Если мы получим больше информации, мы свяжемся с вами.
+If we should get more information, we’ll contact you.
+If we’ll get more information, we’ll contact you.
+1
+Второй вариант ответа неверный - в придаточных времени и условия не употребляется Future Simple. Но конструкцию с 'should' можно использовать. Её употребление показывает, что говорящий меньше уверен в вероятности наступления этого события
+
+It’s only a ... of time before she leaves him.
+matter
+issue
+1
+Правильная идиома - 'Only a matter of time before' - это только вопрос времени
+
+Его племянник - такой скользкий тип.
+His nephew is such a hotshot.
+His nephew is such a slimeball.
+2
+'A slimeball' - скользкий тип, лицемер, неискренний человек. 'A hotshot' - важная птица, умник, успешный человек
+
+I’d better leave now, ... I?
+wouldn’t
+hadn’t
+2
+'’d better' = 'had better', поэтому и во второй части разделительного вопроса используем 'had'
