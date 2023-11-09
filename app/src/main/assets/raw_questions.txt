@@ -4719,3 +4719,123 @@ wouldn’t
 hadn’t
 2
 '’d better' = 'had better', поэтому и во второй части разделительного вопроса используем 'had'
+
+Перестань себя терзать!
+Stop beating up!
+Stop beating yourself up!
+2
+В этой фразе необходимо использовать возвратное местоимение.
+
+I remember ... the TV before I left.
+turning off
+to turn off
+1
+Мы говорим 'remember doing sth.' (Gerund), когда вспоминаем о действии, которое уже совершили (я помню, как это делал). 'Remember to do sth.' (Infinitive) употребляется, когда мы вспоминаем о том, что нужно сделать что-то до того, как мы это действие выполняем (я вспомнил, что нужно что-то сделать)
+
+I moved here five years back.
+Ошибок нет
+Нужно использовать 'ago' вместо 'back'
+1
+В неформальном контексте вместо 'ago' можно использовать 'back'
+
+Имеет смысл заводить новых друзей.
+It pays to make new friends.
+It costs to make new friends.
+1
+'It pays to do sth.' - имеет смысл, стоит, не будет лишним делать что-то
+
+Can you swing ... after work?
+in
+by
+2
+'(To) swing by' - заскочить, заехать
+
+He insisted ... paying the bill.
+on
+in
+1
+Глагол 'insist' (настаивать) употребляется с предлогом 'on'
+
+His popularity continues to ... .
+boot up
+go downhill
+2
+'(To) go downhill' - ухудшаться. '(To) boot up' - запускать, загружать (н-р, компьютер)
+
+I could smell our dinner ... .
+burn
+burning
+2
+После 'see', 'hear', 'watch', 'smell' употребляется инфинитив без частицы 'to', когда действие выполняется полностью от начала и до конца. Герундий используется, когда мы видим, слышим и т.д. неполное действие
+
+Are you used to ... alone?
+living
+live
+1
+В выражении 'to be used to doing sth.' (привыкнуть к чему-то) 'to' - это предлог, после него требуется герундий
+
+Я бы не отказался от чашечки кофе.
+I could do with a cup of coffee.
+I could do without a cup of coffee.
+1
+'Could do with sth.' - не отказался бы от чего-либо
+
+The company is going to ... 500 jobs next year.
+slash
+gash
+2
+'(To) slash' - резать, глубоко ранить, хлестать. В разговорном англ. также употребляется в значении 'сокращать'. Как раз это значение и требуется по смыслу в задании
+
+What is your new boss like?
+He’s tall and slim.
+He’s quite moody.
+2
+Чтобы спросить о внешности, необходимо задать вопрос 'What does he look like?' (Как он выглядит?). Вопрос 'What is he like?' (Что он за человек?) задаётся, когда мы хотим узнать о характере человека
+
+It was hard for me to avoid ... my children.
+to spoil
+spoiling
+2
+После глагола 'avoid' (избегать) используется герундий
+
+I didn’t like the broccoli.
+It was cooked for too long.
+It had been cooked for too long.
+2
+Мы упоминаем событие из более отдалённого прошлого. Брокколи готовили до того, как я её попробовал и она мне не понравилась. Необходимо использовать Past Perfect Passive
+
+If you will take your seats, we will start the meeting.
+ошибка - после 'if' нельзя ставить 'will' в этом случае
+ошибки нет - после 'if' можно поставить 'will'
+2
+После 'if' можно поставить 'will/would' для выражения вежливой просьбы
+
+His business finally started to ... .
+sort out
+take off
+2
+'(To) take off' - пойти в гору, становиться успешным. '(To) sort out' - решать, устранять (проблемы, недоразумения)
+
+This news has ... my day.
+done
+made
+2
+'(To) make one's day' - порадовать, поднять настроение
+
+She ... in this bank for years. She really likes this job.
+has been working
+had been working
+1
+2-е предложение указывает на связь с настоящим. Действие происходит с какого-то момента в прошлом до настоящего момента или только что закончилось - необходимо использовать Present Perfect Continuous
+
+Это рай на земле.
+It's paradise in heaven.
+It's heaven on earth.
+2
+'heaven on earth' - рай на земле
+
+What age group was the book aimed ... ?
+on
+at
+2
+'(To) aim at sth.' - нацеливаться на что-то, стремиться к чему-то
