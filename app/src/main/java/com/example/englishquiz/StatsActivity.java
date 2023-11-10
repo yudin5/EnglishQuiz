@@ -47,13 +47,17 @@ public class StatsActivity extends AppCompatActivity {
         rightQuestionsDescription = findViewById(R.id.right_questions_description);
         rightQuestionsDescription.setText("Правильных ответов:");
 
+        // Всего задано вопросов
         questionAskedAllTime = findViewById(R.id.question_asked_all_time);
-        int questionsAskedAllTime = questionDbHelper.getQuestionsAskedAllTime();
+//        int questionsAskedAllTime = questionDbHelper.getQuestionsAskedAllTime();
+        int questionsAskedAllTime = statDbHelper.getStatistics().getTotalAnswers();
         questionAskedAllTime.setText(String.valueOf(questionsAskedAllTime));
 
+        // Из них правильных
         correctAnswersQty = findViewById(R.id.correct_answers_qty_text_view);
         int correctAnswers = statDbHelper.getStatistics().getCorrectAnswers();
 
+        // % правильных
         double percentRightQuestions = 0.0;
         if (questionsAskedAllTime != 0) { // защищаемся от деления на 0
             percentRightQuestions = (double) correctAnswers / questionsAskedAllTime * 100;

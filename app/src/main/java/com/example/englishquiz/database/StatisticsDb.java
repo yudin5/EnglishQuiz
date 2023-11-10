@@ -2,9 +2,9 @@ package com.example.englishquiz.database;
 
 public class StatisticsDb {
 
-
     private int id;
-    private int correctAnswers;
+    private int totalAnswers; // Всего задано вопросов пользователю
+    private int correctAnswers; // Дано правильных ответов
 
     public StatisticsDb() {
     }
@@ -25,10 +25,19 @@ public class StatisticsDb {
         this.correctAnswers = correctAnswers;
     }
 
+    public int getTotalAnswers() {
+        return totalAnswers;
+    }
+
+    public void setTotalAnswers(int totalAnswers) {
+        this.totalAnswers = totalAnswers;
+    }
+
     @Override
     public String toString() {
         return "StatisticsDb{" +
                 "id=" + id +
+                ", totalAnswers=" + totalAnswers +
                 ", correctAnswers=" + correctAnswers +
                 '}';
     }
