@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 public class QuestionDbHelper extends SQLiteOpenHelper {
 
     public static final String DB_NAME = "questions.db";
-    public static final int VERSION = 1;
+    public static final int VERSION = 2;
     public static final String TABLE_NAME = "questions";
 
     // Столбцы таблицы
